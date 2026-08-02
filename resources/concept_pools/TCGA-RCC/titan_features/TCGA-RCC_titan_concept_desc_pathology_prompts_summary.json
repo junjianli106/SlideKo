@@ -1,0 +1,26 @@
+{
+  "dataset": "TCGA-RCC",
+  "input_csv": "llm_filtered/TCGA-RCC/final_task_concept_pool_patch_desc.csv",
+  "embedding_path": "llm_filtered/TCGA-RCC/titan_features/TCGA-RCC_titan_concept_desc_pathology_prompts_embeddings.pt",
+  "metadata_path": "llm_filtered/TCGA-RCC/titan_features/TCGA-RCC_titan_concept_desc_pathology_prompts_metadata.csv",
+  "model_name": "MahmoodLab/TITAN",
+  "include_patch_description": true,
+  "description_column": "patch_visual_description_20x",
+  "prompt_mode": "pathology_templates",
+  "prompt_templates": [
+    "a histopathology slide showing features of {text}",
+    "microscopic analysis of {text}",
+    "H&E stain clearly indicates {text}",
+    "a region of interest featuring {text}",
+    "tissue sample with presence of {text}",
+    "cellular patterns characteristic of {text}",
+    "pathological findings are consistent with {text}"
+  ],
+  "concept_count": 483,
+  "embedding_shape": [
+    483,
+    768
+  ],
+  "normalized": true,
+  "batch_size": 128
+}

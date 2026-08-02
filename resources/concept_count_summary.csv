@@ -1,0 +1,9 @@
+﻿stage,dataset,count,notes
+Original Quilt1M concepts,All,156214,unique rows in raw_concepts_frequency.csv
+Original Quilt1M mentions,All,3554825,sum of raw frequency
+UMLS mapped concepts,All,131862,mapped before semantic filtering/CUI dedup
+After UMLS semantic filtering + CUI dedup,All,5754,input pool for domain-specific filtering
+Domain-specific final concepts,CAMELYON16,534,final_task_concept_pool.csv after LLM filtering/adjudication
+Domain-specific final concepts,NSCLC,688,final_task_concept_pool.csv after LLM filtering/adjudication
+Domain-specific final concepts,RCC,483,final_task_concept_pool.csv after LLM filtering/adjudication
+Domain-specific final concepts,UBC,490,final_task_concept_pool.csv after LLM filtering/adjudication

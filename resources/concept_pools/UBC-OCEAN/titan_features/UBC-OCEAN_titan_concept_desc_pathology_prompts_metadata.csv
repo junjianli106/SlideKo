@@ -1,0 +1,491 @@
+﻿dataset,row_idx,concept,encoded_text
+UBC-OCEAN,0,lymphocytes,"lymphocytes: Small round blue cells with scant cytoplasm and dense nuclei, often in clusters or scattered."
+UBC-OCEAN,1,blood vessels,"blood vessels: Tubular structures lined by flattened endothelial cells, containing red blood cells."
+UBC-OCEAN,2,inflammation,"inflammation: Mixed leukocytes including neutrophils, lymphocytes, and macrophages within tissue."
+UBC-OCEAN,3,plasma cells,plasma cells: Clock-face chromatin nuclei with eccentric basophilic cytoplasm and perinuclear hof.
+UBC-OCEAN,4,fibrosis,"fibrosis: Pink collagenous bands replacing normal architecture, often hypocellular and hyalinized."
+UBC-OCEAN,5,epithelium,epithelium: Cohesive sheets or layers of polygonal cells with distinct cell borders and basal nuclei.
+UBC-OCEAN,6,inflammatory cells,"inflammatory cells: Variably shaped nuclei with condensed chromatin and scant to moderate cytoplasm, scattered in tissue."
+UBC-OCEAN,7,histiocytes,"histiocytes: Large cells with abundant pale cytoplasm and oval or kidney-shaped nuclei, sometimes foamy."
+UBC-OCEAN,8,connective tissue,connective tissue: Pink fibrous matrix with scattered spindle-shaped fibroblasts between small vessels.
+UBC-OCEAN,9,fibroblasts,fibroblasts: Spindle-shaped cells with elongated nuclei and tapering cytoplasm embedded in collagen.
+UBC-OCEAN,10,mitotic figures,"mitotic figures: Darkly staining condensed chromosomes arranged in metaphase, anaphase, or telophase patterns."
+UBC-OCEAN,11,mitotic activity,"mitotic activity: Multiple cells with chromosomal condensation and lack of nuclear envelope, indicating division."
+UBC-OCEAN,12,lesion,lesion: Circumscribed area of altered tissue architecture and cellularity compared to surroundings.
+UBC-OCEAN,13,tumor,"tumor: Abnormal proliferation of cells forming a mass, often with pleomorphism and high mitotic rate."
+UBC-OCEAN,14,hemorrhage,"hemorrhage: Extravasated red blood cells outside vessels, appearing as bright eosinophilic discoid cells."
+UBC-OCEAN,15,basement membrane,"basement membrane: Thin pink homogenous line at the epithelial-stromal interface, best seen at high power."
+UBC-OCEAN,16,endothelial cells,"endothelial cells: Flattened cells lining vascular spaces, with elongated nuclei and minimal cytoplasm."
+UBC-OCEAN,17,tumor cells,"tumor cells: Neoplastic cells with enlarged nuclei, prominent nucleoli, and irregular shapes, often forming nests."
+UBC-OCEAN,18,glands,"glands: Round to oval luminal structures lined by columnar epithelium, often with apical vacuoles."
+UBC-OCEAN,19,stroma,"stroma: Supporting connective tissue between glands or tumor nests, containing fibroblasts and vessels."
+UBC-OCEAN,20,pleomorphism,"pleomorphism: Variation in nuclear size, shape, and staining intensity among neighboring cells."
+UBC-OCEAN,21,macrophages,"macrophages: Large cells with vesicular nuclei and abundant granular or vacuolated cytoplasm, sometimes containing debris."
+UBC-OCEAN,22,epithelioid cells,"epithelioid cells: Polygonal cells with abundant eosinophilic cytoplasm and round nuclei, resembling epithelial cells."
+UBC-OCEAN,23,atypia,"atypia: Nuclear enlargement, hyperchromasia, irregular contours, and prominent nucleoli deviating from normal."
+UBC-OCEAN,24,epithelial cells,"epithelial cells: Cuboidal or columnar cells forming cohesive sheets or glands, with basal nuclei and distinct borders."
+UBC-OCEAN,25,collagen fibers,"collagen fibers: Thick pink fibrillar bundles in the stroma, often with a wavy structure."
+UBC-OCEAN,26,fibrous tissue,"fibrous tissue: Dense eosinophilic collagenous stroma with few fibroblasts, often appearing hyalinized."
+UBC-OCEAN,27,capillaries,"capillaries: Small vascular channels lined by single endothelial cells, containing occasional red blood cells."
+UBC-OCEAN,28,adenocarcinoma,"adenocarcinoma: Malignant gland-forming proliferation with nuclear atypia, back-to-back glands, and stromal invasion."
+UBC-OCEAN,29,inflammatory infiltrate,"inflammatory infiltrate: Admixed lymphocytes, plasma cells, and neutrophils permeating the stroma and disrupting normal structure."
+UBC-OCEAN,30,nuclear pleomorphism,"nuclear pleomorphism: Marked variation in nuclear size, shape, and chromatin density among tumor cells."
+UBC-OCEAN,31,perineural invasion,perineural invasion: Nests of tumor cells closely wrapping around and invading nerve bundles.
+UBC-OCEAN,32,lymphocytic infiltrate,"lymphocytic infiltrate: Dense aggregates of small, round, dark blue lymphocytes within the stroma."
+UBC-OCEAN,33,mast cells,"mast cells: Round cells with abundant basophilic cytoplasmic granules, often near blood vessels."
+UBC-OCEAN,34,tunica albuginea,"tunica albuginea: Thick, eosinophilic, dense fibrous capsule lining the ovarian surface."
+UBC-OCEAN,35,endometrium,"endometrium: Glands lined by columnar epithelium embedded in a cellular, spindled stroma."
+UBC-OCEAN,36,neoplastic cells,"neoplastic cells: Cells with enlarged, irregular nuclei, prominent nucleoli, and disordered growth pattern."
+UBC-OCEAN,37,lymphoid tissue,lymphoid tissue: Sheets or follicles of densely packed small lymphocytes with dark nuclei.
+UBC-OCEAN,38,chronic inflammation,"chronic inflammation: Mixed infiltrate of lymphocytes, plasma cells, and scattered macrophages."
+UBC-OCEAN,39,nuclear atypia,"nuclear atypia: Enlarged, pleomorphic nuclei with coarse chromatin and often visible nucleoli."
+UBC-OCEAN,40,sclerosis,"sclerosis: Broad bands of paucicellular, glassy, eosinophilic collagenous tissue."
+UBC-OCEAN,41,squamous cells,squamous cells: Polygonal cells with abundant dense pink cytoplasm and distinct intercellular bridges.
+UBC-OCEAN,42,hyperchromatic nuclei,hyperchromatic nuclei: Nuclei staining intensely dark blue due to increased chromatin content.
+UBC-OCEAN,43,columnar epithelium,columnar epithelium: Tall cells with basally located nuclei and apical cytoplasm arranged in a single row.
+UBC-OCEAN,44,ovary,"ovary: Cortical area containing stroma, follicles, and overlying cuboidal surface cells."
+UBC-OCEAN,45,serosa,serosa: Delicate mesothelial cell layer resting on loose submesothelial connective tissue.
+UBC-OCEAN,46,cuboidal cells,"cuboidal cells: Epithelial cells as tall as they are wide, forming simple tubular or acinar patterns."
+UBC-OCEAN,47,papillary structures,"papillary structures: Slender fibrovascular cores covered by neoplastic epithelial cells, arborizing into spaces."
+UBC-OCEAN,48,hyperchromasia,"hyperchromasia: Nuclei appear uniformly dark blue-black, obscuring internal chromatin detail."
+UBC-OCEAN,49,dilated blood vessels,dilated blood vessels: Thin-walled vascular channels markedly expanded and filled with erythrocytes.
+UBC-OCEAN,50,myofibroblasts,"myofibroblasts: Spindle cells with elongated, pale nuclei and eosinophilic cytoplasm in reactive stroma."
+UBC-OCEAN,51,interstitium,"interstitium: Loose, faintly eosinophilic connective tissue between epithelial structures."
+UBC-OCEAN,52,follicle,follicle: Oocyte encircled by layers of granulosa cells and surrounding theca interna cells.
+UBC-OCEAN,53,scar,"scar: Dense, hypocellular, hyalinized collagen replacing normal architecture, with few fibroblasts."
+UBC-OCEAN,54,perivascular infiltrate,perivascular infiltrate: Lymphocytes arranged in concentric cuffs around small muscular or capillary vessels.
+UBC-OCEAN,55,columnar cells,"columnar cells: Epithelial cells taller than wide, with nuclei aligned near the basement membrane."
+UBC-OCEAN,56,endothelium,"endothelium: Flattened, spindle-like nuclei lining the inner surface of vascular lumina."
+UBC-OCEAN,57,carcinoma,carcinoma: Irregular nests or glands of malignant epithelial cells invading the surrounding stroma.
+UBC-OCEAN,58,lymphoid follicles,"lymphoid follicles: Nodular, tightly packed B-cell aggregates with pale germinal centers."
+UBC-OCEAN,59,stromal cells,stromal cells: Spindle to stellate fibroblasts and myofibroblasts embedded in extracellular matrix.
+UBC-OCEAN,60,lymphatic nodules,"lymphatic nodules: Densely packed, dark blue lymphoid cells forming a round aggregate, sometimes with a pale germinal center."
+UBC-OCEAN,61,necrotic debris,"necrotic debris: Eosinophilic, granular material with scattered nuclear fragments and no viable cells."
+UBC-OCEAN,62,papillomatosis,papillomatosis: Delicate finger-like fronds with central fibrovascular cores covered by epithelial cells.
+UBC-OCEAN,63,clear cell carcinoma,clear cell carcinoma: Sheets of polygonal cells with strikingly clear cytoplasm and well-defined cell borders.
+UBC-OCEAN,64,cribriform pattern,cribriform pattern: Confluent glands with multiple round punched-out spaces producing a sieve-like architecture.
+UBC-OCEAN,65,malignant cells,"malignant cells: Enlarged, pleomorphic cells with hyperchromatic nuclei, prominent nucleoli, and scanty cytoplasm."
+UBC-OCEAN,66,tumor necrosis,"tumor necrosis: Zonal cell death with ghost outlines, karyorrhectic debris, and loss of viable tumor architecture."
+UBC-OCEAN,67,invasion,invasion: Irregular malignant cell clusters breaching the basement membrane into surrounding stroma.
+UBC-OCEAN,68,lymphovascular invasion,"lymphovascular invasion: Tumor cell clusters within endothelium-lined spaces, often alongside red blood cells."
+UBC-OCEAN,69,interstitial inflammation,interstitial inflammation: Scattered lymphocytes and plasma cells dispersed within the connective tissue stroma.
+UBC-OCEAN,70,fibrotic stroma,"fibrotic stroma: Dense, pink collagen bundles with sparse elongated fibroblasts."
+UBC-OCEAN,71,mucinous carcinoma,mucinous carcinoma: Pools of pale blue mucin containing floating clusters of malignant epithelial cells.
+UBC-OCEAN,72,corpus albicans,"corpus albicans: A convoluted, hyalinized eosinophilic scar with few fibroblasts but no luteinized cells."
+UBC-OCEAN,73,theca interna,"theca interna: Plump cells with abundant pale, lipid-rich cytoplasm and round nuclei surrounding follicles."
+UBC-OCEAN,74,perivascular inflammation,perivascular inflammation: Lymphocytes and plasma cells encircling small blood vessels.
+UBC-OCEAN,75,interstitial hemorrhage,interstitial hemorrhage: Extravasated red blood cells within the stromal spaces.
+UBC-OCEAN,76,coagulative necrosis,coagulative necrosis: Ghost-like tissue outlines with complete loss of nuclei but preserved architecture.
+UBC-OCEAN,77,lymphocytic infiltration,"lymphocytic infiltration: Abundant small, dark blue lymphocytes permeating the tissue diffusely."
+UBC-OCEAN,78,pale cytoplasm,"pale cytoplasm: Cells with clear or lightly eosinophilic cytoplasm, often with distinct cell membranes."
+UBC-OCEAN,79,squamous differentiation,"squamous differentiation: Polygonal cells with abundant eosinophilic cytoplasm, intercellular bridges, or keratin pearls."
+UBC-OCEAN,80,infiltrate,"infiltrate: A mixed cell population within tissue, often lymphocytes, plasma cells, or tumor cells."
+UBC-OCEAN,81,uterine glands,uterine glands: Tubular to sawtoothed glands lined by pseudostratified columnar epithelium with elongated nuclei.
+UBC-OCEAN,82,endocervical glands,"endocervical glands: Irregular, mucin-filled, branched glands lined by tall columnar cells with basal nuclei."
+UBC-OCEAN,83,corpus luteum,"corpus luteum: Large, folded mass of luteinized cells with abundant vacuolated cytoplasm and prominent capillaries."
+UBC-OCEAN,84,mesothelium,"mesothelium: A single layer of flattened to cuboidal cells with round, bland nuclei on delicate basement membrane."
+UBC-OCEAN,85,fibromyxoid stroma,"fibromyxoid stroma: Loose, pale basophilic matrix with scattered spindled to stellate fibroblasts."
+UBC-OCEAN,86,lymphoid cells,"lymphoid cells: Uniform small round cells with scant cytoplasm and dense, deeply basophilic nuclei."
+UBC-OCEAN,87,cancer,cancer: Disorganized proliferation of atypical cells with loss of normal tissue architecture.
+UBC-OCEAN,88,endometrial carcinoma,"endometrial carcinoma: Malignant glands with cribriform or solid growth, often lined by stratified atypical columnar cells."
+UBC-OCEAN,89,signet ring cells,signet ring cells: Individual cells with a large mucin vacuole compressing the nucleus into a crescent.
+UBC-OCEAN,90,hyalinized stroma,"hyalinized stroma: Eosinophilic, acellular, glassy material replacing normal connective tissue."
+UBC-OCEAN,91,glandular epithelium,glandular epithelium: Columnar cells forming a single layer around an empty lumen.
+UBC-OCEAN,92,hyperplasia,hyperplasia: Thickened epithelial layer with increased cell numbers and crowded nuclei.
+UBC-OCEAN,93,trabecular pattern,trabecular pattern: Interconnecting cords of tumor cells separated by vascular spaces.
+UBC-OCEAN,94,blood-filled spaces,blood-filled spaces: Dilated vascular channels packed with red blood cells.
+UBC-OCEAN,95,inflammatory response,inflammatory response: Scattered lymphocytes and plasma cells in perivascular aggregates.
+UBC-OCEAN,96,invasive carcinoma,invasive carcinoma: Malignant epithelial nests breaching a pre-existing basal lamina.
+UBC-OCEAN,97,infiltrative growth,infiltrative growth: Tumor cells dissecting between stromal fibers without a clear margin.
+UBC-OCEAN,98,nerve bundles,nerve bundles: Wavy eosinophilic fascicles with elongated wavy nuclei.
+UBC-OCEAN,99,vascular invasion,vascular invasion: Tumor cell clusters within a vessel lined by flat endothelial cells.
+UBC-OCEAN,100,desmoplastic stroma,desmoplastic stroma: Dense pink collagen with plump reactive fibroblasts around tumor nests.
+UBC-OCEAN,101,solid tumor,solid tumor: Sheet of cohesive malignant cells without lumen formation.
+UBC-OCEAN,102,cystic change,cystic change: Dilated gland-like spaces filled with pale eosinophilic fluid.
+UBC-OCEAN,103,endometrial glands,endometrial glands: Tubular glands lined by tall columnar cells with basally oriented nuclei.
+UBC-OCEAN,104,glandular structures,glandular structures: Round to oval epithelial-lined lumens of varying sizes.
+UBC-OCEAN,105,vascular proliferation,vascular proliferation: Many small capillary-caliber vessels with plump endothelial cells.
+UBC-OCEAN,106,ovarian stroma,"ovarian stroma: Spindle cell-rich fibrous tissue with whorled, storiform arrangement."
+UBC-OCEAN,107,cuboidal epithelium,cuboidal epithelium: Square-shaped cells with round central nuclei lining a surface.
+UBC-OCEAN,108,hyalinization,hyalinization: Homogeneous dense pink transformation of connective tissue.
+UBC-OCEAN,109,extracellular matrix,"extracellular matrix: Fibrillar eosinophilic material between cells, predominantly collagen."
+UBC-OCEAN,110,solid pattern,solid pattern: Cohesive tumor cells forming expansive sheets with scant stroma.
+UBC-OCEAN,111,endometriosis,endometriosis: Ectopic endometrial glands and stroma with brown hemosiderin pigment.
+UBC-OCEAN,112,capsular invasion,capsular invasion: Tumor cells penetrating the dense fibrous capsule of the ovary.
+UBC-OCEAN,113,neutrophilic infiltrate,neutrophilic infiltrate: Numerous polymorphonuclear leukocytes scattered within the tissue.
+UBC-OCEAN,114,thickened basement membrane,thickened basement membrane: Prominent pink acellular line beneath the epithelium.
+UBC-OCEAN,115,secondary follicle,"secondary follicle: Ovarian structure with an antrum, granulosa layer, and surrounding theca."
+UBC-OCEAN,116,cystic lesion,cystic lesion: A thin-walled space lined by a single layer of epithelium.
+UBC-OCEAN,117,vascularization,vascularization: Fine network of small vessels within a supporting fibrous stroma.
+UBC-OCEAN,118,smooth muscle layer,smooth muscle layer: Bundles of bright eosinophilic spindle cells with blunt-ended nuclei.
+UBC-OCEAN,119,mesothelial cells,mesothelial cells: Flat to cuboidal surface cells with distinct cell borders and central nuclei.
+UBC-OCEAN,120,binucleated cells,"binucleated cells: Cells containing two distinct nuclei, often with amphophilic cytoplasm."
+UBC-OCEAN,121,metastatic carcinoma,metastatic carcinoma: Nests of malignant epithelial cells invading normal parenchyma.
+UBC-OCEAN,122,endometrial stroma,"endometrial stroma: Cellular stroma with small, uniform, round-to-oval nuclei and scant cytoplasm."
+UBC-OCEAN,123,desmoplastic reaction,desmoplastic reaction: Dense eosinophilic collagen bundles with plump reactive fibroblasts.
+UBC-OCEAN,124,microcystic pattern,microcystic pattern: Multiple tiny cystic spaces lined by flattened epithelium.
+UBC-OCEAN,125,papillary carcinoma,papillary carcinoma: Finger-like projections with fibrovascular cores covered by malignant epithelium.
+UBC-OCEAN,126,acinus,acinus: Small round gland lined by a single layer of cuboidal cells.
+UBC-OCEAN,127,efferent lymphatic vessels,efferent lymphatic vessels: Thin-walled channels with pale lymph and few lymphocytes.
+UBC-OCEAN,128,comedo necrosis,comedo necrosis: Central eosinophilic granular debris within a duct-like structure.
+UBC-OCEAN,129,nodular pattern,nodular pattern: Well-demarcated round aggregates of tumor cells surrounded by stroma.
+UBC-OCEAN,130,intraepithelial lymphocytes,intraepithelial lymphocytes: Small dark lymphocytes scattered within an epithelial layer.
+UBC-OCEAN,131,glandular differentiation,glandular differentiation: Formation of gland-like lumina lined by polarized epithelial cells.
+UBC-OCEAN,132,ovarian cortex,ovarian cortex: Spindle cell stroma with scattered primordial follicles.
+UBC-OCEAN,133,mononuclear cells,mononuclear cells: Small round cells with a single dark nucleus and minimal cytoplasm.
+UBC-OCEAN,134,conventional stromal invasion,conventional stromal invasion: Irregular malignant glands haphazardly infiltrating desmoplastic stroma.
+UBC-OCEAN,135,nuclear clearing,nuclear clearing: Nuclei with optically clear centers and peripherally marginated chromatin.
+UBC-OCEAN,136,intestinal epithelium,intestinal epithelium: Columnar cells with brush border and interspersed goblet cells.
+UBC-OCEAN,137,invasive adenocarcinoma,invasive adenocarcinoma: Malignant glandular structures invading beyond the basement membrane.
+UBC-OCEAN,138,abnormal cells,"abnormal cells: Enlarged, hyperchromatic, pleomorphic nuclei with irregular contours."
+UBC-OCEAN,139,germinal epithelium,germinal epithelium: Single layer of cuboidal to low columnar cells on ovarian surface.
+UBC-OCEAN,140,endosalpingiosis,endosalpingiosis: Glandular inclusions lined by tubal-type ciliated and secretory cells.
+UBC-OCEAN,141,parenchyma,"parenchyma: Functional tissue composed of distinctive cell types, distinct from stroma."
+UBC-OCEAN,142,collagenous fibrosis,"collagenous fibrosis: Dense, eosinophilic, acellular collagen bands replacing normal structures."
+UBC-OCEAN,143,fallopian tube,fallopian tube: Mucosal folds with ciliated columnar epithelium and thin muscular wall.
+UBC-OCEAN,144,epithelial hyperplasia,"epithelial hyperplasia: Increased epithelial layers with crowded, elongated nuclei."
+UBC-OCEAN,145,abnormal mitosis,abnormal mitosis: Atypical mitotic figures including multipolar or asymmetric divisions.
+UBC-OCEAN,146,micropapillary pattern,"micropapillary pattern: Small papillary tufts lacking fibrovascular cores, floating in clear spaces."
+UBC-OCEAN,147,papillary pattern,papillary pattern: Branching fronds with central fibrovascular cores and epithelial covering.
+UBC-OCEAN,148,pelvis,"pelvis: Fibroadipose tissue with mesothelial lining, possibly containing ovarian tissue."
+UBC-OCEAN,149,fibers,"fibers: Wavy, pink, refractile strands of collagen in connective tissue."
+UBC-OCEAN,150,foreign body giant cell reaction,foreign body giant cell reaction: Clusters of large multinucleated giant cells adjacent to foreign material or empty spaces.
+UBC-OCEAN,151,tall columnar cells,"tall columnar cells: Cells with elongated, basally oriented nuclei and abundant apical cytoplasm."
+UBC-OCEAN,152,lobular pattern,lobular pattern: Rounded nests of cells separated by fibrous stroma in a lobular arrangement.
+UBC-OCEAN,153,eosinophilic infiltrate,eosinophilic infiltrate: Numerous eosinophils with bright red cytoplasmic granules and bilobed nuclei within the tissue.
+UBC-OCEAN,154,cumulus oophorus,cumulus oophorus: A cluster of granulosa cells surrounding an oocyte in a developing follicle.
+UBC-OCEAN,155,architectural distortion,architectural distortion: Disorganized glandular or stromal architecture with irregular shapes and loss of normal orientation.
+UBC-OCEAN,156,follicular hyperplasia,follicular hyperplasia: Enlarged lymphoid follicles with expanded germinal centers containing pale proliferating cells.
+UBC-OCEAN,157,epithelial proliferation,epithelial proliferation: Increased layers or density of epithelial cells with possibly mitotic figures.
+UBC-OCEAN,158,ductal epithelium,ductal epithelium: A single layer of cuboidal to columnar cells lining a ductal lumen.
+UBC-OCEAN,159,granulosa lutein cells,granulosa lutein cells: Large polygonal cells with abundant pale eosinophilic cytoplasm and round nuclei.
+UBC-OCEAN,160,glandular pattern,glandular pattern: Gland-like structures formed by epithelial cells surrounding open lumina.
+UBC-OCEAN,161,lymphoplasmacytic infiltrate,lymphoplasmacytic infiltrate: Mixed population of small dark lymphocytes and plasma cells with eccentric nuclei.
+UBC-OCEAN,162,cellular debris,cellular debris: Amorphous granular eosinophilic material with fragmented nuclei.
+UBC-OCEAN,163,perivascular lymphocytes,perivascular lymphocytes: Lymphocytes arranged as a cuff around small blood vessels.
+UBC-OCEAN,164,infiltrative tumor,infiltrative tumor: Irregular tumor cell clusters invading into surrounding normal stroma.
+UBC-OCEAN,165,ovarian tumor,ovarian tumor: Proliferating neoplastic cells replacing normal ovarian tissue architecture.
+UBC-OCEAN,166,lymphohistiocytic infiltrate,lymphohistiocytic infiltrate: Admixed small lymphocytes and larger histiocytes with vesicular nuclei.
+UBC-OCEAN,167,lipid-laden histiocytes,lipid-laden histiocytes: Foamy histiocytes with small dark nuclei and abundant clear vacuolated cytoplasm.
+UBC-OCEAN,168,adnexa,adnexa: Tissue with convoluted tubal plicae lined by ciliated epithelium.
+UBC-OCEAN,169,stromal overgrowth,stromal overgrowth: Excessive collagenous or cellular stromal tissue replacing normal cellular components.
+UBC-OCEAN,170,high-grade nuclear atypia,"high-grade nuclear atypia: Markedly enlarged, pleomorphic hyperchromatic nuclei with irregular contours."
+UBC-OCEAN,171,stromal reaction,stromal reaction: Desmoplastic stroma with increased spindle cells and collagen deposition surrounding tumor.
+UBC-OCEAN,172,peritoneum,peritoneum: Flat mesothelial cells lining a delicate fibrovascular membrane.
+UBC-OCEAN,173,abdomen,abdomen: Mesothelial-lined fibroadipose tissue with scattered blood vessels.
+UBC-OCEAN,174,monocyte,monocyte: Cells with folded or kidney-shaped nuclei and pale cytoplasm.
+UBC-OCEAN,175,venules,venules: Small venous channels with thin walls and red blood cells within the lumen.
+UBC-OCEAN,176,anisocytosis,anisocytosis: Cells showing marked variation in size when compared to neighboring cells.
+UBC-OCEAN,177,geographic necrosis,"geographic necrosis: Large confluent areas of necrosis with sharply demarcated, geographic borders."
+UBC-OCEAN,178,vascular channel formation,vascular channel formation: Lined by endothelial cells forming lumen-containing channels often containing red cells.
+UBC-OCEAN,179,clusters,clusters: Cohesive groups of cells without intervening stroma.
+UBC-OCEAN,180,eosinophilic globules,eosinophilic globules: Homogeneous pink hyaline spheres within cytoplasm or extracellular space.
+UBC-OCEAN,181,white blood cells,white blood cells: Small round blue nuclei scattered or clustered in stroma.
+UBC-OCEAN,182,diffuse pattern,diffuse pattern: Sheets of tumor cells without gland or papilla formation.
+UBC-OCEAN,183,granulocytes,granulocytes: Cells with segmented nuclei and granular pink cytoplasm.
+UBC-OCEAN,184,tubular pattern,tubular pattern: Neoplastic cells form small round gland-like lumina.
+UBC-OCEAN,185,serous carcinoma,"serous carcinoma: Markedly atypical cells in papillae, clefts, or solid sheets."
+UBC-OCEAN,186,immune cells,immune cells: Small dark nuclei of lymphocytes and plasma cells in stroma.
+UBC-OCEAN,187,glandular cells,glandular cells: Cuboidal to columnar cells lining tubular or acinar spaces.
+UBC-OCEAN,188,epithelial tumor,epithelial tumor: Mass of atypical epithelial cells invading or expanding.
+UBC-OCEAN,189,cellular infiltrate,cellular infiltrate: Increased number of inflammatory or neoplastic cells in interstitium.
+UBC-OCEAN,190,t-cells,t-cells: Small lymphocytes with dense round nuclei and scant cytoplasm.
+UBC-OCEAN,191,endometrioid carcinoma,"endometrioid carcinoma: Back-to-back glands resembling proliferative endometrium, often with squamous morules."
+UBC-OCEAN,192,perinuclear hof,perinuclear hof: Clear halo of cytoplasm surrounding the nucleus.
+UBC-OCEAN,193,connective tissue cells,connective tissue cells: Spindle-shaped fibroblasts among collagen bundles.
+UBC-OCEAN,194,tumor tissue,tumor tissue: Disorganized growth of atypical cells with high nuclear-to-cytoplasmic ratio.
+UBC-OCEAN,195,growth pattern,"growth pattern: Architecture of tumor cell arrangement: solid, glandular, papillary, etc."
+UBC-OCEAN,196,cystic degeneration,"cystic degeneration: Dilated spaces lined by flattened epithelium, containing amorphous material."
+UBC-OCEAN,197,interstitial connective tissue,interstitial connective tissue: Loose fibrillar stroma with small vessels between epithelial structures.
+UBC-OCEAN,198,mesenchymal cells,"mesenchymal cells: Spindle or stellate cells with eosinophilic cytoplasm, oval nuclei."
+UBC-OCEAN,199,collagenized tissue,"collagenized tissue: Dense, hyalinized pink homogeneous collagen with sparse nuclei."
+UBC-OCEAN,200,ovarian tissue,"ovarian tissue: Ovarian stroma with follicles, corpora lutea, or spindle stromal cells."
+UBC-OCEAN,201,siderophages,siderophages: Macrophages with coarse golden-brown cytoplasmic granules.
+UBC-OCEAN,202,low-grade mucinous neoplasms,"low-grade mucinous neoplasms: Simple mucinous epithelium lining cysts, basal nuclei, mild atypia."
+UBC-OCEAN,203,perivascular lymphocytic infiltration,perivascular lymphocytic infiltration: Cuff of small lymphocytes around blood vessels.
+UBC-OCEAN,204,ovarian mass,ovarian mass: Expansile lesion of neoplastic epithelium and fibrous stroma.
+UBC-OCEAN,205,epithelial differentiation,"epithelial differentiation: Tumor cells showing squamous, mucinous, or tubal features."
+UBC-OCEAN,206,high cellularity and vascularity,high cellularity and vascularity: Densely packed nuclei with many small thin-walled vessels.
+UBC-OCEAN,207,cytoplasmic vacuoles,"cytoplasmic vacuoles: Clear round spaces within cell cytoplasm, variable size."
+UBC-OCEAN,208,signet ring,signet ring: Cell with large mucin vacuole pushing nucleus to periphery.
+UBC-OCEAN,209,endometrioid tumor,"endometrioid tumor: Confluent cribriform or villoglandular glands, columnar cells, eosinophilic cytoplasm."
+UBC-OCEAN,210,macrocystic changes,"macrocystic changes: Large thin-walled cystic spaces lined by flattened epithelium, filled with pale eosinophilic fluid."
+UBC-OCEAN,211,reactive lymphocytes,"reactive lymphocytes: Small round blue cells with scant cytoplasm, often mixed with larger activated forms and tangible body macrophages."
+UBC-OCEAN,212,cystic dilatation,"cystic dilatation: Markedly enlarged glandular lumens flattened epithelium, containing homogeneous eosinophilic secretion."
+UBC-OCEAN,213,mucinous borderline tumor,"mucinous borderline tumor: Papillary structures and multilayered mucinous epithelium with mild atypia, abundant apical mucin and no invasion."
+UBC-OCEAN,214,vascular thrombosis,vascular thrombosis: Occluded vessel filled with laminated pink fibrin mesh and entrapped red blood cells.
+UBC-OCEAN,215,insular pattern,insular pattern: Discrete rounded nests of tumor cells separated by thin fibrovascular septa.
+UBC-OCEAN,216,organoid pattern,organoid pattern: Tightly cohesive tumor islands resembling glands or primitive tubules with cribriform spaces.
+UBC-OCEAN,217,chronic inflammatory infiltrate,"chronic inflammatory infiltrate: A mixture of lymphocytes, plasma cells, and occasional macrophages scattered in the stroma."
+UBC-OCEAN,218,spiral artery,"spiral artery: Thick-walled coiled arteriole with eosinophilic muscle layer, often in secretory endometrium."
+UBC-OCEAN,219,intraepithelial neoplasia,"intraepithelial neoplasia: Dysplastic cells with nuclear enlargement, hyperchromasia, and loss of polarity confined to the epithelium."
+UBC-OCEAN,220,necrotic fibers,necrotic fibers: Ghost-like eosinophilic collagen remnants with karyorrhectic debris and loss of nuclear detail.
+UBC-OCEAN,221,perivascular pattern of tumor growth,"perivascular pattern of tumor growth: Tumor cells cuffing around small blood vessels, forming sleeves of viable tissue."
+UBC-OCEAN,222,perivascular fibrosis,perivascular fibrosis: Concentric layers of pink collagen and fibroblasts encircling a central vessel.
+UBC-OCEAN,223,endometrial tissue,endometrial tissue: Glands lined by tall columnar pseudostratified epithelium in a cellular stroma with small vessels.
+UBC-OCEAN,224,serous cystadenoma,"serous cystadenoma: Simple cysts with cuboidal to low columnar epithelium, cilia often visible, clear fluid."
+UBC-OCEAN,225,multinucleated cell,multinucleated cell: Large cell containing multiple rounded vesicular nuclei within abundant eosinophilic cytoplasm.
+UBC-OCEAN,226,neutrophil cells,"neutrophil cells: Small cells with segmented multilobed nucleus and pale granular cytoplasm, often in clusters."
+UBC-OCEAN,227,necrotic tumor,"necrotic tumor: Sheets of dead cells with loss of architecture, nuclear dust, and eosinophilic granular debris."
+UBC-OCEAN,228,net-like pattern,net-like pattern: Anastomosing cords of tumor cells forming a delicate lace-like appearance.
+UBC-OCEAN,229,mucous-secreting cells,"mucous-secreting cells: Tall columnar cells with basally pushed nuclei and clear, mucin-filled apical cytoplasm."
+UBC-OCEAN,230,small lymphocyte,small lymphocyte: Round cell with dense dark blue nucleus and a thin rim of pale blue cytoplasm.
+UBC-OCEAN,231,angioinvasion,"angioinvasion: Tumor cells penetrating a vessel wall, often protruding into the lumen."
+UBC-OCEAN,232,nested clear cells,"nested clear cells: Clusters of polygonal cells with distinct borders and optically clear, glycogen-rich cytoplasm."
+UBC-OCEAN,233,germ cell tumors,"germ cell tumors: Neoplasms showing primitive embryonal, extraembryonal, or somatic differentiation with varied architecture."
+UBC-OCEAN,234,immature teratoma,immature teratoma: Mixture of mature tissues and primitive neuroepithelial rosettes or poorly differentiated embryonic elements.
+UBC-OCEAN,235,myeloid cells,"myeloid cells: Cells with round to indented nuclei and granular eosinophilic or basophilic cytoplasm, dispersed or aggregated."
+UBC-OCEAN,236,microcystic changes,microcystic changes: Multiple tiny slit-like spaces or tiny rounded lumens within a solid cellular area.
+UBC-OCEAN,237,interstitial infiltrate,interstitial infiltrate: Individual cells or small clusters spreading between stromal fibers without forming masses.
+UBC-OCEAN,238,krukenberg tumor,krukenberg tumor: Signet ring cells with peripherally displaced nucleus and mucin-filled vacuole invading ovarian stroma.
+UBC-OCEAN,239,high endothelial venules,"high endothelial venules: Small veins lined by plump cuboidal endothelial cells, often surrounded by lymphocytes."
+UBC-OCEAN,240,glandular architecture,glandular architecture: Regularly spaced tubular or acinar structures lined by single-layered columnar epithelium with eosinophilic cytoplasm.
+UBC-OCEAN,241,tubal metaplasia,"tubal metaplasia: Tall, ciliated columnar cells with eosinophilic cytoplasm and pseudostratified nuclei, resembling fallopian tube epithelium."
+UBC-OCEAN,242,cribriform carcinoma,"cribriform carcinoma: Back-to-back glandular spaces with punched-out lumens formed by uniform malignant cells, creating a sieve-like pattern."
+UBC-OCEAN,243,intracytoplasmic inclusions,"intracytoplasmic inclusions: Round, eosinophilic, homogeneous globules within the cytoplasm of tumor cells, often pushing the nucleus aside."
+UBC-OCEAN,244,glycogen accumulation,"glycogen accumulation: Clear, vacuolated cytoplasm with distinct cell membranes, often containing PAS-positive material that appears empty on H&E."
+UBC-OCEAN,245,theca lutein cells,"theca lutein cells: Plump, polygonal cells with abundant pale eosinophilic cytoplasm and round central nuclei, often in small clusters."
+UBC-OCEAN,246,multilocular cystic tumor,"multilocular cystic tumor: Thin-walled cysts separated by fibrous septa, lined by flattened to cuboidal epithelium, with no solid nodules."
+UBC-OCEAN,247,perivascular inflammatory cell infiltrate,"perivascular inflammatory cell infiltrate: Concentric cuff of small, dark blue lymphocytes around blood vessels."
+UBC-OCEAN,248,primary tumor,"primary tumor: Invasive epithelial proliferation with crowded atypical glands, desmoplasia, and nuclear pleomorphism."
+UBC-OCEAN,249,thicker lutein cells,"thicker lutein cells: Enlarged, plump theca cells with abundant granular eosinophilic cytoplasm and distinct cell borders."
+UBC-OCEAN,250,capillary endothelial cells,"capillary endothelial cells: Flattened, elongated cells lining small vascular channels, with thin, dark nuclei and inconspicuous cytoplasm."
+UBC-OCEAN,251,embolus,"embolus: Solid plug of tumor cells or fibrin within a vascular space, with surrounding endothelial lining."
+UBC-OCEAN,252,invasive neoplasm,"invasive neoplasm: Irregularly shaped malignant glands or single cells infiltrating a desmoplastic stroma, lacking basement membrane."
+UBC-OCEAN,253,glandular neoplasm,"glandular neoplasm: Proliferation of atypical glandular structures with variable luminal size, nuclear atypia, and mitotic activity."
+UBC-OCEAN,254,unilaminar primary ovarian follicle,"unilaminar primary ovarian follicle: A primary oocyte surrounded by a single layer of flattened granulosa cells, with no thecal layer visible."
+UBC-OCEAN,255,microglandular spaces,"microglandular spaces: Tiny, closely packed gland-like lumina formed by cuboidal cells, often within a cribriform or solid area."
+UBC-OCEAN,256,cyst formation,"cyst formation: Large, fluid-filled spaces lined by flattened epithelium, often containing eosinophilic proteinaceous fluid."
+UBC-OCEAN,257,stromal process with myxoid stroma,"stromal process with myxoid stroma: Finger-like projections of loose, pale basophilic ground substance containing spindle cells and thin vessels."
+UBC-OCEAN,258,intestinal cells,"intestinal cells: Columnar epithelial cells with apical mucin, brush border, and occasional goblet cells within glandular structures."
+UBC-OCEAN,259,mucinous differentiation,"mucinous differentiation: Columnar cells with abundant apical clear to pale basophilic mucin and basal nuclei, forming variably distended glands."
+UBC-OCEAN,260,bizarre cells,"bizarre cells: Markedly enlarged, pleomorphic cells with hyperchromatic, irregular nuclei and abundant eosinophilic cytoplasm."
+UBC-OCEAN,261,rhabdoid cell,"rhabdoid cell: Large polygonal cells with eccentric vesicular nuclei, prominent nucleoli, and abundant eosinophilic hyaline cytoplasmic inclusions."
+UBC-OCEAN,262,telangiectatic vessels,"telangiectatic vessels: Irregularly dilated, thin-walled vascular channels filled with red blood cells, often branching."
+UBC-OCEAN,263,microabscesses,"microabscesses: Small, central collections of neutrophils within glandular lumina or tumor nests, surrounded by viable epithelium."
+UBC-OCEAN,264,pushing invasion pattern,"pushing invasion pattern: Well-demarcated tumor border with smooth, expansive growth front, compressing adjacent stroma without infiltration."
+UBC-OCEAN,265,hemorrhagic necrosis,"hemorrhagic necrosis: Areas of lytic tissue with extravasated red blood cells and degenerate cells, often surrounded by viable tumor."
+UBC-OCEAN,266,liquefactive necrosis,"liquefactive necrosis: Geographic zones of homogeneous, pink, granular debris with loss of cellular detail and abundant neutrophils."
+UBC-OCEAN,267,"sharp, punched out lumens","sharp, punched out lumens: Crisp, round empty spaces within cribriform glandular clusters, lined by polarized tumor cells."
+UBC-OCEAN,268,clear cell adenocarcinoma,"clear cell adenocarcinoma: Malignant cells with abundant clear cytoplasm and hobnail nuclei, forming tubulocystic and papillary patterns."
+UBC-OCEAN,269,mucous acinus,"mucous acinus: Rounded secretory unit filled with pale basophilic mucin, lined by flattened mucinous cells with basal nuclei."
+UBC-OCEAN,270,multilocular cystic spaces,"multilocular cystic spaces: Multiple thin-walled cystic spaces lined by a single layer of epithelium, filled with pale serous fluid."
+UBC-OCEAN,271,malignant glandular cells,"malignant glandular cells: Disorganized glands formed by cells with enlarged, hyperchromatic nuclei and irregular luminal borders."
+UBC-OCEAN,272,bulky tumor,bulky tumor: Solid expansile mass of tumor cells compressing adjacent fibrous stroma.
+UBC-OCEAN,273,architectural pattern,"architectural pattern: Papillary, cribriform, or solid sheet-like arrangement of neoplastic cells."
+UBC-OCEAN,274,ovarian surface epithelium,ovarian surface epithelium: A single layer of cuboidal to low columnar cells covering the ovarian cortical surface.
+UBC-OCEAN,275,endophytic lesion,"endophytic lesion: A lesion that protrudes into the ovarian stroma, often with overlying intact surface epithelium."
+UBC-OCEAN,276,serous tubal intraepithelial carcinoma,"serous tubal intraepithelial carcinoma: Tubal epithelium showing marked nuclear atypia, stratification, and mitotic figures confined within the basement membrane."
+UBC-OCEAN,277,histiocytic proliferation,histiocytic proliferation: Sheets of cells with abundant eosinophilic cytoplasm and oval or kidney-shaped bland nuclei.
+UBC-OCEAN,278,cd20 cells,"cd20 cells: Small round lymphoid cells with scant cytoplasm, highlighting positive membrane staining with CD20."
+UBC-OCEAN,279,proliferative activity,proliferative activity: Frequent mitotic figures and nuclear staining for Ki-67 in a high proportion of tumor cells.
+UBC-OCEAN,280,peritoneal cavity,peritoneal cavity: A mesothelial-lined space containing scattered mesothelial cells and occasional lymphocytes.
+UBC-OCEAN,281,collagen fiber bundle,collagen fiber bundle: Dense eosinophilic bands of collagen arranged in parallel arrays with sparse fibroblasts.
+UBC-OCEAN,282,micronodular pattern,micronodular pattern: Small rounded nests of tumor cells embedded in fibromatous or myxoid stroma.
+UBC-OCEAN,283,tubal hyperplasia,tubal hyperplasia: Crowded tubal epithelium with pseudostratification and increased mitotic activity without marked atypia.
+UBC-OCEAN,284,endometrial tumors,endometrial tumors: Back-to-back tubular glands lined by stratified columnar cells with mild to moderate nuclear pleomorphism.
+UBC-OCEAN,285,acinar pattern,acinar pattern: Small uniform glandular lumina formed by cuboidal to columnar cells with basal nuclei.
+UBC-OCEAN,286,endometriotic cyst,endometriotic cyst: A cyst lined by endometrial-type epithelium and surrounded by stroma with hemosiderin-laden macrophages.
+UBC-OCEAN,287,invasive cancer,invasive cancer: Irregular malignant glands infiltrating a desmoplastic stroma with no discernible pattern.
+UBC-OCEAN,288,hemorrhagic tumor,hemorrhagic tumor: Extensive extravasated erythrocytes and blood-filled spaces within the tumor tissue.
+UBC-OCEAN,289,biphasic pattern,"biphasic pattern: Mixed epithelial and mesenchymal components, often with spindle cells and glandular structures intermingled."
+UBC-OCEAN,290,clear cell eosinophilic,clear cell eosinophilic: Tumor cells with optically clear cytoplasm or abundant eosinophilic granular cytoplasm and variably enlarged nuclei.
+UBC-OCEAN,291,b-cells,"b-cells: Small lymphoid cells with round dark nuclei and a thin rim of basophilic cytoplasm, sometimes forming follicles."
+UBC-OCEAN,292,pleomorphic cell nuclei,"pleomorphic cell nuclei: Markedly variable nuclear size and shape, coarse chromatin, and prominent nucleoli."
+UBC-OCEAN,293,mesenchymal stroma,mesenchymal stroma: Spindle-shaped cells embedded in collagenous or myxoid extracellular matrix.
+UBC-OCEAN,294,capillary vessels,capillary vessels: Thin-walled vascular channels lined by flat endothelial cells and containing scattered red cells.
+UBC-OCEAN,295,focal necrosis,"focal necrosis: Well-demarcated areas of cellular debris, karyorrhectic nuclei, and eosinophilic cytoplasm loss."
+UBC-OCEAN,296,papillary tumor,papillary tumor: Friable papillary structures with fibrovascular cores covered by multilayered atypical epithelium.
+UBC-OCEAN,297,cystic mass,cystic mass: A loculated fluid-filled cavity lined by epithelial cells with flattened or cuboidal morphology.
+UBC-OCEAN,298,borderline ovarian tumor,"borderline ovarian tumor: Proliferating epithelial cells with mild to moderate atypia and hierarchical branching, lacking destructive stromal invasion."
+UBC-OCEAN,299,glandular columnar epithelium,glandular columnar epithelium: Regular columnar cells with basal nuclei and apical cytoplasm forming tubular gland profiles.
+UBC-OCEAN,300,pseudopapillary pattern,pseudopapillary pattern: Finger-like tumor cell projections lacking distinct fibrovascular cores.
+UBC-OCEAN,301,tangible body macrophage,tangible body macrophage: Large pale macrophages with ingested basophilic apoptotic fragments within lymphoid aggregates.
+UBC-OCEAN,302,lymphatic endothelium,"lymphatic endothelium: Thin-walled irregular channels lined by flat endothelial cells, mostly empty."
+UBC-OCEAN,303,dystrophy calcification,dystrophy calcification: Irregular dark purple granular calcium deposits in necrotic areas.
+UBC-OCEAN,304,zonal necrosis,zonal necrosis: Confluent eosinophilic necrotic zones with ghost cells and loss of nuclear detail.
+UBC-OCEAN,305,theca folliculi,"theca folliculi: Spindle stromal cells encircling a follicle, often with pale lipid-rich cytoplasm."
+UBC-OCEAN,306,corpora albicans,corpora albicans: Dense hyalinized collagenous scar remnant of a regressed corpus luteum.
+UBC-OCEAN,307,stromal hemosiderin,stromal hemosiderin: Brown granular pigment in stromal macrophages or extracellularly from old hemorrhage.
+UBC-OCEAN,308,primary oocyte surrounded by several layers of follicular cells,"primary oocyte surrounded by several layers of follicular cells: Large round oocyte with a large nucleus, ringed by multiple small cuboidal follicular cells."
+UBC-OCEAN,309,papillary hyperplasia,papillary hyperplasia: Epithelial tufts with fibrovascular cores projecting into a cystic space.
+UBC-OCEAN,310,uterine corpus,"uterine corpus: Endometrial-type tubular glands in a cellular stroma, resembling uterine endometrium."
+UBC-OCEAN,311,basement membrane abnormalities,"basement membrane abnormalities: Thickened, duplicated, or fragmented eosinophilic basement membrane under epithelium."
+UBC-OCEAN,312,high-grade tumor,"high-grade tumor: Markedly pleomorphic tumor cells with high nuclear-to-cytoplasmic ratio, prominent nucleoli, and frequent mitoses."
+UBC-OCEAN,313,glycogen-rich,"glycogen-rich: Cells with abundant clear cytoplasm from glycogen, sharp cell borders."
+UBC-OCEAN,314,stromal hyperplasia,stromal hyperplasia: Dense proliferation of plump spindle stromal cells with collagen.
+UBC-OCEAN,315,inflammatory disease characterized by the presence of histiocytes,"inflammatory disease characterized by the presence of histiocytes: Sheets of histiocytes with pale cytoplasm, mixed with lymphocytes and plasma cells."
+UBC-OCEAN,316,morular metaplasia,morular metaplasia: Syncytial-like rounded nests of immature squamous cells without keratin.
+UBC-OCEAN,317,squamoid differentiation,"squamoid differentiation: Nests with eosinophilic cytoplasm, intercellular bridges, or keratin pearls."
+UBC-OCEAN,318,borderline neoplasm with cytologic atypia,"borderline neoplasm with cytologic atypia: Papillary architecture with epithelial stratification and mild to moderate nuclear pleomorphism, no stromal invasion."
+UBC-OCEAN,319,inflammatory infiltration,"inflammatory infiltration: Lymphocytes, plasma cells, and occasional neutrophils scattered or around vessels."
+UBC-OCEAN,320,atypical cytology,"atypical cytology: Enlarged, hyperchromatic nuclei with irregular contours and prominent nucleoli."
+UBC-OCEAN,321,hypocellularity,hypocellularity: Sparse cells in abundant fibrous or myxoid stroma.
+UBC-OCEAN,322,geographic pattern tumor necrosis,"geographic pattern tumor necrosis: Irregular, map-like areas of necrosis with peripheral ghost cells."
+UBC-OCEAN,323,nuclear fragmentation,nuclear fragmentation: Small basophilic nuclear fragments in apoptotic cells or necrotic debris.
+UBC-OCEAN,324,clear cell metastatic carcinoma,clear cell metastatic carcinoma: Nests of clear cells with distinct borders and a delicate vascular network.
+UBC-OCEAN,325,branching glans and cords with papillae,branching glans and cords with papillae: Complex branching glands and cords forming papillary projections into lumens.
+UBC-OCEAN,326,clear cell tumors,clear cell tumors: Tumor with clear or eosinophilic cells in tubulocystic or papillary patterns.
+UBC-OCEAN,327,primary ovarian carcinoma,primary ovarian carcinoma: Malignant epithelial neoplasm with infiltrative growth and high-grade cytology.
+UBC-OCEAN,328,pink hyaline material,pink hyaline material: Amorphous eosinophilic hyaline-like deposits in stroma or around vessels.
+UBC-OCEAN,329,endometrioid adenofibroma,"endometrioid adenofibroma: Benign endometrioid glands within a fibroblastic stroma, lacking significant atypia."
+UBC-OCEAN,330,problem appreciating the boundaries of the cells,problem appreciating the boundaries of the cells: Cell borders are indistinct and hard to trace.
+UBC-OCEAN,331,net-like or fenestrated pattern,net-like or fenestrated pattern: Thin tumour cell cords form a lace-like mesh with small empty spaces.
+UBC-OCEAN,332,micropapillary carcinoma,micropapillary carcinoma: Small tufts of tumour cells float in clear spaces without fibrovascular cores.
+UBC-OCEAN,333,nuclear pseudoinclusions,nuclear pseudoinclusions: Round eosinophilic cytoplasmic invaginations appear inside tumour nuclei.
+UBC-OCEAN,334,non-atypical epithelium,non-atypical epithelium: Regular monolayered epithelium with basal nuclei and pale cytoplasm.
+UBC-OCEAN,335,muciphages,muciphages: Clusters of plump histiocytes with bubbly clear cytoplasm in mucin pools.
+UBC-OCEAN,336,intraepithelial glands,intraepithelial glands: Small rounded gland spaces within the thickness of the surface epithelium.
+UBC-OCEAN,337,hemosiderin stain,hemosiderin stain: Coarse golden-brown granular pigment deposits in macrophages or stroma.
+UBC-OCEAN,338,lymphocytic inflammatory infiltrate,lymphocytic inflammatory infiltrate: Sheets of small dark blue lymphocytes among tumour or stromal cells.
+UBC-OCEAN,339,tissue ischemia,tissue ischemia: Pale ghost outlines of cells with loss of nuclear staining and eosinophilic blurring.
+UBC-OCEAN,340,polypoid lesions,polypoid lesions: Finger-like stromal cores covered by epithelium projecting into a lumen.
+UBC-OCEAN,341,iron deposition,iron deposition: Coarse brown refractile granules often clustered around vessels.
+UBC-OCEAN,342,foveolar-type epithelium,foveolar-type epithelium: Tall columnar mucinous cells with basal nuclei and pale foamy apical cytoplasm.
+UBC-OCEAN,343,ovarian carcinoma,"ovarian carcinoma: Invasive malignant epithelial cells forming glands, papillae, or solid sheets."
+UBC-OCEAN,344,hyalinized fibrosis beginning in the tissue,hyalinized fibrosis beginning in the tissue: Early dense pink glassy collagen replacing cellular stroma.
+UBC-OCEAN,345,tumor vasculature,tumor vasculature: Thin-walled curved blood vessels scattered among tumour cell nests.
+UBC-OCEAN,346,columnar cells with nuclear palisading,columnar cells with nuclear palisading: Elongated nuclei lined up in parallel at the same level within tall cells.
+UBC-OCEAN,347,glandular epithelial cells,glandular epithelial cells: Cuboidal to columnar cells surrounding a central luminal space.
+UBC-OCEAN,348,fallopian tube mucosa,fallopian tube mucosa: Mix of ciliated and secretory cells on delicate papillary folds.
+UBC-OCEAN,349,polarity loss,polarity loss: Nuclei haphazardly scattered with no basal orientation relative to glands.
+UBC-OCEAN,350,mesonephric carcinoma,mesonephric carcinoma: Small tubules lined by cuboidal cells with dense eosinophilic intraluminal material.
+UBC-OCEAN,351,extensive capillary network,extensive capillary network: Dense mesh of tiny thin-walled vessels filled with red blood cells.
+UBC-OCEAN,352,blue area indicating low-grade adenocarcinoma,blue area indicating low-grade adenocarcinoma: Uniform crowded glands appearing as a dark basophilic patch at low power.
+UBC-OCEAN,353,intestinal-type adenocarcinoma,intestinal-type adenocarcinoma: Glands lined by pseudostratified columnar cells with dirty necrosis and goblet cells.
+UBC-OCEAN,354,serous glands as the parenchymal cells of the gland,serous glands as the parenchymal cells of the gland: Eosinophilic secretory units with central lumina resembling serous salivary tissue.
+UBC-OCEAN,355,calcified material,calcified material: Irregular dark purple-blue layered deposits with sharp edges in stroma.
+UBC-OCEAN,356,multinucleated neoplasm cells,multinucleated neoplasm cells: Large tumour cells containing multiple crowded atypical nuclei.
+UBC-OCEAN,357,invasive disease,invasive disease: Malignant glands or single cells infiltrating desmoplastic stroma beyond basement membrane.
+UBC-OCEAN,358,dis-cohesive pattern,dis-cohesive pattern: Individual tumour cells widely separated without cell-cell junctions.
+UBC-OCEAN,359,large areas of tissue loss,large areas of tissue loss: Empty spaces with ragged edges where tissue has detached from the slide.
+UBC-OCEAN,360,single-cell necrosis,single-cell necrosis: A single shrunken eosinophilic cell with pyknotic or fragmented nucleus.
+UBC-OCEAN,361,helper t cells,helper t cells: Small round lymphoid cells with dense round nuclei and minimal cytoplasm.
+UBC-OCEAN,362,ovarian medulla,ovarian medulla: Loose fibrovascular tissue with large blood vessels and spindle-shaped stromal cells.
+UBC-OCEAN,363,mesovarium,mesovarium: A fold of mesothelial-lined fibroadipose tissue with blood vessels.
+UBC-OCEAN,364,dense infiltrates with eosinophils,dense infiltrates with eosinophils: Sheets of eosinophils with bilobed nuclei and bright eosinophilic cytoplasmic granules.
+UBC-OCEAN,365,lighter areas composed of monocytoid b-lymphocytes,lighter areas composed of monocytoid b-lymphocytes: Pale areas with medium-sized cells having abundant pale cytoplasm and round to indented nuclei.
+UBC-OCEAN,366,peripheral edema or myxoid appearance at the periphery,"peripheral edema or myxoid appearance at the periphery: Peripheral loose, pale-staining myxoid stroma with widely spaced cells."
+UBC-OCEAN,367,mucinous cystadenocarcinoma,mucinous cystadenocarcinoma: Malignant glands with intracellular mucin vacuoles and extracellular mucin pools.
+UBC-OCEAN,368,ovaries located in the lesser pelvis on both sides of the uterus,ovaries located in the lesser pelvis on both sides of the uterus: Ovarian tissue with associated fibroadipose tissue reflecting its pelvic location.
+UBC-OCEAN,369,serous borderline tumor,"serous borderline tumor: Branching papillae lined by stratified serous epithelium with mild to moderate atypia, no invasion."
+UBC-OCEAN,370,combined mucinous cystadenofibroma with a brenner tumor,combined mucinous cystadenofibroma with a brenner tumor: Mucinous columnar epithelium lining cysts and solid nests of transitional-type cells within fibrous stroma.
+UBC-OCEAN,371,mucinous fibroplasia,mucinous fibroplasia: Collagenous stroma with abundant extracellular mucin and scattered fibroblasts.
+UBC-OCEAN,372,cell dividing,cell dividing: A cell with condensed chromosomes aligned at the metaphase plate or separating.
+UBC-OCEAN,373,mucin-producing adenocarcinoma,mucin-producing adenocarcinoma: Adenocarcinoma with intracytoplasmic mucin vacuoles and occasional signet ring cells.
+UBC-OCEAN,374,normal lymphocytes,normal lymphocytes: Small round cells with dark condensed nuclei and scant cytoplasm.
+UBC-OCEAN,375,high-grade adenocarcinoma,high-grade adenocarcinoma: Markedly atypical glandular or solid growth with pleomorphic nuclei and frequent mitoses.
+UBC-OCEAN,376,lack of adhesion between many of the cells,"lack of adhesion between many of the cells: Discohesive cells with gaps between them, appearing loosely arranged."
+UBC-OCEAN,377,"washed out, vacuolated-looking nuclei","washed out, vacuolated-looking nuclei: Nuclei with cleared, empty-looking chromatin, resembling vacuoles."
+UBC-OCEAN,378,cellular pleomorphism,"cellular pleomorphism: Variation in cell and nuclear size and shape, with bizarre forms."
+UBC-OCEAN,379,papillary serous carcinoma,papillary serous carcinoma: Complex papillary structures lined by highly atypical serous epithelium with frequent mitoses.
+UBC-OCEAN,380,mucinous goblet cells,mucinous goblet cells: Goblet-shaped cells with abundant apical mucin pushing the nucleus to the base.
+UBC-OCEAN,381,normal fat,normal fat: Large clear vacuolated adipocytes with eccentric flattened nuclei.
+UBC-OCEAN,382,omentum,omentum: Adipose tissue with thin mesothelial lining and scattered blood vessels.
+UBC-OCEAN,383,granulosa cells surrounding the ovum,granulosa cells surrounding the ovum: Small round granulosa cells radially arranged around a large round oocyte.
+UBC-OCEAN,384,vascular abnormalities,"vascular abnormalities: Dilated, irregularly shaped blood vessels with thick walls or hyalinization."
+UBC-OCEAN,385,calcification or microlith,"calcification or microlith: Basophilic, laminated calcific concretions, often round."
+UBC-OCEAN,386,serous neoplasm,"serous neoplasm: Tubal-type epithelium forming papillae or glands, with cuboidal to columnar cells."
+UBC-OCEAN,387,stratified squamous parakeratinized epithelium,"stratified squamous parakeratinized epithelium: Stratified epithelium with small dark nuclei in surface cells, no granular layer, and eosinophilic cytoplasm."
+UBC-OCEAN,388,endometrioid tumor pattern,endometrioid tumor pattern: Back-to-back tubular glands lined by pseudostratified columnar epithelium resembling endometrium.
+UBC-OCEAN,389,islands of viable cells,islands of viable cells: Clusters of intact tumor cells surrounded by necrotic debris or stroma.
+UBC-OCEAN,390,histiocytes with oval nucleus and ample pink cytoplasm,histiocytes with oval nucleus and ample pink cytoplasm: Cells with oval pale nuclei and abundant eosinophilic cytoplasm.
+UBC-OCEAN,391,pseudomyxoma peritonei,pseudomyxoma peritonei: Pools of extracellular mucin containing scant strips of bland epithelial cells.
+UBC-OCEAN,392,chronic salpingitis,chronic salpingitis: Thickened tubal plicae with lymphoplasmacytic infiltrate and fibrosis.
+UBC-OCEAN,393,cytomegaly,cytomegaly: Markedly enlarged cells with large hyperchromatic nuclei.
+UBC-OCEAN,394,ovarian mucinous tumor,ovarian mucinous tumor: Cystic spaces lined by tall columnar mucinous epithelium with basal nuclei.
+UBC-OCEAN,395,microvacuolation,microvacuolation: Cells containing small clear cytoplasmic vacuoles pushing nucleus to the side.
+UBC-OCEAN,396,tumor island,tumor island: Clusters of neoplastic epithelial cells surrounded by desmoplastic stroma.
+UBC-OCEAN,397,large pleomorphic tumor cells,large pleomorphic tumor cells: Tumor cells with marked nuclear pleomorphism and large bizarre forms.
+UBC-OCEAN,398,chronic fibrosis,chronic fibrosis: Dense eosinophilic collagen bundles with scattered fibroblasts.
+UBC-OCEAN,399,ovarian mucinous carcinoma,ovarian mucinous carcinoma: Invasive glands and cell clusters in a mucinous background with nuclear atypia.
+UBC-OCEAN,400,perivascular edema,perivascular edema: Clear space around blood vessels due to edema fluid.
+UBC-OCEAN,401,mixed pattern with septal and lobular involvement,mixed pattern with septal and lobular involvement: Fibrous septa dividing tumor into lobules with mixed architectural patterns.
+UBC-OCEAN,402,"large, prominent irregular nuclei with focal necrosis","large, prominent irregular nuclei with focal necrosis: Enlarged nuclei with irregular contours and foci of eosinophilic necrotic debris."
+UBC-OCEAN,403,prominently dilated serosal or adventitial vessels,prominently dilated serosal or adventitial vessels: Conspicuously dilated thin-walled vessels in the serosal or adventitial layer.
+UBC-OCEAN,404,columnar change,columnar change: Tall columnar epithelial cells replacing normal epithelium with elongated nuclei.
+UBC-OCEAN,405,abscessed areas,abscessed areas: Collections of neutrophils with necrosis forming purulent exudate.
+UBC-OCEAN,406,little clefts,little clefts: Small slit-like spaces lined by epithelial or endothelial cells.
+UBC-OCEAN,407,small vessels with open lumina and occasional hematopoietic cell within some of these lumina,small vessels with open lumina and occasional hematopoietic cell within some of these lumina: Small caliber vessels with patent lumina containing rare hematopoietic cells.
+UBC-OCEAN,408,tubule structures,tubule structures: Uniform small tubular structures lined by cuboidal to columnar cells.
+UBC-OCEAN,409,vascular metastasis,vascular metastasis: Tumor emboli within blood vessels with attached to the endothelium.
+UBC-OCEAN,410,glycogen deposition,"glycogen deposition: Cells with clear, vacuolated cytoplasm due to glycogen, often in renal or cervical epithelium."
+UBC-OCEAN,411,triangle-shaped or stellate cells,triangle-shaped or stellate cells: Stellate or triangular cells with elongated cytoplasmic processes in a background stroma.
+UBC-OCEAN,412,villous pattern,villous pattern: Finger-like projections lined by epithelium with a fibrovascular core.
+UBC-OCEAN,413,interstitial lymphocytic infiltrate,interstitial lymphocytic infiltrate: Scattered lymphocytes within the interstitial connective tissue.
+UBC-OCEAN,414,tumor infiltrating pelvic soft tissue,tumor infiltrating pelvic soft tissue: Nests of tumor cells invading adipose tissue and skeletal muscle.
+UBC-OCEAN,415,nuclei examination to determine grade 3 characteristics,"nuclei examination to determine grade 3 characteristics: Marked nuclear pleomorphism, prominent nucleoli, and frequent mitotic figures."
+UBC-OCEAN,416,stratified cuboidal and stratified columnar epithelium,stratified cuboidal and stratified columnar epithelium: Multilayered epithelium with basal cuboidal cells and superficial columnar cells.
+UBC-OCEAN,417,burrowing into the fallopian tube wall,burrowing into the fallopian tube wall: Epithelial glandular structures infiltrating deep into the tubal muscular wall.
+UBC-OCEAN,418,cells with apoptotic nuclei,"cells with apoptotic nuclei: Cells with shrunken hyperchromatic nuclei and eosinophilic cytoplasm, often forming apoptotic bodies."
+UBC-OCEAN,419,mural nodule,mural nodule: Circumscribed expansile nodule of solid tumor protruding into the cyst lumen.
+UBC-OCEAN,420,tumor thrombus in a large vessel,tumor thrombus in a large vessel: Cohesive tumor cells fill a large vessel lumen with visible endothelial lining.
+UBC-OCEAN,421,lymphatic stasis,lymphatic stasis: Dilated lymphatic channels contain pale eosinophilic lymph fluid without cells.
+UBC-OCEAN,422,papillary epithelial hyperplasia,papillary epithelial hyperplasia: Papillary fronds lined by multilayered epithelial cells project into a lumen.
+UBC-OCEAN,423,tissue invasion,tissue invasion: Irregular nests of malignant cells infiltrate normal tissue structures.
+UBC-OCEAN,424,invasive growth in the subepithelial stroma,invasive growth in the subepithelial stroma: Tumor cells invade the stroma beneath an intact epithelial layer.
+UBC-OCEAN,425,diffuse fibrosis,diffuse fibrosis: Dense eosinophilic collagen bundles replace normal tissue architecture diffusely.
+UBC-OCEAN,426,exophytic papillary lesion,exophytic papillary lesion: A papillary tumor projects outward from the tissue surface.
+UBC-OCEAN,427,perivascular hemorrhage,perivascular hemorrhage: Extravasated red blood cells surround small blood vessels.
+UBC-OCEAN,428,macrovesicular or papillary clear cell carcinoma,macrovesicular or papillary clear cell carcinoma: Clear tumor cells line large cystic spaces or form papillary structures with hyalinized cores.
+UBC-OCEAN,429,endometrial glandular cells,endometrial glandular cells: Uniform columnar cells with basally oriented nuclei form glands resembling endometrial glands.
+UBC-OCEAN,430,necrotic lesions,necrotic lesions: Areas of amorphous eosinophilic debris with nuclear fragments and inflammation.
+UBC-OCEAN,431,histiocytic cell,"histiocytic cell: Cells with abundant foamy cytoplasm and small, oval nuclei."
+UBC-OCEAN,432,small peripheral blood vessels,small peripheral blood vessels: Thin-walled small blood vessels lined by flat endothelial cells.
+UBC-OCEAN,433,lymphatic capillaries (lacteals,"lymphatic capillaries (lacteals: Dilated, empty-looking channels within intestinal villi."
+UBC-OCEAN,434,anaplastic cell,anaplastic cell: Large pleomorphic cells with bizarre nuclei and prominent nucleoli.
+UBC-OCEAN,435,tumor embolus,tumor embolus: A rounded aggregate of tumor cells occluding a vascular space.
+UBC-OCEAN,436,serous ovarian tumors,serous ovarian tumors: Tumor cells with papillary architecture and often psammoma bodies.
+UBC-OCEAN,437,the ovarian hilum,"the ovarian hilum: Fibrous area with blood vessels entering the ovary, may contain hilus cells."
+UBC-OCEAN,438,russell body,russell body: Spherical eosinophilic cytoplasmic inclusions pushing the nucleus in plasma cells.
+UBC-OCEAN,439,necrotic changes here,necrotic changes here: Focal loss of cell details with karyorrhectic debris and eosinophilia.
+UBC-OCEAN,440,intra-abdominal mass,intra-abdominal mass: Solid tumor mass displacing normal tissue within the abdominal cavity.
+UBC-OCEAN,441,cells are coherent,cells are coherent: Tumor cells form cohesive sheets or clusters without single cell dispersal.
+UBC-OCEAN,442,sarcomatous differentiation,sarcomatous differentiation: Spindle-shaped malignant cells in a fascicular pattern resembling sarcoma.
+UBC-OCEAN,443,prominent collagenous stroma,prominent collagenous stroma: Abundant dense pink collagen bundles separating tumor cell nests.
+UBC-OCEAN,444,mitotic cell with vacuole,mitotic cell with vacuole: A dividing cell with cytoplasmic vacuoles visible at high magnification.
+UBC-OCEAN,445,focal calcification,focal calcification: Small basophilic deposits of calcium within tissue.
+UBC-OCEAN,446,mixed serous lesion,mixed serous lesion: Combination of serous papillary patterns with another distinct component.
+UBC-OCEAN,447,perinuclear clearing resulting in a plant cell appearance,"perinuclear clearing resulting in a plant cell appearance: Cells with clear cytoplasm around hyperchromatic nuclei, resembling plant cells."
+UBC-OCEAN,448,mucinous columnar cell type,mucinous columnar cell type: Tall columnar cells with basal nuclei and apical mucin vacuoles.
+UBC-OCEAN,449,disordered architecture,disordered architecture: Irregular glandular arrangement with haphazard cellular distribution.
+UBC-OCEAN,450,diffused cellular infiltrate,diffused cellular infiltrate: Scattered chronic inflammatory cells diffusely distributed in the stroma.
+UBC-OCEAN,451,seromucinous tumor,seromucinous tumor: Mixed ciliated serous epithelium and tall mucinous cells forming papillary or glandular structures.
+UBC-OCEAN,452,densely eosinophilic area with irregular margin,densely eosinophilic area with irregular margin: Irregular bordered eosinophilic homogeneous area with indistinct surrounding cellular details.
+UBC-OCEAN,453,hematosalpinx,hematosalpinx: Dilated tubal lumen filled with erythrocytes and thinned wall.
+UBC-OCEAN,454,pashy kind of stromal change,pashy kind of stromal change: Pale edematous stroma with homogeneous eosinophilic appearance.
+UBC-OCEAN,455,gynecological tumors,gynecological tumors: Epithelial tumor cells with hobnail or clear cytoplasm suggestive of gynecologic origin.
+UBC-OCEAN,456,delicate fibrovascular cores in high-grade endometrial carcinomas,delicate fibrovascular cores in high-grade endometrial carcinomas: Papillary structures with delicate fibrovascular cores lined by high-grade tumor cells.
+UBC-OCEAN,457,ovarian hilus with pigmented lesion,ovarian hilus with pigmented lesion: Clusters of cells containing brown pigment granules in the ovarian hilus region.
+UBC-OCEAN,458,intravasation,intravasation: Tumor cell clusters present within vascular lumina.
+UBC-OCEAN,459,twisted blood vessels,twisted blood vessels: Markedly tortuous blood vessels with coiled or convoluted contours.
+UBC-OCEAN,460,gland distortion,"gland distortion: Glandular structures irregularly distorted, with compressed slit-like lumina and disorganized arrangement."
+UBC-OCEAN,461,microcystic growth pattern,"microcystic growth pattern: Variably sized microcysts lined by flattened or cuboidal epithelium, containing pale fluid."
+UBC-OCEAN,462,larger cells with granules and eosinophilic inclusions,larger cells with granules and eosinophilic inclusions: Large cells with intracytoplasmic eosinophilic granules and homogeneous inclusions.
+UBC-OCEAN,463,cytotoxic cells with abundant cytoplasm,cytotoxic cells with abundant cytoplasm: Large cells with abundant eosinophilic cytoplasm and eccentric nuclei.
+UBC-OCEAN,464,serous papillary cystic tumor,serous papillary cystic tumor: Cystic structure with delicate papillary projections lined by serous epithelium.
+UBC-OCEAN,465,mitotic score,mitotic score: Numerous mitotic figures with hyperchromatic irregular nuclei.
+UBC-OCEAN,466,glandular dysplasia,"glandular dysplasia: Glands lined by epithelium with enlarged hyperchromatic nuclei and stratification, while retaining architectural outlines."
+UBC-OCEAN,467,endocervical glandular spaces,endocervical glandular spaces: Deeply clefted gland spaces lined by tall columnar mucinous epithelium.
+UBC-OCEAN,468,non-encapsulated tumor,non-encapsulated tumor: Tumor with ill-defined borders directly infiltrating surrounding stroma.
+UBC-OCEAN,469,malignant nodule,malignant nodule: Well-circumscribed solid nodule composed of malignant cells.
+UBC-OCEAN,470,fibrous connective,fibrous connective: Dense collagenous fiber bundles with spindled fibrocyte nuclei.
+UBC-OCEAN,471,pelvic organs,pelvic organs: Pelvic soft tissue with adipocytes and smooth muscle bundles.
+UBC-OCEAN,472,ovarian medulla continuous with ovarian ligament,ovarian medulla continuous with ovarian ligament: Loose connective tissue of ovarian medulla transitioning into ligamentous smooth muscle.
+UBC-OCEAN,473,liquefactive degeneration,"liquefactive degeneration: Well-demarcated vacuoles or cystic spaces containing fluid, with pale surrounding cytoplasm."
+UBC-OCEAN,474,tumor buds,tumor buds: Isolated single cells or small clusters of tumor cells at the invasive front.
+UBC-OCEAN,475,primary mucinous adenocarcinoma,"primary mucinous adenocarcinoma: Malignant glands floating in mucin pools, with tall columnar cells containing cytoplasmic mucin."
+UBC-OCEAN,476,serous adenofibroma,serous adenofibroma: Fibrous stroma containing scattered glands and cysts lined by serous epithelium.
+UBC-OCEAN,477,mucoid degeneration,mucoid degeneration: Accumulation of pale amorphous mucoid material within the stroma.
+UBC-OCEAN,478,tumor-associated macrophages,tumor-associated macrophages: Scattered round cells with abundant foamy cytoplasm and eccentric nuclei among tumor nests.
+UBC-OCEAN,479,major muscular components of the uterine wall,major muscular components of the uterine wall: Interlacing bundles of smooth muscle with spindled eosinophilic cytoplasm.
+UBC-OCEAN,480,small adenocarcinoma areas,"small adenocarcinoma areas: Small malignant glandular clusters with atypical, crowded nuclei and irregular lumens."
+UBC-OCEAN,481,morphologic findings,"morphologic findings: Overall architectural patterns and cytologic details such as gland formation, nuclear atypia, and growth pattern."
+UBC-OCEAN,482,morphologic,morphologic: Tissue architecture and cellular features visible under 20x magnification.
+UBC-OCEAN,483,warty or papillomatous surface,warty or papillomatous surface: Exophytic papillary projections with fibrovascular cores lined by epithelium.
+UBC-OCEAN,484,serous cell,"serous cell: Cuboidal to columnar cells with moderate eosinophilic cytoplasm, round nuclei, and distinct nucleoli."
+UBC-OCEAN,485,darkly stained circular nucleus,"darkly stained circular nucleus: Round nuclei with dense, dark hematoxylin staining and inconspicuous chromatin detail."
+UBC-OCEAN,486,tuboendometrioid metaplasia showing a tubal morphology with intercalated cells and cilia,"tuboendometrioid metaplasia showing a tubal morphology with intercalated cells and cilia: Glands lined by ciliated and intercalated cells, resembling fallopian tube epithelium."
+UBC-OCEAN,487,carcinomatosis,carcinomatosis: Discohesive tumor cell nests infiltrating adipose or fibrous stromal tissue.
+UBC-OCEAN,488,myxoid transformation,"myxoid transformation: Loose, pale basophilic extracellular matrix separating stellate or spindled cells."
+UBC-OCEAN,489,hemorrhagic condition,hemorrhagic condition: Extravasated intact red blood cells dispersed within tissue spaces or stroma.

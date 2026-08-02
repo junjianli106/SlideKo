@@ -1,0 +1,535 @@
+﻿dataset,row_idx,concept,encoded_text
+CAMELYON16,0,lymphocytes,lymphocytes: Small round cells with scant cytoplasm and dense dark blue nuclei packed in aggregates.
+CAMELYON16,1,neutrophils,neutrophils: Cells with segmented multilobed nuclei and pale pink granular cytoplasm.
+CAMELYON16,2,blood vessels,"blood vessels: Thin-walled channels lined by flat endothelial cells, often filled with red blood cells."
+CAMELYON16,3,eosinophils,eosinophils: Cells with bilobed nuclei and abundant bright red cytoplasmic granules.
+CAMELYON16,4,inflammation,"inflammation: Tissue infiltrated by various leukocytes, with edema and congested capillaries."
+CAMELYON16,5,plasma cells,"plasma cells: Cells with eccentric clock-face nuclei, perinuclear clearing, and deep blue cytoplasm."
+CAMELYON16,6,fibrosis,fibrosis: Dense bands of homogeneous pink collagen with sparse elongated fibroblasts.
+CAMELYON16,7,epithelium,epithelium: Cohesive polygonal cells with distinct borders and pink cytoplasm forming sheets.
+CAMELYON16,8,inflammatory cells,inflammatory cells: Mixed population of small blue lymphocytes and pink granulocytes scattered in tissue.
+CAMELYON16,9,histiocytes,histiocytes: Large cells with abundant pale foamy cytoplasm and oval indented nuclei.
+CAMELYON16,10,connective tissue,connective tissue: Pink fibrillar matrix with sparse dark fibroblast nuclei embedded within.
+CAMELYON16,11,spindle cells,spindle cells: Elongated fusiform cells with tapered nuclei in a parallel or whorled arrangement.
+CAMELYON16,12,fibroblasts,fibroblasts: Spindle-shaped cells with pale ovoid nuclei and minimal cytoplasm in fibrous stroma.
+CAMELYON16,13,smooth muscle,smooth muscle: Eosinophilic spindle cell bundles with elongated blunt-ended nuclei in ordered fascicles.
+CAMELYON16,14,mitotic figures,mitotic figures: Dark purple condensed chromosomes forming star-like or linear patterns in dividing cells.
+CAMELYON16,15,mitotic activity,mitotic activity: Numerous cells with visible chromosome condensation and mitotic spindles indicating rapid division.
+CAMELYON16,16,lesion,lesion: A focal area of disrupted tissue architecture and abnormal cellularity distinct from surrounding.
+CAMELYON16,17,tumor,"tumor: Sheets of atypical cells effacing normal structure, often with high nuclear density."
+CAMELYON16,18,hemorrhage,hemorrhage: Clusters of bright red anucleate cells extravasated outside vessels into tissue spaces.
+CAMELYON16,19,basement membrane,basement membrane: A thin continuous eosinophilic line separating epithelial cells from underlying stroma.
+CAMELYON16,20,endothelial cells,endothelial cells: Flattened cells with sparse cytoplasm and small dark nuclei lining vascular lumens.
+CAMELYON16,21,tumor cells,tumor cells: Large pleomorphic cells with high nuclear-to-cytoplasmic ratio and prominent nucleoli.
+CAMELYON16,22,glands,glands: Round luminal structures lined by a single layer of cuboidal to columnar epithelium.
+CAMELYON16,23,fat,fat: Large clear vacuoles with thin peripheral rims and flattened peripheral nuclei in lobules.
+CAMELYON16,24,stroma,stroma: Pink collagenous and fibrovascular support tissue with interspersed fibroblasts.
+CAMELYON16,25,pleomorphism,"pleomorphism: Marked variation in cell and nuclear size, shape, and staining intensity among tumor cells."
+CAMELYON16,26,macrophages,macrophages: Large cells with abundant cytoplasm and engulfed debris or brown hemosiderin pigment.
+CAMELYON16,27,epithelioid cells,"epithelioid cells: Cells with abundant eosinophilic cytoplasm and indistinct borders, resembling epithelial sheets."
+CAMELYON16,28,smooth muscle cells,smooth muscle cells: Fusiform cells with abundant pink cytoplasm and elongated cigar-shaped central nuclei.
+CAMELYON16,29,atypia,atypia: Enlarged hyperchromatic nuclei with irregular contours and coarse clumped chromatin.
+CAMELYON16,30,epithelial cells,"epithelial cells: Polygonal cells with round nuclei and eosinophilic cytoplasm, often forming cohesive sheets or gland-like clusters."
+CAMELYON16,31,collagen fibers,"collagen fibers: Thick, wavy, pink eosinophilic bundles arranged in parallel or haphazard patterns."
+CAMELYON16,32,ducts,ducts: Round to oval tubular structures lined by a single or double layer of cuboidal to columnar epithelial cells.
+CAMELYON16,33,granulomas,granulomas: Well-circumscribed aggregates of epithelioid histiocytes surrounded by a rim of lymphocytes.
+CAMELYON16,34,fibrous tissue,"fibrous tissue: Dense, pale pink collagenous stroma with sparse elongated fibroblast nuclei."
+CAMELYON16,35,lymph node,lymph node: Encapsulated lymphoid organ with a cortex containing follicles and a medulla with sinuses and cords.
+CAMELYON16,36,lobules,"lobules: Clusters of small acini or tubules separated by loose intralobular stroma, typical of breast parenchyma."
+CAMELYON16,37,capillaries,"capillaries: Small thin-walled vessels lined by flattened endothelial cells, often containing red blood cells."
+CAMELYON16,38,nerve,nerve: Bundles of wavy eosinophilic fibers with interspersed spindle-shaped Schwann cell nuclei.
+CAMELYON16,39,adenocarcinoma,"adenocarcinoma: Irregular infiltrative glands with angulated contours, lined by atypical epithelial cells with enlarged hyperchromatic nuclei."
+CAMELYON16,40,cortex,cortex: Outer region of the lymph node packed with densely stained lymphoid follicles and intervening T-cell areas.
+CAMELYON16,41,inflammatory infiltrate,"inflammatory infiltrate: Mixed population of lymphocytes, plasma cells, and occasional neutrophils scattered within the stroma."
+CAMELYON16,42,spindle-shaped cells,"spindle-shaped cells: Elongated cells with tapered eosinophilic cytoplasm and oval, bland nuclei arranged in fascicles."
+CAMELYON16,43,nuclear pleomorphism,"nuclear pleomorphism: Marked variation in nuclear size and shape, with irregular contours and coarse chromatin."
+CAMELYON16,44,perineural invasion,perineural invasion: Neoplastic cells encircling or infiltrating a nerve bundle.
+CAMELYON16,45,lymphocytic infiltrate,"lymphocytic infiltrate: Dense aggregate of small, round, dark blue lymphocytes with scant cytoplasm."
+CAMELYON16,46,adipocytes,"adipocytes: Large, clear, empty-appearing cells with a thin peripheral rim of cytoplasm and flattened peripheral nuclei."
+CAMELYON16,47,medulla,medulla: Inner portion of the lymph node with medullary cords of lymphoid cells and patent sinuses lined by histiocytes.
+CAMELYON16,48,mast cells,"mast cells: Round to oval cells with abundant basophilic cytoplasmic granules, often near blood vessels."
+CAMELYON16,49,granulomatous inflammation,"granulomatous inflammation: Collection of epithelioid histiocytes forming granulomas, often with multinucleated giant cells and surrounding lymphocytes."
+CAMELYON16,50,multinucleated cells,multinucleated cells: Large cells with multiple nuclei arranged peripherally or haphazardly within abundant eosinophilic cytoplasm.
+CAMELYON16,51,neoplastic cells,"neoplastic cells: Cells with enlarged, irregular, dark-staining nuclei and prominent nucleoli, often invading tissue."
+CAMELYON16,52,lymphoid tissue,lymphoid tissue: Dense sheet of small round lymphocytes with interspersed larger immunoblasts and follicular dendritic cell networks.
+CAMELYON16,53,germinal centers,germinal centers: Pale-staining follicular center zones composed of large proliferating lymphocytes with scattered tangible-body macrophages.
+CAMELYON16,54,chronic inflammation,"chronic inflammation: Predominance of lymphocytes and plasma cells, with stromal fibrosis and occasional macrophages."
+CAMELYON16,55,nuclear atypia,"nuclear atypia: Nuclei appear enlarged, hyperchromatic, and irregular in shape compared to adjacent normal cells."
+CAMELYON16,56,sclerosis,"sclerosis: Dense, hypocellular, bright pink collagen that replaces normal tissue architecture."
+CAMELYON16,57,hyperchromatic nuclei,hyperchromatic nuclei: Nuclei that stain dark blue-purple due to increased DNA content.
+CAMELYON16,58,subcapsular sinus,"subcapsular sinus: A narrow space beneath the lymph node capsule containing histiocytes, lymphocytes, and occasional tumor cells."
+CAMELYON16,59,papillary structures,papillary structures: Finger-like fronds with fibrovascular cores covered by columnar epithelial cells.
+CAMELYON16,60,metastasis,"metastasis: Clusters of atypical epithelial cells infiltrating lymphoid tissue, with enlarged nuclei and prominent nucleoli."
+CAMELYON16,61,hyperchromasia,"hyperchromasia: Nuclei appear dark, dense, and deeply stained with hematoxylin, often irregular in shape."
+CAMELYON16,62,myofibroblasts,"myofibroblasts: Spindle-shaped cells with elongated nuclei and eosinophilic cytoplasm, often arranged in fascicles within fibrotic stroma."
+CAMELYON16,63,breast,"breast: Glandular structures lined by two cell layers, surrounded by fibrous and adipose connective tissue."
+CAMELYON16,64,perivascular infiltrate,perivascular infiltrate: Small dark lymphocytes aggregated around a blood vessel wall.
+CAMELYON16,65,columnar cells,"columnar cells: Tall, elongated cells with basally located nuclei, lining duct-like spaces with abundant cytoplasm."
+CAMELYON16,66,endothelium,endothelium: A single layer of flattened cells with elongated nuclei lining vascular spaces.
+CAMELYON16,67,carcinoma,"carcinoma: Irregular nests or sheets of malignant epithelial cells with enlarged, pleomorphic nuclei and scant stroma."
+CAMELYON16,68,lymphoid follicles,lymphoid follicles: Dense spherical aggregates of small lymphocytes with lighter germinal centers containing larger cells.
+CAMELYON16,69,stromal cells,stromal cells: Spindled to stellate cells with oval nuclei embedded in collagenous extracellular matrix.
+CAMELYON16,70,fibrous capsule,"fibrous capsule: Dense, wavy bands of pink collagen fibers surrounding the lymph node."
+CAMELYON16,71,lymphatic nodules,"lymphatic nodules: Well-circumscribed aggregates of small, dark blue lymphocytes within lymphoid tissue."
+CAMELYON16,72,necrotic debris,"necrotic debris: Amorphous, eosinophilic material with nuclear fragments and loss of cellular detail."
+CAMELYON16,73,clear cell carcinoma,"clear cell carcinoma: Malignant cells with abundant, optically clear cytoplasm and distinct cell borders forming nests."
+CAMELYON16,74,cribriform pattern,"cribriform pattern: Tumor cells arranged in a sieve-like pattern with rounded, punched-out spaces within epithelial nests."
+CAMELYON16,75,foam cells,"foam cells: Large cells with abundant, finely vacuolated, pale cytoplasm resembling foamy macrophages."
+CAMELYON16,76,malignant cells,"malignant cells: Large, pleomorphic cells with high nuclear-to-cytoplasmic ratio, irregular nuclear contours, and prominent nucleoli."
+CAMELYON16,77,tumor necrosis,"tumor necrosis: Irregular areas of dead tumor tissue, appearing as granular eosinophilic debris with scattered nuclear fragments."
+CAMELYON16,78,breast tissue,"breast tissue: Lobules and ducts lined by two cell layers, surrounded by specialized loose connective tissue."
+CAMELYON16,79,invasion,invasion: Tumor cells breaching the basement membrane and infiltrating into surrounding stroma.
+CAMELYON16,80,lymphovascular invasion,"lymphovascular invasion: Tumor cell clusters within endothelial-lined spaces, often conforming to the vessel shape."
+CAMELYON16,81,interstitial inflammation,interstitial inflammation: Scattered lymphocytes and plasma cells within the stromal tissue between parenchymal structures.
+CAMELYON16,82,fibrotic stroma,"fibrotic stroma: Dense, pink collagenous tissue with sparse spindle-shaped fibroblasts."
+CAMELYON16,83,mucinous carcinoma,"mucinous carcinoma: Tumor cell clusters floating in pools of pale bluish-grey mucin, often with minimal cellularity."
+CAMELYON16,84,perivascular inflammation,perivascular inflammation: Concentric cuffing of lymphocytes around small blood vessels.
+CAMELYON16,85,coagulative necrosis,"coagulative necrosis: Eosinophilic, ghost-like outlines of dead tissue with preserved architecture and absent nuclei."
+CAMELYON16,86,lymphocytic infiltration,"lymphocytic infiltration: Diffuse or patchy presence of small, dark lymphocytes within tissue or surrounding tumor."
+CAMELYON16,87,scarring,"scarring: Dense, hyalinized collagen bundles replacing normal tissue, with few fibroblasts."
+CAMELYON16,88,pale cytoplasm,"pale cytoplasm: Cells with lightly eosinophilic, abundant cytoplasm that appears washed out."
+CAMELYON16,89,infiltrate,"infiltrate: Collection of inflammatory cells, often lymphocytic, extending into surrounding tissue."
+CAMELYON16,90,arteries,arteries: Thick-walled vessel with concentric smooth muscle layer and internal elastic lamina.
+CAMELYON16,91,fibromyxoid stroma,"fibromyxoid stroma: Pale, loose connective tissue with scattered spindle cells in a myxoid matrix."
+CAMELYON16,92,arteriole,arteriole: Small thick-walled vessel with narrow lumen and a few smooth muscle layers.
+CAMELYON16,93,lymphoid cells,lymphoid cells: Densely packed small round blue cells with scant cytoplasm.
+CAMELYON16,94,cancer,cancer: Irregular nests of large atypical epithelial cells with pleomorphic nuclei.
+CAMELYON16,95,signet ring cells,signet ring cells: Cells with abundant clear cytoplasmic mucin displacing the nucleus to the periphery.
+CAMELYON16,96,hyalinized stroma,"hyalinized stroma: Dense, eosinophilic, glassy collagenous material with few fibroblasts."
+CAMELYON16,97,glandular epithelium,"glandular epithelium: Cuboidal to columnar cells forming lumens, often with apical eosinophilic cytoplasm."
+CAMELYON16,98,hyperplasia,hyperplasia: Increase in cell number causing thickening of an epithelial or lymphoid layer.
+CAMELYON16,99,trabecular pattern,trabecular pattern: Anastomosing cords of tumor cells separated by vascular sinusoids.
+CAMELYON16,100,blood-filled spaces,blood-filled spaces: Lakes of red blood cells within vascular channels lined by endothelium.
+CAMELYON16,101,inflammatory response,"inflammatory response: Mixed infiltration of neutrophils, lymphocytes, and plasma cells in tissue."
+CAMELYON16,102,invasive carcinoma,invasive carcinoma: Malignant epithelial cells invading stroma with irregular borders and desmoplasia.
+CAMELYON16,103,infiltrative growth,infiltrative growth: Tumor cells penetrating between normal structures without a discrete boundary.
+CAMELYON16,104,vascular invasion,vascular invasion: Tumor cell clusters within an endothelial-lined space containing red blood cells.
+CAMELYON16,105,desmoplastic stroma,desmoplastic stroma: Collagen-rich stroma with plump reactive fibroblasts surrounding tumor nests.
+CAMELYON16,106,solid tumor,solid tumor: Confluent sheets of tumor cells with minimal intervening stroma.
+CAMELYON16,107,cystic change,cystic change: Fluid-filled cavities lined by a thin layer of epithelial or tumor cells.
+CAMELYON16,108,breast cancer,breast cancer: Invasive carcinoma forming ducts or solid nests with marked nuclear atypia.
+CAMELYON16,109,glandular structures,glandular structures: Round luminal spaces lined by a single layer of cuboidal to columnar cells.
+CAMELYON16,110,vascular proliferation,"vascular proliferation: Numerous small, thin-walled capillaries with plump endothelial cells."
+CAMELYON16,111,veins,veins: Thin-walled vessels with wide lumen and a few smooth muscle bundles.
+CAMELYON16,112,cuboidal epithelium,cuboidal epithelium: Single layer of square-shaped cells with central round nuclei.
+CAMELYON16,113,apocrine differentiation,apocrine differentiation: Cells with abundant granular eosinophilic cytoplasm and apical snouts.
+CAMELYON16,114,proliferation,proliferation: Increased cell density with mitotic figures and crowded nuclei.
+CAMELYON16,115,mantle zone,mantle zone: Dark rim of small lymphocytes surrounding a paler germinal center.
+CAMELYON16,116,hyalinization,hyalinization: Homogeneous eosinophilic acellular material replacing normal tissue.
+CAMELYON16,117,extracellular matrix,extracellular matrix: Amorphous to fibrillar eosinophilic substance filling spaces between cells.
+CAMELYON16,118,axilla,axilla: Fibroadipose tissue containing lymphoid aggregates typical of axillary region.
+CAMELYON16,119,solid pattern,solid pattern: Monomorphic sheets of tumor cells without lumen formation or intervening stroma.
+CAMELYON16,120,capsular invasion,capsular invasion: Irregular nests of tumor cells disrupting and crossing the dense fibrous capsule.
+CAMELYON16,121,osteoclast-like giant cells,osteoclast-like giant cells: Large multinucleated cells with abundant eosinophilic cytoplasm resembling osteoclasts.
+CAMELYON16,122,neutrophilic infiltrate,neutrophilic infiltrate: Numerous neutrophils with segmented nuclei and granular cytoplasm permeating the tissue.
+CAMELYON16,123,retraction artifact,retraction artifact: Clear empty spaces around tumor cell clusters caused by tissue shrinkage.
+CAMELYON16,124,lobular carcinoma,lobular carcinoma: Small uniform dyscohesive cells infiltrating in single-file cords.
+CAMELYON16,125,necrotizing granulomas,necrotizing granulomas: Granulomas with central amorphous eosinophilic necrosis surrounded by epithelioid histiocytes.
+CAMELYON16,126,vascularization,vascularization: Proliferating small blood vessels lined by plump endothelial cells.
+CAMELYON16,127,metastatic carcinoma,metastatic carcinoma: Cords and nests of atypical epithelial cells within lymph node parenchyma.
+CAMELYON16,128,dcis,dcis: Dilated ducts filled with malignant cells confined by intact basement membrane.
+CAMELYON16,129,desmoplastic reaction,desmoplastic reaction: Dense collagenous stroma with plump fibroblasts surrounding invasive tumor nests.
+CAMELYON16,130,papillary carcinoma,papillary carcinoma: Fibrovascular cores covered by multilayered atypical epithelial cells.
+CAMELYON16,131,mass,mass: Well-circumscribed solid aggregate of tumor cells displacing surrounding tissue.
+CAMELYON16,132,efferent lymphatic vessels,efferent lymphatic vessels: Dilated thin-walled vessels with valves containing tumor cells and lymphocytes.
+CAMELYON16,133,comedo necrosis,comedo necrosis: Central necrotic debris composed of granular eosinophilic material and nuclear fragments.
+CAMELYON16,134,nodular pattern,nodular pattern: Circumscribed rounded aggregates of tumor cells separated by fibrous septa.
+CAMELYON16,135,round cells,round cells: Monotonous small cells with round nuclei and scant cytoplasm.
+CAMELYON16,136,glandular differentiation,glandular differentiation: Tumor cells forming irregular gland-like lumina often containing secretions.
+CAMELYON16,137,solid papillary carcinoma,solid papillary carcinoma: Solid expansile nodules with delicate fibrovascular septa and focal papillary formations.
+CAMELYON16,138,mononuclear cells,mononuclear cells: Predominance of small round lymphocytes and histiocytes with round nuclei.
+CAMELYON16,139,conventional stromal invasion,conventional stromal invasion: Irregular jagged tumor nests infiltrating desmoplastic stroma.
+CAMELYON16,140,lymph node positivity rate,lymph node positivity rate: Microscopic foci of metastatic carcinoma cells within subcapsular sinus or parenchyma.
+CAMELYON16,141,nuclear clearing,nuclear clearing: Tumor nuclei with central pale chromatin and prominent nucleoli.
+CAMELYON16,142,nested pattern,nested pattern: Cohesive clusters of tumor cells with uniform spacing separated by thin fibrovascular septa.
+CAMELYON16,143,nodular lesions,nodular lesions: Discrete rounded tumor masses with peripheral lymphocytes.
+CAMELYON16,144,invasive adenocarcinoma,invasive adenocarcinoma: Irregular glandular structures infiltrating a fibrous stroma with cytologic atypia.
+CAMELYON16,145,neoplastic process,neoplastic process: Proliferation of atypical cells with nuclear enlargement and altered tissue architecture.
+CAMELYON16,146,abnormal cells,"abnormal cells: Cells with enlarged hyperchromatic nuclei, irregular membranes, and scant cytoplasm."
+CAMELYON16,147,acute inflammation,acute inflammation: Dense neutrophil infiltration with edema and karyorrhectic debris.
+CAMELYON16,148,single cells,single cells: Discohesive individual tumor cells scattered in the stroma.
+CAMELYON16,149,interstitial tissue,"interstitial tissue: Loose connective tissue with fibroblasts, collagen, and scattered inflammatory cells."
+CAMELYON16,150,dendritic cells,"dendritic cells: Stellate-shaped cells with elongated, branched cytoplasmic processes and pale nuclei."
+CAMELYON16,151,peripheral nerve,"peripheral nerve: Wavy, eosinophilic fibrous bundles with spindle-shaped perineurial cells."
+CAMELYON16,152,anaplastic carcinoma,"anaplastic carcinoma: Sheets of markedly pleomorphic tumor cells with large, hyperchromatic, bizarre nuclei."
+CAMELYON16,153,fibrin deposition,"fibrin deposition: Homogeneous, deeply eosinophilic amorphous material deposited in tissues."
+CAMELYON16,154,basal lamina,"basal lamina: Thin, pale eosinophilic homogeneous layer beneath epithelium."
+CAMELYON16,155,parenchyma,parenchyma: Functional tissue composed of densely packed lymphoid cells in the lymph node.
+CAMELYON16,156,abnormal mitosis,abnormal mitosis: Mitotic figures with aberrant chromosome segregation such as multipolar spindles.
+CAMELYON16,157,micropapillary pattern,micropapillary pattern: Small tumor cell clusters floating in clear spaces without fibrovascular cores.
+CAMELYON16,158,papillary pattern,papillary pattern: Finger-like projections with central fibrovascular cores lined by epithelium.
+CAMELYON16,159,plasmacytoid cells,plasmacytoid cells: Round cells with eccentric nuclei and basophilic cytoplasm resembling plasma cells.
+CAMELYON16,160,foreign body giant cell reaction,foreign body giant cell reaction: Multinucleated giant cells with haphazardly arranged nuclei and surrounding fibrosis.
+CAMELYON16,161,lobular pattern,"lobular pattern: Tumor nests separated by fibrous septa, creating a lobulated architecture."
+CAMELYON16,162,eosinophilic infiltrate,eosinophilic infiltrate: Scattered cells with bilobed nuclei and bright eosinophilic cytoplasmic granules.
+CAMELYON16,163,architectural distortion,architectural distortion: Disrupted normal architecture replaced by irregular collagen and distorted glands.
+CAMELYON16,164,follicular hyperplasia,follicular hyperplasia: Enlarged germinal centers with numerous centroblasts and tingible-body macrophages.
+CAMELYON16,165,epithelial proliferation,epithelial proliferation: Increased layers of epithelial cells forming stratification or small clusters.
+CAMELYON16,166,ductal epithelium,ductal epithelium: Cuboidal to columnar cells arranged in tubular structures with distinct lumens.
+CAMELYON16,167,glandular pattern,glandular pattern: Variably sized glandular structures lined by neoplastic epithelial cells.
+CAMELYON16,168,medullary carcinoma,medullary carcinoma: Syncytial growth of large tumor cells with abundant amphophilic cytoplasm and dense lymphocytic infiltrate.
+CAMELYON16,169,lymphoplasmacytic infiltrate,lymphoplasmacytic infiltrate: Mixture of small lymphocytes and plasma cells infiltrating the stroma.
+CAMELYON16,170,cellular debris,cellular debris: Amorphous granular eosinophilic material with scattered nuclear fragments.
+CAMELYON16,171,invasive lobular carcinoma,invasive lobular carcinoma: Single files and concentrically arranged small uniform tumor cells.
+CAMELYON16,172,perivascular lymphocytes,perivascular lymphocytes: Lymphocytes cuffing around blood vessels forming a perivascular sleeve.
+CAMELYON16,173,infiltrative tumor,infiltrative tumor: Irregular tumor cell nests invading and dissecting through normal structures.
+CAMELYON16,174,fibrocytes,fibrocytes: Spindle-shaped cells with elongated pale nuclei and delicate cytoplasmic processes.
+CAMELYON16,175,fibrin leakage,fibrin leakage: Extravasated homogeneous eosinophilic material around blood vessels.
+CAMELYON16,176,marginal zone,marginal zone: Pale-staining rim outside the mantle zone containing intermediate-sized lymphocytes and monocytoid cells.
+CAMELYON16,177,lymphohistiocytic infiltrate,lymphohistiocytic infiltrate: Mixed population of lymphocytes and plump histiocytes with abundant pale cytoplasm.
+CAMELYON16,178,neoplastic proliferation,neoplastic proliferation: Dense proliferation of atypical cells effacing normal tissue architecture.
+CAMELYON16,179,medullary cord,"medullary cord: Anastomosing cords of lymphoid tissue containing lymphocytes, plasma cells, and reticular cells."
+CAMELYON16,180,swollen endothelial cells,"swollen endothelial cells: Plump, rounded nuclei of endothelial cells protruding into capillary or venule lumens."
+CAMELYON16,181,breast lesions,breast lesions: Irregular epithelial clusters with variable gland formation and stromal changes.
+CAMELYON16,182,lipid-laden histiocytes,"lipid-laden histiocytes: Clusters of large cells with foamy, clear cytoplasm containing fine lipid vacuoles."
+CAMELYON16,183,inflammatory carcinoma,inflammatory carcinoma: Tumor cell clusters distending dermal lymphatics surrounded by dense inflammatory infiltrate.
+CAMELYON16,184,stromal overgrowth,stromal overgrowth: Dense collagenous stroma dominating the field with sparse embedded tumor cells.
+CAMELYON16,185,high-grade nuclear atypia,"high-grade nuclear atypia: Markedly enlarged, pleomorphic, hyperchromatic nuclei with prominent nucleoli."
+CAMELYON16,186,stromal reaction,stromal reaction: Abundant pink fibrous tissue surrounding tumor cell nests with increased spindle cells.
+CAMELYON16,187,metastatic breast cancer,metastatic breast cancer: Cords and nests of atypical epithelial cells within lymph node parenchyma.
+CAMELYON16,188,invasive ductal carcinoma,invasive ductal carcinoma: Angulated glands and single cells infiltrating through dense fibrous stroma.
+CAMELYON16,189,monocyte,monocyte: Large cell with kidney-shaped or folded nucleus and pale blue-gray cytoplasm.
+CAMELYON16,190,venules,venules: Thin-walled vascular spaces lined by flat endothelial cells containing red blood cells.
+CAMELYON16,191,anisocytosis,anisocytosis: Red blood cells showing marked variation in size across the smear.
+CAMELYON16,192,geographic necrosis,"geographic necrosis: Irregular, map-like areas of eosinophilic necrotic debris with nuclear fragments."
+CAMELYON16,193,vascular channel formation,"vascular channel formation: Slit-like or round spaces lined by endothelial cells, sometimes containing erythrocytes."
+CAMELYON16,194,clusters,clusters: Cohesive groups of epithelial cells with distinct cell borders.
+CAMELYON16,195,breast carcinoma,breast carcinoma: Invasive nests and cords of atypical epithelial cells with desmoplastic stroma.
+CAMELYON16,196,epithelial atypia,epithelial atypia: Disordered epithelial cells with nuclear enlargement and irregular contours.
+CAMELYON16,197,white blood cells,white blood cells: Small round deeply basophilic nuclei with scant cytoplasm scattered among other cells.
+CAMELYON16,198,diffuse pattern,diffuse pattern: Uniform infiltration of individual tumor cells widely throughout the stroma.
+CAMELYON16,199,granulocytes,granulocytes: Cells with segmented nuclei and cytoplasmic granules staining faintly eosinophilic.
+CAMELYON16,200,tubular pattern,tubular pattern: Well-formed rounded glandular structures lined by a single layer of cuboidal cells.
+CAMELYON16,201,axillary lymph node,"axillary lymph node: Lymphoid tissue with lymphoid follicles, sinuses, and a surrounding fibrous capsule."
+CAMELYON16,202,ductal proliferation,"ductal proliferation: Expanded ducts filled with crowded, uniform epithelial cells in cribriform or solid patterns."
+CAMELYON16,203,postcapillary venules,postcapillary venules: Venules with plump high endothelial cells and lymphocytes within their walls.
+CAMELYON16,204,immune cells,immune cells: Dense population of small round dark blue lymphocytes and occasional larger pale histiocytes.
+CAMELYON16,205,distant metastases,distant metastases: Nests of malignant epithelial cells within the parenchyma of a non-lymph node organ.
+CAMELYON16,206,glandular cells,glandular cells: Cuboidal to columnar cells forming circular lumina with apical cytoplasm.
+CAMELYON16,207,epithelial tumor,epithelial tumor: Solid nests of cohesive polygonal cells with distinct cell borders and nuclear crowding.
+CAMELYON16,208,cellular infiltrate,cellular infiltrate: Mixed population of inflammatory cells or tumor cells spreading between native structures.
+CAMELYON16,209,nodular hyperplasia,"nodular hyperplasia: Well-circumscribed, non-encapsulated nodule of crowded but cytologically bland cells."
+CAMELYON16,210,t-cells,"t-cells: Small round cells with densely staining dark nuclei and very little visible cytoplasm, often in sheets."
+CAMELYON16,211,lymph node metastasis,lymph node metastasis: Irregular nests of large atypical epithelial cells infiltrating and disrupting the normal lymphoid architecture.
+CAMELYON16,212,metastatic adenocarcinoma,"metastatic adenocarcinoma: Gland-like structures formed by pleomorphic columnar cells with hyperchromatic nuclei, invading foreign stroma."
+CAMELYON16,213,perinuclear hof,perinuclear hof: A clear crescent-shaped pale area adjacent to an eccentric round nucleus in plasma cells.
+CAMELYON16,214,connective tissue cells,connective tissue cells: Spindle-shaped cells with elongated nuclei embedded among eosinophilic collagen bundles.
+CAMELYON16,215,small vessel with marked swelling and fragmentation of red blood cells,"small vessel with marked swelling and fragmentation of red blood cells: A vessel wall showing swelling, eosinophilic fibrinoid change, and fragmented erythrocytes within its wall."
+CAMELYON16,216,invasive cribriform carcinoma,"invasive cribriform carcinoma: Invading tumor nests with multiple sharp round spaces, giving a sieve-like appearance."
+CAMELYON16,217,tumor tissue,"tumor tissue: Densely packed atypical cells with pleomorphic, hyperchromatic nuclei and scant stroma."
+CAMELYON16,218,growth pattern,"growth pattern: Arrangement of tumor cells into solid fields, cords, gland-like structures, or infiltrative single files."
+CAMELYON16,219,rhabdoid morphology,rhabdoid morphology: Large epithelioid cells with abundant eosinophilic cytoplasm and eccentric vesicular nucleus.
+CAMELYON16,220,breast mass,"breast mass: A discrete nodule of proliferating cells and fibrous stroma, sharply demarcated from surrounding tissue."
+CAMELYON16,221,interstitial connective tissue,interstitial connective tissue: Loose collagen fibers and scattered fibroblasts occupying the spaces between epithelial structures.
+CAMELYON16,222,mesenchymal cells,mesenchymal cells: Elongated spindle cells with tapering nuclei lying within a collagenous extracellular matrix.
+CAMELYON16,223,collagenized tissue,"collagenized tissue: Dense, acellular bundles of bright eosinophilic collagen with very few interspersed fibroblasts."
+CAMELYON16,224,metastatic lesion,metastatic lesion: A well-defined focus of malignant cells with a distinct border separating it from normal adjacent tissue.
+CAMELYON16,225,undifferentiated carcinoma,undifferentiated carcinoma: Sheets of highly anaplastic cells with bizarre nuclei and no recognizable differentiation.
+CAMELYON16,226,low-grade mucinous neoplasms,low-grade mucinous neoplasms: Large pools of extracellular mucin containing small bland cuboidal cell clusters.
+CAMELYON16,227,perivascular lymphocytic infiltration,perivascular lymphocytic infiltration: Concentric rings of small dark lymphocytes tightly cuffing a central blood vessel.
+CAMELYON16,228,epithelial differentiation,epithelial differentiation: Cohesive cell clusters with intercellular junctions and sometimes lumen formation.
+CAMELYON16,229,metastatic breast carcinoma,"metastatic breast carcinoma: Nests of ductal-type carcinoma cells infiltrating lymphoid tissue, often with glandular spaces."
+CAMELYON16,230,high cellularity and vascularity,high cellularity and vascularity: Packed malignant cells with numerous small capillary-sized vessels coursing through the tissue.
+CAMELYON16,231,immunoblasts,"immunoblasts: Large round cells with vesicular nuclei, one prominent nucleolus, and moderate basophilic cytoplasm."
+CAMELYON16,232,signet ring,signet ring: Cells with a large clear vacuole of mucin that displaces the nucleus to the periphery.
+CAMELYON16,233,centroblasts,"centroblasts: Large lymphoid cells with round nuclei, fine chromatin, and multiple peripheral nucleoli."
+CAMELYON16,234,adenosquamous carcinoma,adenosquamous carcinoma: Tumor showing both glandular structures and squamous areas with keratin pearl formation.
+CAMELYON16,235,giant multinucleated cells,giant multinucleated cells: Large cells with multiple atypical nuclei and abundant eosinophilic cytoplasm.
+CAMELYON16,236,lymphoepithelial carcinoma,lymphoepithelial carcinoma: Syncytial sheets of carcinoma cells heavily infiltrated by small lymphocytes.
+CAMELYON16,237,reactive lymphocytes,"reactive lymphocytes: Heterogeneous lymphocytes with slightly larger nuclei, open chromatin, and more visible cytoplasm."
+CAMELYON16,238,apocrine carcinoma,apocrine carcinoma: Polygonal cells with abundant granular eosinophilic cytoplasm and apical snouts.
+CAMELYON16,239,insular pattern,"insular pattern: Solid round nests of tumor cells separated by fibrous septa, resembling islands."
+CAMELYON16,240,organoid pattern,"organoid pattern: Rounded clusters of tumor cells mimic gland-like structures, often with central lumina and peripheral palisading."
+CAMELYON16,241,chronic inflammatory infiltrate,"chronic inflammatory infiltrate: Scattered small dark lymphocytes, plasma cells with clock-face chromatin, and macrophages in the stroma."
+CAMELYON16,242,ductal carcinoma,"ductal carcinoma: Irregular nests and cords of atypical epithelial cells with enlarged, pleomorphic nuclei infiltrating fibrous stroma."
+CAMELYON16,243,perivascular pattern of tumor growth,perivascular pattern of tumor growth: Tumor cells form a cuff-like concentric layer around a central blood vessel.
+CAMELYON16,244,sinus histiocytosis,sinus histiocytosis: Dilated lymph node sinuses filled with plump histiocytes that have abundant pale eosinophilic cytoplasm.
+CAMELYON16,245,fat globules,"fat globules: Empty, round clear vacuoles within cells or tissue, representing dissolved lipid droplets."
+CAMELYON16,246,neutrophil cells,"neutrophil cells: Small cells with segmented, dark purple nuclei and pale pink granular cytoplasm, often in clusters."
+CAMELYON16,247,lymphocyte-rich,"lymphocyte-rich: Dense, dark blue sheets of small round lymphocytes with scant cytoplasm, obscuring other structures."
+CAMELYON16,248,necrotic tumor,"necrotic tumor: Amorphous eosinophilic debris with karyorrhectic nuclei, ghost cells, and loss of cellular outlines."
+CAMELYON16,249,small lymphocyte,"small lymphocyte: Tiny round cells with condensed, dark nuclei and barely visible cytoplasm, about the size of a red blood cell."
+CAMELYON16,250,neurovascular bundle,neurovascular bundle: Parallel wavy eosinophilic nerve fibers and blood vessels with endothelial lining running together in a sheath.
+CAMELYON16,251,angioinvasion,"angioinvasion: Tumor cell clusters inside a vessel lumen, often attached to or replacing the vessel wall."
+CAMELYON16,252,blood vessel wall,blood vessel wall: Concentric smooth muscle layers and fibroelastic tissue surrounding an endothelial-lined lumen.
+CAMELYON16,253,crush artifact,"crush artifact: Compressed, distorted cells with smudged, intensely basophilic nuclei and loss of tissue architecture, often at edges."
+CAMELYON16,254,high endothelial venules,"high endothelial venules: Small venules lined by plump, cuboidal endothelial cells, often surrounded by many lymphocytes."
+CAMELYON16,255,apocrine cells,"apocrine cells: Large cells with abundant, granular eosinophilic cytoplasm, round nuclei, and often apical cytoplasmic snouts."
+CAMELYON16,256,glandular architecture,glandular architecture: Tubular or acinar structures lined by a single layer of cuboidal to columnar epithelial cells around a lumen.
+CAMELYON16,257,dilatation of the lymphatics,"dilatation of the lymphatics: Widened, thin-walled lymphatic channels containing pale lymph fluid or occasionally tumor cells."
+CAMELYON16,258,basophilia,basophilia: Tissue areas stain blue-purple due to high nuclear density or abundant cytoplasmic RNA.
+CAMELYON16,259,cribriform carcinoma,"cribriform carcinoma: Rounded tumor nests with multiple small, punched-out lumina, creating a sieve-like pattern."
+CAMELYON16,260,intracytoplasmic inclusions,"intracytoplasmic inclusions: Spherical eosinophilic or clear globules inside tumor cells, sharply demarcated from surrounding cytoplasm."
+CAMELYON16,261,glycogen accumulation,"glycogen accumulation: Clear, bubble-like vacuoles in the cytoplasm that appear empty or faintly granular in H&E."
+CAMELYON16,262,triple-negative breast cancer,"triple-negative breast cancer: Solid sheets of high-grade pleomorphic tumor cells with scant cytoplasm, brisk mitoses, and geographic necrosis."
+CAMELYON16,263,perivascular inflammatory cell infiltrate,perivascular inflammatory cell infiltrate: A collar of small dark lymphocytes and plasma cells tightly surrounding a blood vessel.
+CAMELYON16,264,primary tumor,"primary tumor: Invasive carcinoma within breast tissue, forming irregular nests in desmoplastic stroma with malignant cytology."
+CAMELYON16,265,capillary endothelial cells,"capillary endothelial cells: Flat to plump cells lining small vascular spaces, with elongated nuclei and minimal cytoplasm."
+CAMELYON16,266,embolus,embolus: Clusters of tumor cells or thrombus material floating within a blood or lymphatic vessel lumen.
+CAMELYON16,267,invasive neoplasm,"invasive neoplasm: Malignant cells breaking through basement membrane into surrounding tissue, eliciting desmoplastic stromal response."
+CAMELYON16,268,micronuclei,"micronuclei: Small, round, extra-nuclear basophilic dots in the cytoplasm, separated from the main nucleus."
+CAMELYON16,269,glandular neoplasm,glandular neoplasm: Tumor forming irregular malignant gland-like tubules lined by atypical epithelial cells with luminal spaces.
+CAMELYON16,270,breast tumor,breast tumor: Irregular nests and cords of large atypical cells with prominent nucleoli and eosinophilic cytoplasm infiltrating fibrous stroma.
+CAMELYON16,271,starry sky pattern,starry sky pattern: Darkly stained lymphoid background with scattered pale phagocytic macrophages containing ingested debris.
+CAMELYON16,272,microglandular spaces,microglandular spaces: Small round empty lumens lined by a single layer of mildly atypical cuboidal cells.
+CAMELYON16,273,tufting,tufting: Small clusters of epithelial cells protruding into gland lumens like hobnail projections.
+CAMELYON16,274,myofibroblastic proliferation,myofibroblastic proliferation: Intersecting fascicles of plump spindle cells with elongated nuclei and pale eosinophilic cytoplasm.
+CAMELYON16,275,acute hemorrhage,acute hemorrhage: Homogeneous bright red patches of extravasated red blood cells dissecting tissue planes.
+CAMELYON16,276,fibrous layer,fibrous layer: Eosinophilic bands of dense collagen with scarce flat fibroblasts aligned in parallel.
+CAMELYON16,277,nodular lymphoid or lymphoplasmacytic islands,nodular lymphoid or lymphoplasmacytic islands: Circumscribed dense aggregates of small dark lymphocytes and scattered plasma cells.
+CAMELYON16,278,glandular tumor,"glandular tumor: Back-to-back atypical glands with irregular shapes, lined by stratified hyperchromatic epithelium."
+CAMELYON16,279,microinvasive carcinoma,microinvasive carcinoma: Single or small clusters of malignant cells breaching basement membrane into desmoplastic stroma.
+CAMELYON16,280,neoplastic nodule,"neoplastic nodule: Expansile, well-demarcated solid cluster of tumor cells compressing adjacent normal tissue."
+CAMELYON16,281,entrapment of adipocytes,entrapment of adipocytes: Tumor cells encircling empty-looking round adipocytes with eccentrically flattened nuclei.
+CAMELYON16,282,stromal process with myxoid stroma,stromal process with myxoid stroma: Loose pale blue extracellular matrix with sparse stellate fibroblasts and delicate vessels.
+CAMELYON16,283,mucinous differentiation,mucinous differentiation: Pools of pale basophilic extracellular mucin containing floating clusters of tumor cells.
+CAMELYON16,284,bizarre cells,"bizarre cells: Huge, pleomorphic, hyperchromatic nuclei with irregular contours, often multinucleated."
+CAMELYON16,285,metaplastic carcinoma,metaplastic carcinoma: Malignant epithelial cells admixed with malignant spindle cells or areas of squamous differentiation.
+CAMELYON16,286,tubular carcinoma,tubular carcinoma: Angulated open tubules with single layer of low-grade cuboidal cells and scanty stroma.
+CAMELYON16,287,rhabdoid cell,"rhabdoid cell: Large cells with abundant eosinophilic cytoplasm, eccentric nuclei, and parameter inclusion-like bodies."
+CAMELYON16,288,pushing invasion pattern,"pushing invasion pattern: Smooth, rounded tumor border pressing against normal tissue without interdigitating infiltration."
+CAMELYON16,289,glandular proliferation,"glandular proliferation: Increased number of closely packed glandular structures, some with luminal secretions."
+CAMELYON16,290,microcalcifications,microcalcifications: Small irregular basophilic concretions within gland lumens or stroma.
+CAMELYON16,291,breast lobules,breast lobules: Terminal duct-lobular units with loose intralobular stroma and acini arranged around a central ductule.
+CAMELYON16,292,plasmablasts,"plasmablasts: Large cells with round eccentric nuclei, perinuclear clearing, and basophilic cytoplasm."
+CAMELYON16,293,pericytes with nuclei to the side,pericytes with nuclei to the side: Spindle cells adjacent to capillary walls with flattened nuclei oriented parallel to the vessel.
+CAMELYON16,294,nodular tumor,nodular tumor: A discrete rounded mass of malignant cells separated from surrounding tissue by a clear boundary.
+CAMELYON16,295,lymphoid hyperplasia,"lymphoid hyperplasia: Expanded lymphoid follicles with preserved polarity, tingible-body macrophages, and mitotic figures."
+CAMELYON16,296,hemorrhagic necrosis,hemorrhagic necrosis: Amorphous eosinophilic necrotic debris mixed with extravasated red blood cells.
+CAMELYON16,297,"sharp, punched out lumens","sharp, punched out lumens: Rigidly round open gland lumens as if created by a hole punch, lined by tumor cells."
+CAMELYON16,298,clear cell adenocarcinoma,clear cell adenocarcinoma: Glands and tubules lined by cells with optically clear cytoplasm and distinct cell borders.
+CAMELYON16,299,malignant glandular cells,malignant glandular cells: Atypical epithelial cells with enlarged hyperchromatic nuclei and irregular gland formation.
+CAMELYON16,300,metastatic signet ring carcinoma,"metastatic signet ring carcinoma: Single or clustered cells with intracytoplasmic mucin vacuole displacing nucleus to periphery, creating signet ring morphology."
+CAMELYON16,301,bulky tumor,"bulky tumor: Large, confluent sheets and nests of carcinoma cells replacing normal tissue."
+CAMELYON16,302,architectural pattern,"architectural pattern: The overall spatial organization of cells, such as nest, trabecular, or glandular formations."
+CAMELYON16,303,metastatic breast,metastatic breast: Epithelial tumor cells with breast origin forming nests or glands within lymph node tissue.
+CAMELYON16,304,secretory carcinoma,secretory carcinoma: Tumor cells with abundant eosinophilic intracellular or luminal secretions.
+CAMELYON16,305,histiocytic proliferation,"histiocytic proliferation: Abundant cells with abundant foamy or granular cytoplasm, oval-to-reniform nuclei, suggestive of histiocytes."
+CAMELYON16,306,proliferative activity,proliferative activity: Increased mitotic figures characterized by condensed chromosomes in dividing cells.
+CAMELYON16,307,mass lesion,mass lesion: A well-circumscribed aggregate of abnormal cells forming a discrete mass.
+CAMELYON16,308,collagen fiber bundle,collagen fiber bundle: Pink to eosinophilic wavy bundles of fibrous tissue.
+CAMELYON16,309,micronodular pattern,"micronodular pattern: Small, discrete nodules of tumor cells separated by fibrous stroma or sinusoids."
+CAMELYON16,310,acinar pattern,"acinar pattern: Tumor cells arranged in small, round gland-like structures with central lumens."
+CAMELYON16,311,hilum,"hilum: Area containing vessels, fat, and connective tissue entering the lymph node."
+CAMELYON16,312,lymphatic sinuses,"lymphatic sinuses: Endothelium-lined channels within lymph node, often containing histiocytes or tumor cells."
+CAMELYON16,313,invasive cancer,invasive cancer: Irregular tumor cell nests or single cells infiltrating into surrounding stroma without basement membrane.
+CAMELYON16,314,darker staining surrounding area indicated as lymph node cortex,"darker staining surrounding area indicated as lymph node cortex: Basophilic region due to dense accumulation of lymphocytes, indicative of lymph node cortex."
+CAMELYON16,315,b-cells,"b-cells: Lymphocytes within the lymph node cortex follicles, representing B-cell areas morphologically."
+CAMELYON16,316,pleomorphic cell nuclei,"pleomorphic cell nuclei: Nuclei with marked variation in size and shape, with coarse chromatin and irregular membranes."
+CAMELYON16,317,lymphangitic spread,lymphangitic spread: Tumor cell clusters within endothelial-lined lymphatic channels.
+CAMELYON16,318,mesenchymal stroma,mesenchymal stroma: Spindle-shaped fibroblastic cells mixed with collagen fibers forming the supportive tissue.
+CAMELYON16,319,microinvasion,microinvasion: Small clusters or individual tumor cells breaching the basement membrane into stroma.
+CAMELYON16,320,capillary vessels,"capillary vessels: Small, thin-walled vessels lined by a single endothelial layer, often containing red blood cells."
+CAMELYON16,321,hypoxia,"hypoxia: Necrotic areas with nuclear fading and loss of cellular detail, often peritumoral."
+CAMELYON16,322,focal necrosis,"focal necrosis: Small, well-defined areas of cell death with granular eosinophilic debris and nuclear debris."
+CAMELYON16,323,glandular columnar epithelium,glandular columnar epithelium: Tall columnar cells with basal nuclei and apical cytoplasm forming glandular structures.
+CAMELYON16,324,tangible body macrophage,tangible body macrophage: Macrophages within germinal centers containing phagocytosed apoptotic debris in abundant cytoplasm.
+CAMELYON16,325,lymphatic endothelium,"lymphatic endothelium: Flattened, elongated endothelial cells lining lymphatic sinuses or channels."
+CAMELYON16,326,multifocal lesions,multifocal lesions: Multiple discrete foci of tumor cells separated by normal tissue.
+CAMELYON16,327,dystrophy calcification,dystrophy calcification: Irregular granular purple-blue calcium deposits within degenerating or necrotic tissue.
+CAMELYON16,328,zonal necrosis,zonal necrosis: Geographic or band-like areas of eosinophilic tissue loss with nuclear debris.
+CAMELYON16,329,prolymphocytes,prolymphocytes: Medium to large lymphoid cells with prominent nucleoli and dispersed chromatin.
+CAMELYON16,330,ductal breast carcinoma,ductal breast carcinoma: Malignant epithelial cells forming irregular duct-like structures infiltrating fibrous stroma.
+CAMELYON16,331,cord-like pattern,"cord-like pattern: Single-file strands of tumor cells aligned in thin, linear cords."
+CAMELYON16,332,papillary hyperplasia,papillary hyperplasia: Multiple finger-like epithelial projections with fibrovascular cores protruding into dilated ducts.
+CAMELYON16,333,basement membrane abnormalities,"basement membrane abnormalities: Thickened, fragmented, or absent eosinophilic basement membrane around epithelial nests."
+CAMELYON16,334,glycogen-rich,"glycogen-rich: Tumor cells with abundant clear, often vacuolated cytoplasm due to glycogen content."
+CAMELYON16,335,stromal hyperplasia,"stromal hyperplasia: Dense, expanded fibrous connective tissue with increased fibroblast-like cells."
+CAMELYON16,336,inflammatory disease characterized by the presence of histiocytes,"inflammatory disease characterized by the presence of histiocytes: Numerous large, foamy or granular histiocytes admixed with other inflammatory cells."
+CAMELYON16,337,squamoid differentiation,squamoid differentiation: Polygonal tumor cells with abundant eosinophilic cytoplasm and distinct cell borders resembling squamous epithelium.
+CAMELYON16,338,mantle zones,mantle zones: Dark rims of small lymphocytes encircling reactive germinal centers.
+CAMELYON16,339,inflammatory infiltration,"inflammatory infiltration: Scattered lymphocytes, plasma cells, and occasional neutrophils within tissue."
+CAMELYON16,340,papillary ductal carcinoma,papillary ductal carcinoma: Malignant epithelial cells arranged in papillary fronds within duct-like structures.
+CAMELYON16,341,solid adenocarcinoma,solid adenocarcinoma: Sheets of cohesive tumor cells lacking glandular or ductal lumina formation.
+CAMELYON16,342,benign cells,"benign cells: Uniform, small cells with regular round nuclei and scant cytoplasm without atypia."
+CAMELYON16,343,prominent nuclear molding,"prominent nuclear molding: Adjacent tumor cell nuclei indenting each other, creating a compressed, molded appearance."
+CAMELYON16,344,vascular endothelium,vascular endothelium: Flattened endothelial cells lining vascular spaces containing red blood cells.
+CAMELYON16,345,minimally invasive,minimally invasive: Small tongues of tumor cells penetrating stroma beyond the main ductal or lobular boundary.
+CAMELYON16,346,atypical cytology,"atypical cytology: Enlarged, pleomorphic nuclei with irregular contours and hyperchromasia."
+CAMELYON16,347,mammary tissue,mammary tissue: Lobules and ducts lined by bilayered epithelial cells in fatty stroma.
+CAMELYON16,348,hypocellularity,hypocellularity: Sparse cellularity with abundant pale extracellular matrix and few nuclei.
+CAMELYON16,349,reactive vascular proliferation,"reactive vascular proliferation: Protuberant, tangle-like growth of small blood vessels with plump endothelial cells."
+CAMELYON16,350,inflammatory activity,inflammatory activity: Evidence of ongoing inflammation with neutrophils and lymphocytes in edematous stroma.
+CAMELYON16,351,geographic pattern tumor necrosis,"geographic pattern tumor necrosis: Irregular, map-like zones of eosinophilic necrotic debris surrounded by viable tumor."
+CAMELYON16,352,nuclear fragmentation,"nuclear fragmentation: Karyorrhectic nuclear debris with small, dark, irregular fragments in necrotic areas."
+CAMELYON16,353,cd8-positive t cells,"cd8-positive t cells: Small lymphocytes with round nuclei and scant cytoplasm, not visible as CD8+ but morphologically consistent."
+CAMELYON16,354,branching glans and cords with papillae,branching glans and cords with papillae: Glandular structures and epithelial cords with multiple small papillary projections.
+CAMELYON16,355,clear cell tumors,clear cell tumors: Tumor cells with optically clear or vacuolated cytoplasm and distinct cell borders.
+CAMELYON16,356,pink hyaline material,"pink hyaline material: Homogeneous, eosinophilic, glassy extracellular deposits between cells."
+CAMELYON16,357,problem appreciating the boundaries of the cells,problem appreciating the boundaries of the cells: Indistinct cell borders making individual cell outlines difficult to discern.
+CAMELYON16,358,net-like or fenestrated pattern,"net-like or fenestrated pattern: Tumor cells arranged in a lacy, fenestrated network with small gaps."
+CAMELYON16,359,micropapillary carcinoma,"micropapillary carcinoma: Small, cohesive tumor clusters with reverse polarity floating in clear spaces."
+CAMELYON16,360,multinucleation,"multinucleation: Cells containing multiple nuclei within a single cell boundary, often in giant cells."
+CAMELYON16,361,comedo dcis,comedo dcis: Ducts filled with high-grade neoplastic cells surrounding a central core of eosinophilic necrotic debris.
+CAMELYON16,362,nuclear pseudoinclusions,"nuclear pseudoinclusions: Nuclei with round, clear, cytoplasmic invaginations giving a punched-out appearance."
+CAMELYON16,363,lymph node disease,"lymph node disease: Lymph node parenchyma partly or fully replaced by neoplastic cells, effacing normal architecture."
+CAMELYON16,364,muciphages,"muciphages: Macrophages with foamy, vacuolated cytoplasm containing pale mucin, often amidst mucin pools."
+CAMELYON16,365,metastatic globular carcinoma,"metastatic globular carcinoma: Isolated clusters of tumor cells floating within mucin lakes, forming globular structures."
+CAMELYON16,366,inflammatory breast cancer,"inflammatory breast cancer: Dilated dermal lymphatics containing solid tumor emboli, with little stromal reaction."
+CAMELYON16,367,cd3 cells,"cd3 cells: Small round lymphocytes with dark nuclei and scant cytoplasm, indistinguishable from other lymphocytes on H&E."
+CAMELYON16,368,lymphocytic inflammatory infiltrate,lymphocytic inflammatory infiltrate: Dense infiltrate of small dark blue lymphocytes within the tissue stroma.
+CAMELYON16,369,tumor deposit,"tumor deposit: Isolated solid nests of tumor cells in fat or connective tissue, lacking residual lymph node architecture."
+CAMELYON16,370,perivascular smooth muscle cells (pericytes,perivascular smooth muscle cells (pericytes: Spindle-shaped cells with elongated nuclei arranged circumferentially around small vessels.
+CAMELYON16,371,normal cells,normal cells: Uniform small nuclei with regular arrangement and no atypia in organized tissue structures.
+CAMELYON16,372,tumor vasculature,"tumor vasculature: Irregular, dilated, and branching vessels with abnormal contours within tumor tissue."
+CAMELYON16,373,columnar cells with nuclear palisading,"columnar cells with nuclear palisading: Tall columnar cells with elongated nuclei aligned parallel, creating a picket-fence palisading pattern."
+CAMELYON16,374,glandular epithelial cells,"glandular epithelial cells: Cuboidal to columnar cells lining glandular lumina, with round nuclei and eosinophilic cytoplasm."
+CAMELYON16,375,polarity loss,"polarity loss: Disorganized cells with nuclei no longer basally oriented, often forming solid or cribriform patterns."
+CAMELYON16,376,s-shaped wavy nucleus,"s-shaped wavy nucleus: Elongated nuclei with a wavy, serpentine, or S-shaped contour in neoplastic cells."
+CAMELYON16,377,lymph node tissue,"lymph node tissue: Organized lymphoid tissue with follicles, germinal centers, and sinuses lined by endothelial cells."
+CAMELYON16,378,breast sample,breast sample: Tissue containing breast ducts and lobules embedded in fibroadipose stroma.
+CAMELYON16,379,mass effect,mass effect: A well-circumscribed nodule compressing adjacent normal tissue with a pushing border.
+CAMELYON16,380,phagocytic cells,"phagocytic cells: Cells with abundant cytoplasm containing ingested debris, apoptotic bodies, or foreign material."
+CAMELYON16,381,cribriform dcis,"cribriform dcis: Ducts filled with neoplastic cells punctuated by multiple small, rounded, punched-out lumens."
+CAMELYON16,382,dis-cohesive pattern,"dis-cohesive pattern: Individual, scattered tumor cells lacking cell-cell adhesion, often in single-file infiltration."
+CAMELYON16,383,invasive apocrine carcinoma,"invasive apocrine carcinoma: Large cells with abundant granular eosinophilic cytoplasm, prominent nucleoli, and infiltrative growth."
+CAMELYON16,384,micropapillary dcis,"micropapillary dcis: Ducts containing small papillary epithelial tufts lacking fibrovascular cores, with low-grade nuclei."
+CAMELYON16,385,single-cell necrosis,"single-cell necrosis: Isolated shrunken cells with hypereosinophilic cytoplasm and pyknotic nuclei, often apoptotic bodies."
+CAMELYON16,386,scirrhous carcinoma,"scirrhous carcinoma: Small nests and cords of tumor cells embedded in abundant dense, hyalinized stroma."
+CAMELYON16,387,sentinel lymph nodes,sentinel lymph nodes: Lymph node tissue that may contain small metastatic foci or isolated tumor cells under low-power scanning.
+CAMELYON16,388,lighter areas composed of monocytoid b-lymphocytes,lighter areas composed of monocytoid b-lymphocytes: Pale-staining zones of medium-sized cells with abundant clear cytoplasm and round to irregular nuclei.
+CAMELYON16,389,reticulum cells,reticulum cells: Stellate or spindle cells with pale elongated nuclei forming a supporting meshwork in lymphoid tissue.
+CAMELYON16,390,dermatopathic lymphadenitis,dermatopathic lymphadenitis: Interfollicular areas expanded by pale histiocytes containing brown melanin pigment and scattered eosinophils.
+CAMELYON16,391,lymphoid organs,lymphoid organs: Dense aggregates of small round blue lymphocytes forming follicular structures with germinal centers.
+CAMELYON16,392,castleman disease,castleman disease: Regressed germinal centers penetrated by hyalinized vessels surrounded by concentric layers of mantle zone lymphocytes.
+CAMELYON16,393,cell dividing,cell dividing: Cells with condensed chromosomes visible as dark clumps arranged at the metaphase plate or separating.
+CAMELYON16,394,mucin-producing adenocarcinoma,mucin-producing adenocarcinoma: Clusters of atypical epithelial cells floating within large pools of pale blue-gray extracellular mucin.
+CAMELYON16,395,normal lymphocytes,normal lymphocytes: Uniform small round cells with dark condensed nuclei and scant cytoplasm.
+CAMELYON16,396,high-grade adenocarcinoma,high-grade adenocarcinoma: Solid sheets and poorly formed glands of markedly atypical cells with large irregular nuclei and frequent mitoses.
+CAMELYON16,397,high-grade ductal carcinoma,high-grade ductal carcinoma: Solid nests of large pleomorphic cells with prominent nucleoli and central comedonecrosis within ducts.
+CAMELYON16,398,tumor processes,tumor processes: Abnormal growth forming mass with disorganized architecture and crowded atypical cells.
+CAMELYON16,399,lack of adhesion between many of the cells,"lack of adhesion between many of the cells: Individual cells or loosely cohesive single-file strands lacking intercellular connections, often with cytoplasmic clearing."
+CAMELYON16,400,primary lymphoid nodule seen at the yellow arrow,primary lymphoid nodule seen at the yellow arrow: A round aggregate of densely packed small lymphocytes without an obvious germinal center.
+CAMELYON16,401,"washed out, vacuolated-looking nuclei","washed out, vacuolated-looking nuclei: Nuclei appear pale and swollen with clearing of chromatin, resembling empty vacuoles."
+CAMELYON16,402,cellular pleomorphism,"cellular pleomorphism: Marked variation in cell and nuclear size and shape, with bizarre giant cells and irregular hyperchromatic nuclei."
+CAMELYON16,403,"large, deep vessel","large, deep vessel: A thick-walled blood vessel with a wide lumen, lined by flat endothelial cells, surrounded by smooth muscle."
+CAMELYON16,404,normal fat,normal fat: Large clear cells with thin peripheral nuclei and delicate cell membranes forming lobules.
+CAMELYON16,405,granulomatous rim with activated macrophages,granulomatous rim with activated macrophages: Palisaded epithelioid histiocytes with abundant pink cytoplasm surrounding a central necrotic zone.
+CAMELYON16,406,para-aortic lymph node,para-aortic lymph node: Encapsulated lymphoid organ with cortex containing lymphoid follicles and paracortex with high endothelial venules.
+CAMELYON16,407,vascular abnormalities,"vascular abnormalities: Dilated, thin-walled vascular channels filled with red blood cells, lacking normal vessel hierarchy."
+CAMELYON16,408,chronic active inflammation,"chronic active inflammation: Mixed infiltrate of lymphocytes, plasma cells, and scattered neutrophils within edematous stroma."
+CAMELYON16,409,lipid-laden macrophage,"lipid-laden macrophage: Large cells with abundant foamy, clear cytoplasm and small round nuclei, often clustered."
+CAMELYON16,410,macrotrabecular pattern,"macrotrabecular pattern: Thick cords of tumor cells more than 10 cells wide, separated by vascular sinusoids."
+CAMELYON16,411,adipose and fibroadipose tissue,adipose and fibroadipose tissue: Mature adipose tissue with interspersed bands of pink collagenous fibrous tissue.
+CAMELYON16,412,intracystic papillary carcinoma,intracystic papillary carcinoma: Papillary fronds with fibrovascular cores lined by stratified atypical epithelial cells within a cystic space.
+CAMELYON16,413,high-grade nuclei and two- to three-fold nuclear variability in pleomorphic lobular carcinoma,"high-grade nuclei and two- to three-fold nuclear variability in pleomorphic lobular carcinoma: Markedly enlarged, irregular nuclei with up to three-fold size variation in loosely cohesive single cells or cords."
+CAMELYON16,414,metastatic ductal carcinoma,"metastatic ductal carcinoma: Nests and tubules of malignant epithelial cells infiltrating the lymph node parenchyma, often with desmoplasia."
+CAMELYON16,415,memory cells,memory cells: Small lymphocytes with condensed chromatin indistinguishable from naïve lymphocytes on H&E.
+CAMELYON16,416,discrepancy between cell appearance and mitotic count,discrepancy between cell appearance and mitotic count: Cells exhibit relatively bland nuclear features yet mitotic figures are unexpectedly frequent.
+CAMELYON16,417,islands of viable cells,islands of viable cells: Clusters of intact tumor cells surrounded by necrotic debris and apoptotic fragments.
+CAMELYON16,418,white adipose tissue,white adipose tissue: Unilocular adipocytes with large single lipid vacuoles and eccentric flattened nuclei.
+CAMELYON16,419,histiocytes with oval nucleus and ample pink cytoplasm,histiocytes with oval nucleus and ample pink cytoplasm: Cells with oval vesicular nuclei and abundant homogeneous eosinophilic cytoplasm.
+CAMELYON16,420,medullary tumor,medullary tumor: Sheets of large syncytial tumor cells with prominent nucleoli and a brisk lymphoplasmacytic infiltrate.
+CAMELYON16,421,neoplastic conditions,neoplastic conditions: Disorganized growth of atypical cells with hyperchromatic nuclei and loss of normal architecture.
+CAMELYON16,422,nodal disease,nodal disease: Lymph node parenchyma effaced by clusters or sheets of malignant epithelial cells.
+CAMELYON16,423,cytomegaly,"cytomegaly: Cells markedly larger than adjacent lymphocytes, with enlarged, often pleomorphic nuclei."
+CAMELYON16,424,microvacuolation,"microvacuolation: Cytoplasm filled with multiple tiny clear vacuoles, giving a foamy appearance."
+CAMELYON16,425,ductular proliferation,"ductular proliferation: Small, angulated gland-like structures lined by atypical cuboidal to columnar epithelium."
+CAMELYON16,426,tumor island,tumor island: Solid rounded nests of cohesive carcinoma cells separated by desmoplastic stroma.
+CAMELYON16,427,neurovascular and follicular structures,"neurovascular and follicular structures: Residual lymphoid follicles with germinal centers, admixed small nerves and blood vessels."
+CAMELYON16,428,tumor fragments,tumor fragments: Irregular small detached clusters of neoplastic cells surrounded by necrosis or stroma.
+CAMELYON16,429,large pleomorphic tumor cells,"large pleomorphic tumor cells: Giant neoplastic cells with bizarre, multilobated nuclei and abundant eosinophilic cytoplasm."
+CAMELYON16,430,lymphatic follicle in lamina propria,lymphatic follicle in lamina propria: A well-circumscribed lymphoid aggregate with a pale germinal center within loose connective tissue.
+CAMELYON16,431,chronic fibrosis,"chronic fibrosis: Broad bands of dense, eosinophilic collagen with scattered spindle-shaped fibroblasts."
+CAMELYON16,432,comedocarcinoma pattern,"comedocarcinoma pattern: Solid plugs of tumor cells with central necrotic debris, resembling dilated ducts."
+CAMELYON16,433,thickened cortex,thickened cortex: Expanded outer zone of lymph node densely packed with small lymphocytes or neoplastic infiltrate.
+CAMELYON16,434,granulomatous lymphadenitis,"granulomatous lymphadenitis: Collections of epithelioid histiocytes with abundant pale cytoplasm, often forming multinucleated giant cells."
+CAMELYON16,435,"large, prominent irregular nuclei with focal necrosis","large, prominent irregular nuclei with focal necrosis: Nuclei markedly enlarged and abnormal in shape, surrounded by patches of eosinophilic necrotic material."
+CAMELYON16,436,columnar change,"columnar change: Dilated acini lined by tall columnar cells with elongated, hyperchromatic nuclei and apical snouts."
+CAMELYON16,437,interdigitating cell connections,"interdigitating cell connections: Cells with delicate cytoplasmic processes interlocking closely, creating a reticular appearance."
+CAMELYON16,438,abscessed areas,"abscessed areas: Circumscribed zones filled with neutrophils, necrotic debris, and fibrin surrounded by inflammation."
+CAMELYON16,439,plasmacytic infiltrate,plasmacytic infiltrate: Sheets of mature plasma cells with eccentric clock-face nuclei and perinuclear clearing.
+CAMELYON16,440,long fingers or tongues of bluish to pink cells,long fingers or tongues of bluish to pink cells: Narrow infiltrating cords of basophilic to eosinophilic tumor cells dissecting through stroma.
+CAMELYON16,441,small vessels with open lumina and occasional hematopoietic cell within some of these lumina,small vessels with open lumina and occasional hematopoietic cell within some of these lumina: Thin-walled vascular channels containing scattered erythroid and myeloid precursors alongside red blood cells.
+CAMELYON16,442,black discoloration inside macrophages in septate type,"black discoloration inside macrophages in septate type: Brown-black granular pigment packed within macrophages, often highlighting cytoplasmic septae."
+CAMELYON16,443,tubule structures,tubule structures: Small round or oval glandular lumina lined by a single layer of cuboidal to columnar epithelium.
+CAMELYON16,444,vascular metastasis,vascular metastasis: Clusters of carcinoma cells adherent to endothelium and plugging a vascular lumen.
+CAMELYON16,445,reticuloendothelial cells,"reticuloendothelial cells: Large, plump sinusoidal lining cells with abundant pale cytoplasm and oval bland nuclei."
+CAMELYON16,446,lymph node capsule,"lymph node capsule: A dense fibrous sheath at the node periphery, occasionally infiltrated by invasive tumor cells."
+CAMELYON16,447,suppurative lymphadenitis,suppurative lymphadenitis: Lymph node architecture obliterated by dense neutrophilic infiltrates and necrotic debris.
+CAMELYON16,448,triangle-shaped or stellate cells,"triangle-shaped or stellate cells: Spindled to stellate stromal cells with elongated nuclei, embedded in loose myxoid or fibrous matrix."
+CAMELYON16,449,primary malignant neoplasm,primary malignant neoplasm: An invasive growth of anaplastic cells with marked nuclear pleomorphism and high mitotic activity.
+CAMELYON16,450,axillary tail of the breast tissue,axillary tail of the breast tissue: Breast ducts and lobules within fibroadipose stroma extending into axillary region.
+CAMELYON16,451,decreasing cell size,"decreasing cell size: A gradient of progressively smaller cells with darker, condensed nuclei from one zone to another."
+CAMELYON16,452,nuclei examination to determine grade 3 characteristics,"nuclei examination to determine grade 3 characteristics: Markedly pleomorphic, enlarged, hyperchromatic nuclei with irregular contours and prominent nucleoli."
+CAMELYON16,453,cells with apoptotic nuclei,"cells with apoptotic nuclei: Cells containing shrunken, deeply eosinophilic, fragmented nuclei as apoptotic bodies."
+CAMELYON16,454,cuffing in the superficial vessels,cuffing in the superficial vessels: Lymphocytes forming a dense perivascular collar around small superficial vessels.
+CAMELYON16,455,tumor thrombus in a large vessel,tumor thrombus in a large vessel: Intravascular cohesive cluster of malignant cells occluding a large vessel lumen with fibrin.
+CAMELYON16,456,monocytoid b cells,monocytoid b cells: Sheets of medium-sized lymphocytes with ample pale cytoplasm and slightly irregular monocytoid nuclei.
+CAMELYON16,457,lymphatic stasis,lymphatic stasis: Dilated lymphatics filled with eosinophilic lymph fluid and sparse lymphocytes.
+CAMELYON16,458,tissue invasion,tissue invasion: Malignant cell clusters breaching normal tissue boundaries and infiltrating surrounding stroma.
+CAMELYON16,459,invasive growth in the subepithelial stroma,invasive growth in the subepithelial stroma: Tumor cells penetrating the connective tissue immediately beneath an epithelial layer.
+CAMELYON16,460,proliferative vessels (microvascular proliferation,"proliferative vessels (microvascular proliferation: Increased number of small, thin-walled, often glomeruloid microvessels in reactive or tumor tissue."
+CAMELYON16,461,hemangiopericytoma-like vessels of staghorn configuration,hemangiopericytoma-like vessels of staghorn configuration: Branching thin-walled vessels with a characteristic staghorn-like branching pattern.
+CAMELYON16,462,wedge-shaped growth pattern,"wedge-shaped growth pattern: A triangular, pie-shaped lesion with the base near the periphery and apex deep."
+CAMELYON16,463,necrotic lesions,"necrotic lesions: Eosinophilic amorphous areas with cell debris, ghost cells, and loss of nuclear staining."
+CAMELYON16,464,histiocytic cell,"histiocytic cell: Large cells with abundant foamy or granular cytoplasm and bland oval nuclei, possibly containing debris."
+CAMELYON16,465,small peripheral blood vessels,small peripheral blood vessels: Numerous tiny thin-walled capillaries and venules at the tissue periphery.
+CAMELYON16,466,reactive fibrosis,reactive fibrosis: Dense collagen bundles and spindled fibroblasts surrounding glands or lesions.
+CAMELYON16,467,anaplastic cell,"anaplastic cell: Tumor cells with extreme nuclear pleomorphism, bizarre giant forms, and abundant cytoplasm."
+CAMELYON16,468,stippling of chronic inflammatory cells,stippling of chronic inflammatory cells: Numerous punctate dark lymphocytes diffusely scattered throughout the stroma.
+CAMELYON16,469,tumor embolus,tumor embolus: A plug of tumor cells within a blood or lymphatic vessel lumen.
+CAMELYON16,470,mammary paget disease,"mammary paget disease: Large, pale-staining atypical cells with abundant cytoplasm infiltrating the nipple epidermis."
+CAMELYON16,471,necrotic changes here,"necrotic changes here: Focal areas of cell death with eosinophilic debris, ghost outlines, and karyolysis."
+CAMELYON16,472,cells are coherent,cells are coherent: Clusters of tightly adherent cells with distinct cell borders forming cohesive groups.
+CAMELYON16,473,multifocal disease,multifocal disease: Multiple discrete tumor nodules separated by normal tissue in the same section.
+CAMELYON16,474,prominent collagenous stroma,"prominent collagenous stroma: A dense, eosinophilic, acellular fibrous background with abundant collagen bundles."
+CAMELYON16,475,metastatic cancers and their preferred sites of metastasis,"metastatic cancers and their preferred sites of metastasis: Tumor masses in typical distant sites like lymph node, liver, or bone with distinct architecture from native parenchyma."
+CAMELYON16,476,cystic hypersecretory carcinoma,cystic hypersecretory carcinoma: Cystically dilated spaces lined by atypical epithelium containing dense eosinophilic secretion.
+CAMELYON16,477,vascular endothelial cells,"vascular endothelial cells: Flat, elongated cells lining vessel walls with sparse cytoplasm and oval nuclei."
+CAMELYON16,478,infiltrating adenocarcinoma glands,"infiltrating adenocarcinoma glands: Irregular, infiltrative malignant glandular structures penetrating the fibrous stroma."
+CAMELYON16,479,neuroendocrine component,"neuroendocrine component: Nests of uniform cells with salt-and-pepper chromatin, sometimes forming rosettes."
+CAMELYON16,480,mucinous columnar cell type,mucinous columnar cell type: Tall columnar cells with apical mucin vacuoles floating in pale basophilic mucin pools.
+CAMELYON16,481,reticular tissue,reticular tissue: Delicate meshwork of fine eosinophilic fibers with scattered small dark nuclei.
+CAMELYON16,482,lymph node with tumor replacement,lymph node with tumor replacement: Lymph node architecture effaced by confluent sheets of large atypical epithelial cells.
+CAMELYON16,483,acute lymphadenitis,acute lymphadenitis: Dilated sinuses filled with neutrophils and karyorrhectic debris amid a reactive lymphoid background.
+CAMELYON16,484,diffused cellular infiltrate,"diffused cellular infiltrate: Uniform small round cells infiltrating diffusely between preserved structures, nuclei hyperchromatic."
+CAMELYON16,485,undifferentiated epithelioid cells,undifferentiated epithelioid cells: Solid clusters of large polygonal cells with abundant eosinophilic cytoplasm and pleomorphic nuclei lacking gland formation.
+CAMELYON16,486,mono nuclear histiocytoid cells,mono nuclear histiocytoid cells: Single round cells with pale foamy cytoplasm and eccentric bland nuclei resembling histiocytes.
+CAMELYON16,487,2.1 centimeter mass in her left breast,2.1 centimeter mass in her left breast: Circumscribed tumor nodule composed of cohesive malignant cells with pushing borders.
+CAMELYON16,488,acute purulent inflammation,"acute purulent inflammation: Dense collection of neutrophils, necrotic debris, and fibrin forming purulent exudate."
+CAMELYON16,489,pashy kind of stromal change,pashy kind of stromal change: Patchy hypocellular areas with pale eosinophilic edematous or myxoid stroma.
+CAMELYON16,490,metaplastic breast carcinomas,"metaplastic breast carcinomas: Tumor cells showing abrupt squamous, spindle, or chondro-osseous differentiation within a carcinoma background."
+CAMELYON16,491,primary squamous cell carcinoma,"primary squamous cell carcinoma: Irregular nests of polygonal cells with intercellular bridges, keratin pearls, and eosinophilic cytoplasm."
+CAMELYON16,492,neoplastic large lp cells,neoplastic large lp cells: Large atypical lymphoid cells with scant cytoplasm and prominent nucleoli infiltrating in diffuse pattern.
+CAMELYON16,493,background dendritic cell network,"background dendritic cell network: Fine branching cellular processes forming a meshwork, with slender pale nuclei seen between other cells."
+CAMELYON16,494,agranulocyte,agranulocyte: Small round cells with scant basophilic cytoplasm and dense round nucleus lacking visible granules.
+CAMELYON16,495,left axilla,"left axilla: Adipose tissue containing a lymph node capsule and peripheral sinus, consistent with axillary location."
+CAMELYON16,496,efferent lymphatic duct,"efferent lymphatic duct: Thin-walled vessel lined by flat endothelial cells, lumen containing pale lymph without red blood cells."
+CAMELYON16,497,intravasation,intravasation: Clusters of malignant cells attached to endothelium within a vascular space filled with blood.
+CAMELYON16,498,gland distortion,gland distortion: Angulated and elongated gland profiles with irregular lumens and stratified atypical epithelium.
+CAMELYON16,499,sclerosing carcinoma with blue myxoid collagen and dense collagen,sclerosing carcinoma with blue myxoid collagen and dense collagen: Scattered small tumor cell clusters in a stroma with pale blue myxoid areas and thick eosinophilic collagen bundles.
+CAMELYON16,500,tumor margins,tumor margins: Interface between invasive tumor nests and adjacent non-neoplastic tissue with surrounding desmoplastic reaction.
+CAMELYON16,501,cytotoxic cells with abundant cytoplasm,cytotoxic cells with abundant cytoplasm: Medium to large cells with ample lightly eosinophilic cytoplasm and a round to reniform nucleus.
+CAMELYON16,502,granulomatous lesions,granulomatous lesions: Well-circumscribed aggregates of plump epithelioid histiocytes with occasional multinucleated giant cells and lymphocytic rim.
+CAMELYON16,503,region where no tumor or malignant appearing glands were found,region where no tumor or malignant appearing glands were found: Normal breast or lymphoid tissue with regular ductal structures and benign cellular morphology.
+CAMELYON16,504,intraparenchymal lymph node,"intraparenchymal lymph node: Lymph node with capsule and subcapsular sinus situated within breast parenchyma, surrounded by mammary glands."
+CAMELYON16,505,microvessels,"microvessels: Small capillary profiles lined by a single layer of flat endothelial cells, some containing erythrocytes."
+CAMELYON16,506,mitotic score,mitotic score: Darkly stained chromosomal figures in metaphase or anaphase seen among interphase tumor cell nuclei.
+CAMELYON16,507,non-encapsulated tumor,non-encapsulated tumor: Invasive tumor nests directly abutting surrounding tissue without a fibrous capsule.
+CAMELYON16,508,malignant nodule,malignant nodule: Discrete round focus of crowded atypical cells with irregular nuclei and scant stroma.
+CAMELYON16,509,fibrous connective,fibrous connective: Dense parallel bundles of eosinophilic collagen fibers with elongated fibroblast nuclei interspersed.
+CAMELYON16,510,follicular atrophy,follicular atrophy: Small shrunken lymphoid follicles with sparse lymphocytes and absent germinal centers.
+CAMELYON16,511,infective granuloma,infective granuloma: Aggregates of epithelioid histiocytes with scattered multinucleated giant cells and surrounding lymphocytes.
+CAMELYON16,512,b cells transforming into plasma cells,"b cells transforming into plasma cells: Cells with eccentrically placed nuclei, clock-face chromatin, and abundant basophilic cytoplasm."
+CAMELYON16,513,chronic inflammatory response,chronic inflammatory response: Dense infiltrate of small lymphocytes and plasma cells with possible fibrosis.
+CAMELYON16,514,luminal b,luminal b: Invasive carcinoma cells forming glands and nests with moderate nuclear pleomorphism.
+CAMELYON16,515,tumor buds,tumor buds: Small isolated clusters of deeply eosinophilic carcinoma cells at the invasive front.
+CAMELYON16,516,lymph node histology,"lymph node histology: Encapsulated tissue with cortical lymphoid follicles, paracortex, and medullary sinuses."
+CAMELYON16,517,right breast,right breast: Breast parenchyma with terminal duct lobular units surrounded by fibrous stroma.
+CAMELYON16,518,fatty replacement,fatty replacement: Adipose tissue infiltrating and replacing normal lymphoid or epithelial structures.
+CAMELYON16,519,suture granuloma,suture granuloma: Multinucleated giant cells surrounding refractile foreign material with surrounding fibrosis.
+CAMELYON16,520,mucoid degeneration,mucoid degeneration: Pale basophilic myxoid matrix separating spindle or stellate cells.
+CAMELYON16,521,basal lamina collagen,"basal lamina collagen: Thin eosinophilic linear layer beneath epithelium, appearing as homogeneous pink band."
+CAMELYON16,522,tumor-associated macrophages,tumor-associated macrophages: Large cells with abundant foamy or granular cytoplasm within tumor stroma.
+CAMELYON16,523,small adenocarcinoma areas,small adenocarcinoma areas: Small irregular malignant glands infiltrating desmoplastic stroma.
+CAMELYON16,524,extra nodal extension,extra nodal extension: Tumor cells breaching the lymph node capsule and extending into perinodal adipose tissue.
+CAMELYON16,525,spindle-shaped cells with atypical nuclei and vesicular growth pattern,spindle-shaped cells with atypical nuclei and vesicular growth pattern: Atypical spindle cells with vesicular nuclei arranged in intersecting fascicles.
+CAMELYON16,526,lobular neoplasm with cystic spaces,lobular neoplasm with cystic spaces: Mucin-filled cystic spaces lined by atypical lobular-type neoplastic cells.
+CAMELYON16,527,lipid-rich features,"lipid-rich features: Cells with abundant clear, vacuolated cytoplasm resembling lipid droplets."
+CAMELYON16,528,cd8 cells,"cd8 cells: Small round lymphocytes with dense chromatin, indistinguishable from other T cells on H&E."
+CAMELYON16,529,lymph node group,"lymph node group: Multiple lymphoid nodules with capsule, showing cortical and medullary compartments."
+CAMELYON16,530,darkly stained circular nucleus,"darkly stained circular nucleus: Small round hyperchromatic nucleus with scant cytoplasm, typical of lymphocytes."
+CAMELYON16,531,carcinomatosis,carcinomatosis: Multiple discrete metastatic carcinoma nodules scattered throughout the tissue.
+CAMELYON16,532,metastatic malignancy,metastatic malignancy: Clusters of pleomorphic malignant cells within lymph node parenchyma or sinuses.
+CAMELYON16,533,myxoid transformation,"myxoid transformation: Accumulation of pale, amorphous basophilic myxoid material within tissue stroma."

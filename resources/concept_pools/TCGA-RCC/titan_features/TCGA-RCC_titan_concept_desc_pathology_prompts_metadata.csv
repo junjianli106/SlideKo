@@ -1,0 +1,484 @@
+﻿dataset,row_idx,concept,encoded_text
+TCGA-RCC,0,lymphocytes,"lymphocytes: Small round dark blue cells with scant cytoplasm, densely packed in clusters."
+TCGA-RCC,1,neutrophils,"neutrophils: Segmented nuclei with 3–5 lobes and pale granular cytoplasm, scattered in tissue."
+TCGA-RCC,2,blood vessels,"blood vessels: Thin-walled tubular structures lined by flat endothelial cells, often containing red blood cells."
+TCGA-RCC,3,eosinophils,"eosinophils: Bilobed nuclei and coarse bright pink cytoplasmic granules, among other inflammatory cells."
+TCGA-RCC,4,inflammation,"inflammation: Mixed immune cell infiltrate disrupting normal architecture, with edema and vascular congestion."
+TCGA-RCC,5,plasma cells,plasma cells: Oval cells with eccentric clock-face nuclei and perinuclear pale Golgi zone.
+TCGA-RCC,6,fibrosis,"fibrosis: Dense, wavy pink collagen bundles with few interspersed spindle cells."
+TCGA-RCC,7,epithelium,epithelium: Cohesive polygonal cells forming continuous sheets or tubular structures with distinct cell borders.
+TCGA-RCC,8,inflammatory cells,inflammatory cells: Heterogeneous collection of small round blue cells and segmented nuclei within stroma.
+TCGA-RCC,9,histiocytes,histiocytes: Large round cells with abundant pale foamy cytoplasm and kidney-shaped nuclei.
+TCGA-RCC,10,connective tissue,connective tissue: Loose meshwork of pink collagen fibers and scattered elongated nuclei.
+TCGA-RCC,11,spindle cells,"spindle cells: Elongated wavy nuclei in pale eosinophilic cytoplasm, often in fascicles."
+TCGA-RCC,12,fibroblasts,fibroblasts: Slender biopolar cells with tapering oblong nuclei and scant wispy cytoplasm.
+TCGA-RCC,13,smooth muscle,smooth muscle: Eosinophilic fascicles of spindle cells with long blunt-ended nuclei.
+TCGA-RCC,14,mitotic figures,mitotic figures: Dark condensed chromatin clumps in star-like or band patterns indicating dividing cells.
+TCGA-RCC,15,mitotic activity,mitotic activity: Increased numbers of mitotic figures scattered throughout the viable cell population.
+TCGA-RCC,16,lesion,lesion: Circumscribed area of altered tissue texture and cellularity compared to adjacent normal structures.
+TCGA-RCC,17,giant cells,giant cells: Very large multinucleated cells with abundant eosinophilic cytoplasm and haphazard nuclei.
+TCGA-RCC,18,tumor,tumor: Disorganized mass of atypical cells with hyperchromatic nuclei and conspicuous nucleoli.
+TCGA-RCC,19,hemorrhage,"hemorrhage: Extravasated red blood cells outside vessels, often filling alveolar or tissue spaces."
+TCGA-RCC,20,basement membrane,"basement membrane: Thin, homogeneous eosinophilic linear structure beneath epithelial or endothelial layers."
+TCGA-RCC,21,endothelial cells,endothelial cells: Flat elongated cells with sparse cytoplasm lining the luminal surface of vessels.
+TCGA-RCC,22,tumor cells,tumor cells: Pleomorphic epithelial cells with irregular nuclei and high nuclear-to-cytoplasmic ratio.
+TCGA-RCC,23,glands,glands: Round to oval tubular structures lined by a layer of cuboidal or columnar epithelium.
+TCGA-RCC,24,fat,fat: Large clear empty spaces with thin crescentic nuclei pushed to the periphery.
+TCGA-RCC,25,stroma,stroma: Supporting network of pink collagen fibers and scattered spindle-shaped fibroblasts.
+TCGA-RCC,26,pleomorphism,"pleomorphism: Marked variation in nuclear size, shape, and staining intensity among the cell population."
+TCGA-RCC,27,macrophages,macrophages: Large cells with pale bubbly cytoplasm and round to oval eccentric nuclei.
+TCGA-RCC,28,epithelioid cells,epithelioid cells: Large polygonal cells with abundant eosinophilic cytoplasm and round vesicular nuclei resembling epithelial cells.
+TCGA-RCC,29,smooth muscle cells,smooth muscle cells: Spindle-shaped cells with abundant eosinophilic cytoplasm and elongated blunt-ended nuclei arranged in bundles.
+TCGA-RCC,30,atypia,"atypia: Enlarged cells with irregular, hyperchromatic nuclei and prominent nucleoli scattered among normal tissue."
+TCGA-RCC,31,epithelial cells,epithelial cells: Polygonal cells with moderate cytoplasm and round central nuclei forming cohesive sheets or tubules.
+TCGA-RCC,32,collagen fibers,"collagen fibers: Thick, wavy bundles of eosinophilic pink material often around tubules or in stroma."
+TCGA-RCC,33,glomerulus,"glomerulus: Compact tuft of capillaries enclosed by Bowman's capsule, with mesangial matrix and podocyte outlines."
+TCGA-RCC,34,ducts,ducts: Tubular structures lined by simple columnar or cuboidal epithelial cells with distinct luminal borders.
+TCGA-RCC,35,fibrous tissue,"fibrous tissue: Dense, hypocellular region of pink collagen fibers with sparse spindle-shaped fibroblasts."
+TCGA-RCC,36,capillaries,"capillaries: Thin-walled vessels containing red blood cells, intertwined with tubules."
+TCGA-RCC,37,cortex,cortex: Region with numerous glomeruli and convoluted tubules in a packed arrangement.
+TCGA-RCC,38,inflammatory infiltrate,inflammatory infiltrate: Mixed population of small round blue cells and plasma cells interspersed within interstitial stroma.
+TCGA-RCC,39,spindle-shaped cells,"spindle-shaped cells: Elongated cells with tapered nuclei and eosinophilic cytoplasm, resembling fibroblasts."
+TCGA-RCC,40,nuclear pleomorphism,"nuclear pleomorphism: Variable nuclear sizes and shapes, from small round to large bizarre forms, within the same field."
+TCGA-RCC,41,red blood cells,"red blood cells: Small, anucleate, bright eosinophilic discs filling vascular lumens or extravasated."
+TCGA-RCC,42,perineural invasion,"perineural invasion: Tumor cells encircling a nerve bundle, often with wavy nerve fibers."
+TCGA-RCC,43,lymphocytic infiltrate,"lymphocytic infiltrate: Sheets of small, round, dark-staining nuclei with scant cytoplasm, typical of lymphocytes."
+TCGA-RCC,44,adipocytes,"adipocytes: Large, clear, empty-looking cells with a thin rim of cytoplasm and flattened peripheral nucleus."
+TCGA-RCC,45,medulla,"medulla: Parallel tubules with thin limbs and collecting ducts, no glomeruli, in a less compact arrangement."
+TCGA-RCC,46,mast cells,"mast cells: Oval cells with abundant purple cytoplasmic granules, often near blood vessels."
+TCGA-RCC,47,multinucleated cells,"multinucleated cells: Large cells containing multiple, often peripheral, nuclei and abundant cytoplasm."
+TCGA-RCC,48,neoplastic cells,"neoplastic cells: Atypical cells with hyperchromatic nuclei, high nuclear-to-cytoplasmic ratio, forming disorganized clusters."
+TCGA-RCC,49,lymphoid tissue,"lymphoid tissue: Well-circumscribed aggregate of small lymphocytes, possibly with a pale germinal center."
+TCGA-RCC,50,chronic inflammation,chronic inflammation: Predominantly lymphocytic infiltration with plasma cells and occasional fibrosis.
+TCGA-RCC,51,nuclear atypia,"nuclear atypia: Nuclei with irregular contours, hyperchromasia, and increased size compared to normal."
+TCGA-RCC,52,sclerosis,sclerosis
+TCGA-RCC,53,hyperchromatic nuclei,"hyperchromatic nuclei: Dark blue-purple nuclei with condensed chromatin, lacking visible nucleoli."
+TCGA-RCC,54,tubules,tubules: Circular or elongated structures lined by a single layer of cuboidal epithelium with central lumens.
+TCGA-RCC,55,kidney,kidney: Organ parenchyma showing cortex with glomeruli and medulla with tubular segments.
+TCGA-RCC,56,cuboidal cells,"cuboidal cells: Cells with roughly equal height and width, round nuclei, and moderate eosinophilic cytoplasm."
+TCGA-RCC,57,papillary structures,papillary structures: Finger-like projections with central fibrovascular cores covered by neoplastic epithelial cells.
+TCGA-RCC,58,hyperchromasia,"hyperchromasia: Intensely dark-stained nuclei, appearing solid blue, in contrast to lighter normal nuclei."
+TCGA-RCC,59,dilated blood vessels,"dilated blood vessels: Enlarged vascular spaces filled with red blood cells, with thin endothelial lining."
+TCGA-RCC,60,myofibroblasts,"myofibroblasts: Spindle cells with plump eosinophilic cytoplasm and elongated nuclei, often in bundles within fibrous stroma."
+TCGA-RCC,61,interstitium,"interstitium: Loose eosinophilic connective tissue between tubules and vessels, containing fibroblasts and capillaries."
+TCGA-RCC,62,perivascular infiltrate,perivascular infiltrate: Circumferential cuffs of lymphocytes and plasma cells surrounding small blood vessels.
+TCGA-RCC,63,columnar cells,columnar cells: Tall epithelial cells with basally aligned oval nuclei and moderate eosinophilic cytoplasm.
+TCGA-RCC,64,trabeculae,trabeculae: Anastomosing cords of eosinophilic tumor cells separated by delicate vascular septa.
+TCGA-RCC,65,endothelium,"endothelium: Single layer of flat, elongated cells with dark nuclei lining vascular lumina."
+TCGA-RCC,66,carcinoma,"carcinoma: Sheets or nests of atypical epithelial cells with irregular nuclei and prominent nucleoli, invading stroma."
+TCGA-RCC,67,cholesterol clefts,"cholesterol clefts: Needle-shaped empty spaces within necrotic debris, often surrounded by foamy macrophages."
+TCGA-RCC,68,lymphoid follicles,lymphoid follicles: Well-circumscribed nodules with a pale germinal center surrounded by a dark mantle of small lymphocytes.
+TCGA-RCC,69,stromal cells,stromal cells: Spindle-shaped fibroblasts with oval nuclei and scant cytoplasm within collagenous matrix.
+TCGA-RCC,70,fibrous capsule,"fibrous capsule: A dense, acellular band of pink collagen fibers encircling a tumor nodule."
+TCGA-RCC,71,lymphatic nodules,"lymphatic nodules: Dense, round aggregates of small lymphocytes lacking central germinal centers."
+TCGA-RCC,72,necrotic debris,necrotic debris: Amorphous pink granular material with pyknotic nuclear fragments and cellular remnants.
+TCGA-RCC,73,papillomatosis,"papillomatosis: Multiple finger-like fibrovascular cores covered by epithelial cells, projecting into lumina."
+TCGA-RCC,74,clear cell carcinoma,"clear cell carcinoma: Nests of polygonal cells with abundant clear cytoplasm and central small nuclei, separated by thin vascular septa."
+TCGA-RCC,75,foam cells,"foam cells: Large round cells with abundant foamy, lipid-laden cytoplasm and small eccentric nuclei."
+TCGA-RCC,76,malignant cells,"malignant cells: Pleomorphic cells with enlarged, hyperchromatic nuclei and conspicuous nucleoli, often in discohesive clusters."
+TCGA-RCC,77,tumor necrosis,tumor necrosis: Eosinophilic areas containing ghost outlines of dead tumor cells and karyorrhectic debris.
+TCGA-RCC,78,renal cell carcinoma,renal cell carcinoma: Invasive epithelial tumor forming nests or tubules of cells with variable cytoplasm and prominent vasculature.
+TCGA-RCC,79,invasion,invasion: Irregular tongues or small clusters of atypical cells breaching normal tissue boundaries.
+TCGA-RCC,80,lymphovascular invasion,lymphovascular invasion: Tumor cell clusters within endothelial-lined vascular spaces in the stroma.
+TCGA-RCC,81,interstitial inflammation,"interstitial inflammation: Scattered lymphocytes, plasma cells, and occasional eosinophils within the renal interstitium."
+TCGA-RCC,82,fibrotic stroma,fibrotic stroma: Dense pink collagen bundles with scattered spindle-shaped fibroblasts separating tumor nests.
+TCGA-RCC,83,perivascular inflammation,perivascular inflammation: Chronic inflammatory cells concentrated in the adventitia of small vessels.
+TCGA-RCC,84,interstitial hemorrhage,interstitial hemorrhage: Extravasated red blood cells scattered within the connective tissue between tubules.
+TCGA-RCC,85,coagulative necrosis,coagulative necrosis: Eosinophilic dead tissue with preserved ghost outlines of cells and architecture.
+TCGA-RCC,86,lymphocytic infiltration,lymphocytic infiltration: Diffuse or focal infiltrates of small dark lymphocytes among epithelial or tumor cells.
+TCGA-RCC,87,scarring,"scarring: Dense, hypocellular collagenous tissue replacing normal renal parenchyma."
+TCGA-RCC,88,pale cytoplasm,pale cytoplasm: Cells with faintly eosinophilic or clear cytoplasm and well-defined cell borders.
+TCGA-RCC,89,infiltrate,"infiltrate: Aggregates of inflammatory cells, mainly lymphocytes and plasma cells, within the tissue."
+TCGA-RCC,90,mesangium,"mesangium: Pink-staining, mildly cellular central region within the glomerular tuft between capillary loops."
+TCGA-RCC,91,arteries,arteries: Thick-walled vessel with concentric layers of smooth muscle and a wavy internal elastic lamina.
+TCGA-RCC,92,arteriole,"arteriole: Small vessel with a thin muscular wall, often only two or three smooth muscle cell layers thick."
+TCGA-RCC,93,lymphoid cells,"lymphoid cells: Clusters of small round dark blue cells with scant cytoplasm, resembling lymphocytes."
+TCGA-RCC,94,cancer,"cancer: Irregular nests or sheets of large atypical cells with enlarged, hyperchromatic nuclei and variable cytoplasm."
+TCGA-RCC,95,macula densa,macula densa: Crowded columnar cells with apical nuclei lining the thick ascending limb adjacent to the glomerular vascular pole.
+TCGA-RCC,96,oncocytoma,oncocytoma: Solid nests of large polygonal cells with abundant granular eosinophilic cytoplasm and uniform round nuclei.
+TCGA-RCC,97,hyalinized stroma,"hyalinized stroma: Dense, pink, glassy, acellular matrix surrounding cells or vessels."
+TCGA-RCC,98,hyperplasia,hyperplasia: Increased number of cells resulting in thickened or multi-layered epithelium.
+TCGA-RCC,99,trabecular pattern,trabecular pattern: Interconnecting cords of tumor cells separated by sinusoidal vascular spaces.
+TCGA-RCC,100,blood-filled spaces,"blood-filled spaces: Irregular spaces distended with red blood cells, often lacking a complete endothelial lining."
+TCGA-RCC,101,renal corpuscle,renal corpuscle: Round structure with a tuft of capillary loops (glomerulus) enclosed within a Bowman’s capsule.
+TCGA-RCC,102,inflammatory response,"inflammatory response: Patches of mixed inflammatory cells, predominantly lymphocytes, in the interstitium or around vessels."
+TCGA-RCC,103,invasive carcinoma,invasive carcinoma: Irregular tumor cell clusters infiltrating the surrounding stroma with desmoplasia.
+TCGA-RCC,104,infiltrative growth,infiltrative growth: Single cells or small groups of tumor cells intermingled with native kidney parenchyma.
+TCGA-RCC,105,nerve bundles,nerve bundles: Wavy bundles of pink fibers with elongated spindle cell nuclei and perineurium.
+TCGA-RCC,106,vascular invasion,vascular invasion: Tumor cell plugs within a vascular space lined by endothelium.
+TCGA-RCC,107,desmoplastic stroma,"desmoplastic stroma: Dense collagenous stroma with spindled fibroblasts, often surrounding invasive tumor nests."
+TCGA-RCC,108,solid tumor,solid tumor: Sheets of cohesive tumor cells with little intervening stroma.
+TCGA-RCC,109,cystic change,"cystic change: Dilated fluid-filled spaces lined by tumor cells, appearing as empty rounded holes."
+TCGA-RCC,110,bowman’s capsule,bowman’s capsule: A thin layer of squamous epithelium encircling the glomerular tuft.
+TCGA-RCC,111,urinary pole,"urinary pole: Transition from Bowman’s capsule to the proximal tubule, marked by a shift from squamous to cuboidal epithelium."
+TCGA-RCC,112,urothelium,urothelium: Multilayered epithelium with large surface umbrella cells overlying intermediate and basal cells.
+TCGA-RCC,113,vascular proliferation,"vascular proliferation: Clusters of small, thin-walled vessels, sometimes forming glomeruloid structures."
+TCGA-RCC,114,veins,"veins: Thin-walled vessel with a wide lumen and a thin layer of smooth muscle, often collapsed."
+TCGA-RCC,115,cuboidal epithelium,cuboidal epithelium: A single row of cube-shaped cells with centrally placed round nuclei and eosinophilic cytoplasm.
+TCGA-RCC,116,proliferation,proliferation: Numerous mitotic figures and densely packed cells with high nuclear-to-cytoplasmic ratio.
+TCGA-RCC,117,nuclear grooves,"nuclear grooves: Longitudinal indentations or grooves visible within the nuclei, often in papillary renal cell carcinoma cells."
+TCGA-RCC,118,hyalinization,"hyalinization: Pink, amorphous, glassy material replacing normal tissue architecture."
+TCGA-RCC,119,extracellular matrix,extracellular matrix: Pink fibrous strands or amorphous material filling the space between cells.
+TCGA-RCC,120,hemorrhagic infarction,hemorrhagic infarction: Eosinophilic granular debris with ghost outlines of tubules and scattered extravasated red blood cells.
+TCGA-RCC,121,xanthoma cells,"xanthoma cells: Large cells with abundant clear, finely vacuolated cytoplasm and small round nuclei."
+TCGA-RCC,122,solid pattern,solid pattern: Dense sheets of tumor cells without lumen formation or papillae.
+TCGA-RCC,123,oxyphil cells,"oxyphil cells: Cells with intensely eosinophilic, granular cytoplasm and distinct cell borders."
+TCGA-RCC,124,capsular invasion,"capsular invasion: Tumor nests breaching the thick, pale fibrous capsule into surrounding tissue."
+TCGA-RCC,125,thrombus,thrombus: Fibrin meshwork with entrapped red blood cells and platelets within a vessel lumen.
+TCGA-RCC,126,interstitial fibrosis,"interstitial fibrosis: Expanded pale pink collagen bundles separating tubules, with scattered fibroblasts."
+TCGA-RCC,127,neutrophilic infiltrate,neutrophilic infiltrate: Clusters of small segmented nuclei with pale cytoplasm among tissue.
+TCGA-RCC,128,thickened basement membrane,"thickened basement membrane: Uniform, prominent eosinophilic band around glomerular capillary loops or tubules."
+TCGA-RCC,129,mesangial cells,mesangial cells: Slightly elongated nuclei in the central glomerular mesangial matrix.
+TCGA-RCC,130,thrombosis,thrombosis: Laminated aggregates of platelets and fibrin in a vascular lumen.
+TCGA-RCC,131,cystic lesion,"cystic lesion: Thin-walled cavity lined by flattened or cuboidal epithelium, often filled with proteinaceous fluid."
+TCGA-RCC,132,vascularization,vascularization: Numerous small capillary channels lined by flattened endothelial cells.
+TCGA-RCC,133,collecting ducts,"collecting ducts: Tubules lined by tall, pale columnar epithelium with distinct luminal cytoplasmic borders."
+TCGA-RCC,134,renal parenchyma,renal parenchyma: Glomerular tufts surrounded by Bowman's capsule and adjacent tubular cross-sections.
+TCGA-RCC,135,binucleated cells,binucleated cells: Single cells containing two similar-sized round nuclei with distinct nucleoli.
+TCGA-RCC,136,microcystic pattern,"microcystic pattern: Multiple small, empty cystic spaces lined by cuboidal tumor cells."
+TCGA-RCC,137,papillary carcinoma,papillary carcinoma: Fibrovascular cores covered by neoplastic epithelial cells forming intricate papillary fronds.
+TCGA-RCC,138,chromophobe cells,chromophobe cells: Large polygonal cells with prominent cytoplasmic membranes and flocculent pale cytoplasm.
+TCGA-RCC,139,glandular differentiation,"glandular differentiation: Neoplastic tubules or acini with central lumens, resembling glandular structures."
+TCGA-RCC,140,conventional stromal invasion,conventional stromal invasion: Individual tumor cells or small cohorts infiltrating desmoplastic or normal stroma.
+TCGA-RCC,141,nuclear clearing,"nuclear clearing: Nuclei with optically empty, homogeneous appearance and condensed peripheral chromatin."
+TCGA-RCC,142,nested pattern,nested pattern: Discrete clusters of tumor cells surrounded by delicate fibrovascular septa.
+TCGA-RCC,143,granular cells,"granular cells: Cells with moderate amounts of basophilic, finely granular cytoplasm."
+TCGA-RCC,144,spindle cell neoplasm,"spindle cell neoplasm: Fascicles of elongated, spindle-shaped cells with eosinophilic cytoplasm and oval nuclei."
+TCGA-RCC,145,vacuolar change,vacuolar change: Clear intracytoplasmic vacuoles pushing nuclei to the periphery.
+TCGA-RCC,146,acute inflammation,acute inflammation: Edematous tissue with abundant neutrophils and dilated capillary vessels.
+TCGA-RCC,147,interstitial tissue,interstitial tissue: Loose connective tissue with spindle fibroblast nuclei between tubules.
+TCGA-RCC,148,dendritic cells,"dendritic cells: Cells with long, branching cytoplasmic processes visible among lymphocytes."
+TCGA-RCC,149,fibrin deposition,"fibrin deposition: Amorphous, deeply eosinophilic network of fibrin strands in extracellular space."
+TCGA-RCC,150,basal lamina,"basal lamina: Thin, homogeneous eosinophilic line beneath epithelium or endothelium."
+TCGA-RCC,151,parenchyma,parenchyma: Organ-specific functional tissue exhibiting renal tubules and glomeruli.
+TCGA-RCC,152,abnormal mitosis,abnormal mitosis: Atypical mitotic figure with multipolar or asymmetrical chromatin distribution.
+TCGA-RCC,153,micropapillary pattern,"micropapillary pattern: Small papillary tufts lacking fibrovascular cores, surrounded by clear spaces."
+TCGA-RCC,154,metastatic renal cell carcinoma,metastatic renal cell carcinoma: Nests of clear or granular tumor cells in a distant organ background.
+TCGA-RCC,155,papillary pattern,papillary pattern: Fibrovascular cores covered by one or more layers of neoplastic epithelial cells.
+TCGA-RCC,156,pelvis,pelvis: Urothelial-lined smooth muscle wall with a central open space.
+TCGA-RCC,157,cystic structure,cystic structure: Fluid-filled space lined by flattened or cuboidal epithelium.
+TCGA-RCC,158,tall columnar cells,tall columnar cells: Cells with elongated eosinophilic cytoplasm and basally located nuclei.
+TCGA-RCC,159,lobular pattern,lobular pattern: Rounded nests of tumor cells separated by fibrous septa.
+TCGA-RCC,160,epithelial proliferation,epithelial proliferation: Crowded epithelial cells forming solid sheets or back-to-back glands.
+TCGA-RCC,161,fatty change,fatty change: Clear cytoplasmic vacuoles displacing nuclei to the periphery.
+TCGA-RCC,162,glandular pattern,glandular pattern: Irregular gland-like lumina lined by neoplastic epithelial cells.
+TCGA-RCC,163,renal medulla,renal medulla: Parallel tubules and collecting ducts in a loose interstitial stroma.
+TCGA-RCC,164,lymphoplasmacytic infiltrate,lymphoplasmacytic infiltrate: Mixed population of small lymphocytes and plasma cells within interstitium.
+TCGA-RCC,165,cellular debris,cellular debris: Eosinophilic granular material admixed with scattered nuclear fragments.
+TCGA-RCC,166,perivascular lymphocytes,perivascular lymphocytes: Lymphocytes forming a cuff around a small blood vessel.
+TCGA-RCC,167,infiltrative tumor,infiltrative tumor: Irregular clusters of malignant cells invading adjacent normal parenchyma.
+TCGA-RCC,168,fibrocytes,fibrocytes: Spindle-shaped cells with elongated wavy nuclei in fibrous stroma.
+TCGA-RCC,169,lymphohistiocytic infiltrate,lymphohistiocytic infiltrate: Admixture of lymphocytes and large histiocytes with abundant cytoplasm.
+TCGA-RCC,170,swollen endothelial cells,"swollen endothelial cells: Plump, reactive endothelial cells protruding into vessel lumina."
+TCGA-RCC,171,juxtaglomerular apparatus,juxtaglomerular apparatus: Cluster of pale granular cells and macula densa at the glomerular hilum.
+TCGA-RCC,172,glomerular capillaries,"glomerular capillaries: Tufts of delicate capillaries within Bowman’s space, lined by podocytes."
+TCGA-RCC,173,lipid-laden histiocytes,"lipid-laden histiocytes: Foamy macrophages with abundant clear, bubbly cytoplasm."
+TCGA-RCC,174,tubular atrophy,tubular atrophy: Shrunken tubules with thickened basement membranes and flattened epithelium.
+TCGA-RCC,175,renal cortex,renal cortex: Cellular area containing glomeruli and convoluted tubules.
+TCGA-RCC,176,ischemic necrosis,ischemic necrosis: Coagulative necrosis with ghost outlines of tubules and loss of nuclei.
+TCGA-RCC,177,high-grade nuclear atypia,"high-grade nuclear atypia: Markedly enlarged, pleomorphic nuclei with irregular chromatin and nucleoli."
+TCGA-RCC,178,stromal reaction,stromal reaction: Dense collagen with plump activated fibroblasts surrounding tumor.
+TCGA-RCC,179,acidophilic cells,"acidophilic cells: Cells with abundant pink, granular cytoplasm."
+TCGA-RCC,180,renal capsule,"renal capsule: A thin, eosinophilic fibrous layer with sparse flat nuclei lining the outer kidney surface."
+TCGA-RCC,181,venules,venules: Small thin-walled vessels with flattened endothelium and red blood cells inside.
+TCGA-RCC,182,anisocytosis,"anisocytosis: Tumor cells show marked variation in size, some small and some large."
+TCGA-RCC,183,renal oncocytomas are granular red tumors,"renal oncocytomas are granular red tumors: Clusters of large cells with granular, intensely eosinophilic cytoplasm and round nuclei."
+TCGA-RCC,184,geographic necrosis,geographic necrosis: Large irregular areas of dead tissue with eosinophilic debris and ghost cell outlines.
+TCGA-RCC,185,interstitial thickening,interstitial thickening: Expanded interstitial space with increased pale eosinophilic material and sparse fibroblasts.
+TCGA-RCC,186,alveolar pattern,"alveolar pattern: Clusters of tumor cells forming small, rounded nests separated by thin fibrous septa."
+TCGA-RCC,187,vascular channel formation,"vascular channel formation: Irregular, blood-filled spaces lined directly by tumor cells without endothelial cells."
+TCGA-RCC,188,tubular interstitial compartment,tubular interstitial compartment: Renal tubules with surrounding sparse interstitial tissue and peritubular capillaries.
+TCGA-RCC,189,clusters,clusters: Small groups of closely packed cells with distinct cell borders.
+TCGA-RCC,190,epithelial atypia,"epithelial atypia: Enlarged, hyperchromatic nuclei with irregular contours and occasional mitotic figures."
+TCGA-RCC,191,white blood cells,"white blood cells: Small round cells with dark, segmented or round nuclei and scant cytoplasm."
+TCGA-RCC,192,fenestrated glomerular endothelium with pores or fenestrations,"fenestrated glomerular endothelium with pores or fenestrations: Thin endothelial lining of glomerular capillaries, appearing as a delicate, slightly perforated sheet."
+TCGA-RCC,193,diffuse pattern,"diffuse pattern: Sheets of tumor cells with no clear architectural pattern, densely packed."
+TCGA-RCC,194,interlobular artery,"interlobular artery: Artery with a thick muscular wall and internal elastic lamina, running between renal lobules."
+TCGA-RCC,195,granulocytes,"granulocytes: Cells with segmented nuclei and granular cytoplasm, often pink or pale."
+TCGA-RCC,196,tubular pattern,tubular pattern: Tumor cells arranged in small round or elongated tubular structures with central lumens.
+TCGA-RCC,197,juxtaglomerular cells,juxtaglomerular cells: Clusters of plump granular cells adjacent to the glomerular vascular pole.
+TCGA-RCC,198,sarcomatoid carcinoma,sarcomatoid carcinoma: Spindle-shaped tumor cells in a haphazard arrangement with marked nuclear atypia.
+TCGA-RCC,199,immune cells,"immune cells: Small round cells with dark round nuclei, scattered or forming aggregates."
+TCGA-RCC,200,renal papilla,renal papilla: Tip of renal pyramid with close-packed collecting ducts and pale interstitial tissue.
+TCGA-RCC,201,glandular cells,glandular cells: Cuboidal or columnar cells forming acinar structures with luminal spaces.
+TCGA-RCC,202,epithelial tumor,epithelial tumor: Cohesive clusters of polygonal cells with eosinophilic cytoplasm and distinct cell borders.
+TCGA-RCC,203,cellular infiltrate,"cellular infiltrate: Aggregates of mixed inflammatory cells, including lymphocytes and plasma cells, in interstitium."
+TCGA-RCC,204,renal pelvis,renal pelvis: Urothelial lining with multiple layers of transitional cells overlying smooth muscle and connective tissue.
+TCGA-RCC,205,t-cells,t-cells: Small round cells with dense round nuclei and minimal cytoplasm.
+TCGA-RCC,206,perinuclear hof,"perinuclear hof: A pale, clear halo surrounding the nucleus in tumor cells with abundant cytoplasm."
+TCGA-RCC,207,peritubular capillary,"peritubular capillary: Small, thin-walled vessels containing red blood cells closely adherent to tubular basement membranes."
+TCGA-RCC,208,connective tissue cells,connective tissue cells: Spindle-shaped cells with elongated nuclei embedded in pink collagenous matrix.
+TCGA-RCC,209,partial atrophy,partial atrophy: Scattered shrunken tubules with thickened basement membranes among normal tubules.
+TCGA-RCC,210,tumor tissue,"tumor tissue: Sheets of abnormal, atypical cells with eosinophilic or clear cytoplasm and enlarged nuclei, replacing normal renal architecture."
+TCGA-RCC,211,growth pattern,"growth pattern: Arrangement of tumor cells in solid nests, tubules, papillary fronds, or diffuse sheets, with variable stromal content."
+TCGA-RCC,212,rhabdoid morphology,"rhabdoid morphology: Large pleomorphic cells with eccentric vesicular nuclei, prominent nucleoli, and densely eosinophilic cytoplasm with paranuclear inclusions."
+TCGA-RCC,213,renal mass,"renal mass: A circumscribed or infiltrative cellular proliferation distorting the renal parenchyma, often with distinct borders and abnormal tissue structure."
+TCGA-RCC,214,cystic degeneration,"cystic degeneration: Fluid-filled spaces of varying sizes within tumor tissue, lined by attenuated or neoplastic epithelium and often containing hemorrhage or debris."
+TCGA-RCC,215,interstitial connective tissue,"interstitial connective tissue: Pale pink fibrillar collagen with scattered spindle-shaped fibroblasts, providing stroma between tubules or tumor nests."
+TCGA-RCC,216,mesenchymal cells,"mesenchymal cells: Spindle-shaped cells with elongated nuclei, often arranged in fascicles within a collagenous matrix, resembling fibroblasts or smooth muscle."
+TCGA-RCC,217,collagenized tissue,"collagenized tissue: Dense, hyalinized, eosinophilic collagen bundles with few cells, appearing amorphous and glassy."
+TCGA-RCC,218,muscle cells,"muscle cells: Spindle cells with elongated, blunt-ended nuclei and brightly eosinophilic cytoplasm, often arranged in parallel bundles."
+TCGA-RCC,219,medullary region,"medullary region: Loosely arranged tubules and thin-walled vessels within a pale, sparse interstitium, contrasting with the cellular renal cortex."
+TCGA-RCC,220,medullary ray,"medullary ray: Parallel, vertically oriented arrays of tubules piercing the cortex, appearing as lighter streaks among convoluted tubules."
+TCGA-RCC,221,perivascular lymphocytic infiltration,"perivascular lymphocytic infiltration: Dense aggregates of small, dark, round lymphocytes cuffed around blood vessel walls within tissue."
+TCGA-RCC,222,epithelial differentiation,"epithelial differentiation: Cohesive polygonal cells with distinct cell borders, organized into tubules, acini, or sheets, resembling epithelial architecture."
+TCGA-RCC,223,renal tumor,"renal tumor: Abnormal proliferation of cells with variable architecture, replacing normal renal parenchyma, often showing atypical nuclear features."
+TCGA-RCC,224,high cellularity and vascularity,"high cellularity and vascularity: A densely packed area with abundant tumor cells and numerous small, thin-walled blood vessels, creating a rich vascular network."
+TCGA-RCC,225,cytoplasmic vacuoles,"cytoplasmic vacuoles: Intracytoplasmic clear spaces that push the nucleus aside, giving cells a foamy or clear appearance typical of lipid accumulation."
+TCGA-RCC,226,immunoblasts,"immunoblasts: Large lymphoid cells with round vesicular nuclei, one or more prominent nucleoli, and moderate amphophilic cytoplasm."
+TCGA-RCC,227,frothy anything,"frothy anything: Clusters of cells with abundant, finely bubbly cytoplasm, resembling foamy macrophages or lipid-laden tumor cells."
+TCGA-RCC,228,fusiform cells,"fusiform cells: Elongated, spindle-shaped cells with tapered nuclei, often forming intersecting bundles or storiform arrangements."
+TCGA-RCC,229,macrocystic changes,"macrocystic changes: Large, dilated cystic spaces lined by tumor cells, frequently containing serous fluid or blood, replacing solid tumor areas."
+TCGA-RCC,230,chromophobe carcinoma,"chromophobe carcinoma: Sheets of large polygonal cells with abundant pale, finely granular cytoplasm, distinct cell membranes, and wrinkled nuclei with perinuclear halos."
+TCGA-RCC,231,renal disease,"renal disease: Globally sclerotic glomeruli, tubular atrophy, interstitial fibrosis, and chronic inflammation indicating end-stage kidney."
+TCGA-RCC,232,inferior vena cava,"inferior vena cava: A large vein with a thin muscular wall, containing red blood cells and possibly adherent tumor thrombus."
+TCGA-RCC,233,reactive lymphocytes,"reactive lymphocytes: Small to medium lymphoid cells with slightly enlarged nuclei, open chromatin, and visible nucleoli, mixed with plasma cells in inflamed tissue."
+TCGA-RCC,234,cystic dilatation,"cystic dilatation: Markedly dilated tubules with flattened epithelium and luminal accumulation of eosinophilic fluid, often with a cyst-like appearance."
+TCGA-RCC,235,vascular thrombosis,"vascular thrombosis: Fibrin-rich clot with entrapped red blood cells and platelets, occluding a vascular lumen."
+TCGA-RCC,236,insular pattern,"insular pattern: Well-defined, rounded nests of tumor cells separated by fibrovascular septa, resembling islands in a sea of stroma."
+TCGA-RCC,237,organoid pattern,"organoid pattern: Orderly arrangement of tubules, glands, or trabeculae simulating normal organ architecture, often with a well-polarized epithelium."
+TCGA-RCC,238,chronic inflammatory infiltrate,"chronic inflammatory infiltrate: Mixed infiltrate of mature lymphocytes, plasma cells, and occasional macrophages within a fibrotic interstitium."
+TCGA-RCC,239,necrotic fibers,"necrotic fibers: Amorphous, eosinophilic fibrillar material with ghost outlines of dead tissue, devoid of viable nuclei, representing necrosis."
+TCGA-RCC,240,vascular proliferations,vascular proliferations: Clusters of small endothelial-lined vascular channels filled with red blood cells.
+TCGA-RCC,241,sarcomatous component,sarcomatous component: Interlacing fascicles of atypical spindle cells with pleomorphic nuclei and eosinophilic cytoplasm.
+TCGA-RCC,242,multinucleated cell,multinucleated cell: Large cells containing multiple irregular nuclei within abundant cytoplasm.
+TCGA-RCC,243,fat globules,fat globules: Clear vacuoles within cells pushing nuclei to the periphery.
+TCGA-RCC,244,neutrophil cells,neutrophil cells: Small round cells with multilobed nuclei and granular pale cytoplasm.
+TCGA-RCC,245,lymphocyte-rich,lymphocyte-rich: Dense infiltrate of small round dark-blue cells with scant cytoplasm.
+TCGA-RCC,246,necrotic tumor,necrotic tumor: Amorphous eosinophilic debris with karyorrhectic nuclear fragments and ghost cells.
+TCGA-RCC,247,small lymphocyte,small lymphocyte: Uniform small round cells with dark round nuclei and minimal cytoplasm.
+TCGA-RCC,248,angioinvasion,angioinvasion: Tumor cell clusters within blood vessel lumens adherent to endothelium.
+TCGA-RCC,249,nested clear cells,nested clear cells: Nests of cells with abundant clear cytoplasm and distinct cell borders separated by delicate vascular septa.
+TCGA-RCC,250,papillary renal cell carcinoma,papillary renal cell carcinoma: Fibrovascular cores lined by cuboidal to columnar epithelium with foamy macrophages in papillae.
+TCGA-RCC,251,calyx,calyx: Cup-shaped collecting structure lined by urothelium with associated smooth muscle.
+TCGA-RCC,252,myeloid cells,myeloid cells: Cells with granular cytoplasm and lobulated nuclei resembling neutrophils and eosinophils.
+TCGA-RCC,253,microcystic changes,microcystic changes: Expanded tubules forming small cystic spaces lined by flattened epithelium.
+TCGA-RCC,254,interstitial infiltrate,"interstitial infiltrate: Scattered lymphocytes, plasma cells, and macrophages within the renal interstitium."
+TCGA-RCC,255,perirenal fat,perirenal fat: Mature adipocytes with thin cytoplasmic rims and eccentric nuclei forming lobules.
+TCGA-RCC,256,blood vessel wall,blood vessel wall: Concentric layers of smooth muscle and elastic fibers forming a tubular structure.
+TCGA-RCC,257,darkened and granular-looking cells,darkened and granular-looking cells: Cells with abundant dark eosinophilic granular cytoplasm and distinct cell membranes.
+TCGA-RCC,258,epithelial lining of the intercalated and striated ducts,epithelial lining of the intercalated and striated ducts: Cuboidal to columnar cells lining ducts with variously eosinophilic or clear cytoplasm.
+TCGA-RCC,259,glandular architecture,glandular architecture: Tubular or acinar structures formed by polarized epithelial cells around a central lumen.
+TCGA-RCC,260,basophilia,basophilia: Deep blue-purple staining of cytoplasm or extracellular matrix due to high nucleic acid content.
+TCGA-RCC,261,oncocytic changes,oncocytic changes: Swollen cells with abundant granular eosinophilic cytoplasm and round nuclei.
+TCGA-RCC,262,glycogen accumulation,"glycogen accumulation: Cells with clear, empty-appearing cytoplasm due to dissolved glycogen during processing."
+TCGA-RCC,263,multilocular cystic tumor,multilocular cystic tumor: Multiple thin-walled cysts separated by fibrous septa lined by a single layer of clear or hobnail cells.
+TCGA-RCC,264,renal tissue,renal tissue: Glomerular tufts within Bowman's capsules surrounded by tubules and interstitium.
+TCGA-RCC,265,vacuolar degeneration,vacuolar degeneration: Cells containing multiple small clear cytoplasmic vacuoles with central or eccentric nuclei.
+TCGA-RCC,266,perivascular inflammatory cell infiltrate,perivascular inflammatory cell infiltrate: Cuffs of lymphocytes and plasma cells surrounding blood vessel walls.
+TCGA-RCC,267,primary tumor,primary tumor: A circumscribed nodule of malignant cells with characteristic architecture and cytology.
+TCGA-RCC,268,capillary endothelial cells,capillary endothelial cells: Flat elongated cells lining small thin-walled vascular channels containing red cells.
+TCGA-RCC,269,embolus,"embolus: A solid plug of material within a blood vessel lumen, consisting of tumor cells or fibrin."
+TCGA-RCC,270,invasive neoplasm,invasive neoplasm: Irregular clusters of tumor cells infiltrating into adjacent normal tissue with desmoplastic reaction.
+TCGA-RCC,271,micronuclei,"micronuclei: Small, round, basophilic nuclear fragments lying within the cytoplasm of tumor cells."
+TCGA-RCC,272,interlobular vein,"interlobular vein: A thin-walled venous channel located between renal lobules, lined by flat endothelial cells."
+TCGA-RCC,273,perinephric fat,"perinephric fat: Mature adipocytes with large clear vacuoles and eccentric nuclei, surrounding the kidney."
+TCGA-RCC,274,tufting,"tufting: Small, delicate papillary fronds projecting from the surface of larger papillae in a branching pattern."
+TCGA-RCC,275,acute hemorrhage,acute hemorrhage: Extravasated intact erythrocytes filling tissue spaces and forming focal hematomas.
+TCGA-RCC,276,fibrous layer,fibrous layer: A dense band of pink collagenous tissue with scattered spindle-shaped fibroblasts.
+TCGA-RCC,277,neoplastic nodule,"neoplastic nodule: A rounded, well-circumscribed aggregate of neoplastic cells compressing surrounding stroma."
+TCGA-RCC,278,cyst formation,"cyst formation: A dilated cavity lined by flattened or cuboidal epithelial cells, often filled with serous fluid."
+TCGA-RCC,279,entrapment of adipocytes,"entrapment of adipocytes: Tumor cells surrounding and invading between individual adipocytes, forming irregular nests."
+TCGA-RCC,280,stromal process with myxoid stroma,"stromal process with myxoid stroma: A fine, pale basophilic connective tissue core within a tumor papilla, showing loose myxoid matrix."
+TCGA-RCC,281,bizarre cells,"bizarre cells: Large, pleomorphic tumor cells with irregular, hyperchromatic nuclei and abundant eosinophilic cytoplasm."
+TCGA-RCC,282,central scar,"central scar: A central stellate area of dense, hypocellular, hyalinized collagen with scattered fibroblasts."
+TCGA-RCC,283,rhabdoid cell,rhabdoid cell: Large polygonal cells with eccentric nuclei and prominent intracytoplasmic eosinophilic globules.
+TCGA-RCC,284,microabscesses,microabscesses: Focal collections of neutrophils forming small pus-filled spaces within tumor parenchyma.
+TCGA-RCC,285,pushing invasion pattern,"pushing invasion pattern: A smooth, broad tumor front that compresses adjacent tissue with a well-defined fibrous capsule, without infiltration."
+TCGA-RCC,286,microcalcifications,"microcalcifications: Small, irregular, basophilic concretions of calcium salts deposited within necrotic or viable tissue."
+TCGA-RCC,287,plasmablasts,"plasmablasts: Large lymphoid cells with eccentric nuclei, prominent nucleoli, and abundant basophilic cytoplasm with a perinuclear hof."
+TCGA-RCC,288,pericytes with nuclei to the side,"pericytes with nuclei to the side: Oval nuclei abutting the outer surface of capillaries, separated by a thin rim of cytoplasm."
+TCGA-RCC,289,nodular tumor,"nodular tumor: Circumscribed, rounded masses of tumor cells with distinct borders against the surrounding tissue."
+TCGA-RCC,290,foamy,"foamy: Abundant clear, vacuolated cytoplasm giving tumor cells a frothy appearance, often seen in lipid-rich areas."
+TCGA-RCC,291,lymphoid hyperplasia,"lymphoid hyperplasia: Enlarged lymphoid follicles with prominent germinal centers, surrounded by a dense mantle zone."
+TCGA-RCC,292,renal cell,"renal cell: Cuboidal epithelial cells with round central nuclei and pale eosinophilic cytoplasm, typical of proximal tubules."
+TCGA-RCC,293,chronic hemorrhage,"chronic hemorrhage: Golden-brown granular pigment (hemosiderin) within macrophages and extracellular matrix, indicative of old bleeding."
+TCGA-RCC,294,hemorrhagic necrosis,"hemorrhagic necrosis: Areas of necrotic cell debris merging with extravasated erythrocytes, lacking nuclear staining, often appearing red and amorphous."
+TCGA-RCC,295,clear cell adenocarcinoma,"clear cell adenocarcinoma: Nests of tumor cells with distinct cell membranes and abundant clear cytoplasm due to glycogen and lipid, separated by delicate vascular septa."
+TCGA-RCC,296,multilocular cystic spaces,"multilocular cystic spaces: Multiple thin-walled cysts lined by flat or hobnail epithelial cells, without solid expansile areas."
+TCGA-RCC,297,malignant glandular cells,malignant glandular cells: Atypical columnar or cuboidal cells forming irregular glandular lumina with back-to-back arrangement.
+TCGA-RCC,298,nephrons,"nephrons: Glomerular tufts surrounded by Bowman's capsule, connected to proximal and distal tubules with distinct epithelium."
+TCGA-RCC,299,architectural pattern,"architectural pattern: The overall arrangement of tumor cells, such as papillary, tubular, solid, or trabecular growth patterns."
+TCGA-RCC,300,renal lobule,"renal lobule: A triangular area of cortex with medullary rays at the center, surrounded by interlobular vessels and fibrous septa."
+TCGA-RCC,301,renal artery,"renal artery: A thick-walled muscular artery with a prominent internal elastic lamina, tunica media, and endothelial lining."
+TCGA-RCC,302,histiocytic proliferation,"histiocytic proliferation: Sheets of large, polygonal cells with abundant eosinophilic cytoplasm, round-to-oval nuclei, and distinct cell borders."
+TCGA-RCC,303,interstitial granulomas,interstitial granulomas: Well-circumscribed collections of epithelioid histiocytes surrounded by lymphocytes and occasional multinucleated giant cells in the renal interstitium.
+TCGA-RCC,304,proliferative activity,"proliferative activity: Numerous mitotic figures and hyperchromatic nuclei within a cellular population, indicating active cell division."
+TCGA-RCC,305,collagen fiber bundle,"collagen fiber bundle: Thick, wavy, eosinophilic strands of fibrous tissue arranged in parallel arrays."
+TCGA-RCC,306,glomerular capillary walls,"glomerular capillary walls: Thin, delicate, eosinophilic loops lined by fenestrated endothelial cells and podocytes."
+TCGA-RCC,307,acinar pattern,"acinar pattern: Small, round gland-like structures lined by cuboidal cells, resembling grape-like clusters."
+TCGA-RCC,308,tubular cells,"tubular cells: Cuboidal to columnar epithelial cells with central nuclei, forming luminal profiles."
+TCGA-RCC,309,vascular dilation,"vascular dilation: Patulous, enlarged vascular spaces filled with erythrocytes, lined by flattened endothelium."
+TCGA-RCC,310,lipid deposition,"lipid deposition: Clear, empty-appearing vacuoles within cells or interstitium, displacing nuclei to the periphery."
+TCGA-RCC,311,invasive cancer,invasive cancer: Irregular nests and cords of malignant cells infiltrating into the surrounding stroma with desmoplastic reaction.
+TCGA-RCC,312,hemorrhagic tumor,hemorrhagic tumor: A cellular neoplasm with extensive extravasated red blood cells and hemosiderin deposition.
+TCGA-RCC,313,clear cell eosinophilic,"clear cell eosinophilic: Cells with optically clear cytoplasm and distinct cell borders, interspersed with granular eosinophilic cells."
+TCGA-RCC,314,b-cells,"b-cells: Small, round lymphocytes with clumped chromatin and scant cytoplasm, sometimes forming lymphoid follicles."
+TCGA-RCC,315,pleomorphic cell nuclei,"pleomorphic cell nuclei: Markedly variable nuclear sizes and shapes, with irregular contours, coarse chromatin, and prominent nucleoli."
+TCGA-RCC,316,renal vein,"renal vein: A thin-walled vein with a wider lumen, less muscular media compared to an artery, and endothelial lining."
+TCGA-RCC,317,mesenchymal stroma,"mesenchymal stroma: Loose, pale-staining connective tissue with spindle-shaped fibroblasts and scattered collagen fibers."
+TCGA-RCC,318,capillary vessels,"capillary vessels: Small, thin-walled vascular channels lined by a single layer of endothelium, often containing red blood cells."
+TCGA-RCC,319,focal necrosis,"focal necrosis: Circumscribed areas of cell death with karyorrhectic debris, loss of nuclear staining, and preserved tissue architecture."
+TCGA-RCC,320,papillary tumor,papillary tumor: Finger-like fronds with fibrovascular cores lined by neoplastic epithelial cells.
+TCGA-RCC,321,cystic mass,"cystic mass: A thin-walled cavity filled with serous fluid, lined by flattened or cuboidal epithelium."
+TCGA-RCC,322,pseudopapillary pattern,"pseudopapillary pattern: Solid sheets of tumor cells with perivascular pseudorosettes, creating a papillary-like appearance without true fibrovascular cores."
+TCGA-RCC,323,reeds syndrome,"reeds syndrome: Multiple leiomyomas of the renal capsule, appearing as well-circumscribed, interlacing fascicles of smooth muscle cells."
+TCGA-RCC,324,tangible body macrophage,"tangible body macrophage: Large phagocytic cells with abundant pale cytoplasm containing phagocytosed apoptotic debris, typically within lymphoid follicles."
+TCGA-RCC,325,perivascular cuffing,perivascular cuffing: A dense collar of lymphocytes surrounding a blood vessel within the parenchyma.
+TCGA-RCC,326,lymphatic endothelium,"lymphatic endothelium: Thin, flattened cells lining irregular, thin-walled channels without red blood cells, often with empty lumina."
+TCGA-RCC,327,von hippel-lindau syndrome,"von hippel-lindau syndrome: Multiple clear cell renal cell carcinomas, often with cystic components, and adjacent normal kidney showing absence of VHL gene staining."
+TCGA-RCC,328,dystrophy calcification,"dystrophy calcification: Irregular, basophilic, granular deposits within areas of necrosis or degenerated tissue."
+TCGA-RCC,329,zonal necrosis,"zonal necrosis: Geographic, well-demarcated regions of coagulative necrosis with preservation of tissue outlines."
+TCGA-RCC,330,capillary bed,capillary bed: Network of small thin-walled vessels containing red blood cells.
+TCGA-RCC,331,cord-like pattern,"cord-like pattern: Tumor cells arranged in long, slender, anastomosing cords."
+TCGA-RCC,332,stromal hemosiderin,stromal hemosiderin: Coarse golden-brown granular pigment deposited in the stroma.
+TCGA-RCC,333,papillary hyperplasia,"papillary hyperplasia: Elongated, crowded papillary fronds with delicate fibrovascular cores."
+TCGA-RCC,334,high-grade tumor,high-grade tumor: Markedly pleomorphic cells with large irregular nuclei and prominent nucleoli.
+TCGA-RCC,335,glycogen-rich,"glycogen-rich: Abundant clear, finely vacuolated cytoplasm within tumor cells."
+TCGA-RCC,336,microthrombosis,microthrombosis: Tiny fibrin-platelet aggregates within small vessel lumens.
+TCGA-RCC,337,inflammatory infiltration,inflammatory infiltration: Mixed population of lymphocytes and plasma cells scattered in the stroma.
+TCGA-RCC,338,yellow nodules,yellow nodules: Clusters of foamy macrophages forming pale nodular aggregates.
+TCGA-RCC,339,vascular endothelium,"vascular endothelium: Flattened, elongated cells lining blood vessel walls."
+TCGA-RCC,340,reactive vascular proliferation,reactive vascular proliferation: Small caliber vessels with plump endothelial cells in a loose stroma.
+TCGA-RCC,341,inflammatory activity,inflammatory activity: Active inflammation with neutrophils and lymphocytes in interstitial areas.
+TCGA-RCC,342,chronic injury with moderate tubulointerstitial fibrosis,"chronic injury with moderate tubulointerstitial fibrosis: Atrophic tubules separated by expanded, pale collagenous stroma."
+TCGA-RCC,343,geographic pattern tumor necrosis,geographic pattern tumor necrosis: Confluent areas of necrosis with ghost outlines of dead tumor cells.
+TCGA-RCC,344,nuclear fragmentation,"nuclear fragmentation: Irregular, hyperchromatic nuclear fragments scattered within apoptotic cells."
+TCGA-RCC,345,clear cell metastatic carcinoma,clear cell metastatic carcinoma: Nests of cells with clear cytoplasm and central nuclei in a vascularized stroma.
+TCGA-RCC,346,cd8-positive t cells,cd8-positive t cells: Small lymphoid cells with dense round nuclei and minimal cytoplasm infiltrating tissue.
+TCGA-RCC,347,branching glans and cords with papillae,branching glans and cords with papillae: Complex tubulo-papillary structures lined by cuboidal to columnar cells.
+TCGA-RCC,348,clear cell tumors,clear cell tumors: Sheets and nests of polygonal cells with optically clear cytoplasm.
+TCGA-RCC,349,problem appreciating the boundaries of the cells,problem appreciating the boundaries of the cells: Indistinct cell membranes making individual cell outlines difficult to discern.
+TCGA-RCC,350,net-like or fenestrated pattern,net-like or fenestrated pattern: Delicate meshwork of interconnected spaces lined by endothelial cells.
+TCGA-RCC,351,multinucleation,multinucleation: Large cells containing multiple nuclei within a single cytoplasmic volume.
+TCGA-RCC,352,nuclear pseudoinclusions,nuclear pseudoinclusions: Intranuclear cytoplasmic invaginations appearing as clear round spots.
+TCGA-RCC,353,erythrophagocytosis,erythrophagocytosis: Macrophages engulfing intact red blood cells within their cytoplasm.
+TCGA-RCC,354,fenestrated capillary endothelium,fenestrated capillary endothelium: Thin endothelial lining with tiny pore-like discontinuities in capillary walls.
+TCGA-RCC,355,cd3 cells,cd3 cells: Small lymphocytes with dark round nuclei and scant cytoplasm.
+TCGA-RCC,356,hemosiderin stain,hemosiderin stain: Blue-stained granular deposits indicating iron accumulation in tissues.
+TCGA-RCC,357,lymphocytic inflammatory infiltrate,lymphocytic inflammatory infiltrate: Predominantly small round blue cells clustered in the interstitium.
+TCGA-RCC,358,iron deposition,iron deposition: Golden-brown granular hemosiderin pigment within macrophages or stroma.
+TCGA-RCC,359,papillary adenoma,papillary adenoma: Small circumscribed papillary proliferation with bland basophilic nuclei.
+TCGA-RCC,360,hyalinized fibrosis beginning in the tissue,"hyalinized fibrosis beginning in the tissue: Pale, eosinophilic, acellular collagen strands replacing normal parenchyma."
+TCGA-RCC,361,tumor vasculature,"tumor vasculature: Irregular, prominent blood vessels with endothelial cell proliferation in tumor stroma."
+TCGA-RCC,362,glandular epithelial cells,glandular epithelial cells: Columnar or cuboidal cells arranged in circular gland-like structures.
+TCGA-RCC,363,polarity loss,"polarity loss: Cells lose uniform orientation, nuclei no longer align at a single basal pole."
+TCGA-RCC,364,extensive capillary network,"extensive capillary network: Dense meshwork of small, thin-walled vessels interspersed among tumor cells."
+TCGA-RCC,365,pt3,pt3: Tumor cell nests within perinephric adipose tissue.
+TCGA-RCC,366,interface between living and dead tissue,"interface between living and dead tissue: A sharp boundary where viable cells transition to necrotic, eosinophilic debris."
+TCGA-RCC,367,calcified material,"calcified material: Basophilic, granular to solid deposits in tissue, often dark purple on H&E."
+TCGA-RCC,368,translocation-associated renal cell carcinoma,translocation-associated renal cell carcinoma: Papillary architecture with clear cells and abundant psammoma bodies.
+TCGA-RCC,369,multinucleated neoplasm cells,multinucleated neoplasm cells: Large tumor cells containing multiple atypical nuclei within a single cell body.
+TCGA-RCC,370,dis-cohesive pattern,"dis-cohesive pattern: Cells appear loosely arranged with widened intercellular spaces, lacking tight clusters."
+TCGA-RCC,371,intracytoplasmic eosinophilic inclusion,"intracytoplasmic eosinophilic inclusion: Round, pink, hyaline globule inside the cytoplasm of a cell."
+TCGA-RCC,372,single-cell necrosis,"single-cell necrosis: Scattered individual cells with condensed, fragmented nuclei and deeply eosinophilic cytoplasm."
+TCGA-RCC,373,cell dividing,"cell dividing: A cell showing condensed, dark purple chromosomes in a mitotic figure."
+TCGA-RCC,374,lack of adhesion between many of the cells,"lack of adhesion between many of the cells: Cells widely separated by empty spaces, lacking cohesion."
+TCGA-RCC,375,"washed out, vacuolated-looking nuclei","washed out, vacuolated-looking nuclei: Nuclei appear pale with open chromatin and clear-looking vacuoles."
+TCGA-RCC,376,cellular pleomorphism,"cellular pleomorphism: Variation in cell size, nuclear shape, and chromatin pattern within the same population."
+TCGA-RCC,377,granulomatous rim with activated macrophages,granulomatous rim with activated macrophages: Surrounding epithelioid histiocytes and multinucleated giant cells forming a palisaded border.
+TCGA-RCC,378,vascular abnormalities,"vascular abnormalities: Thick-walled, irregular blood vessels with abnormal branching or endothelial tufting."
+TCGA-RCC,379,calcification or microlith,"calcification or microlith: Small, round to oval, dark-purple laminated concretions in tubules or interstitium."
+TCGA-RCC,380,chronic active inflammation,"chronic active inflammation: Mixed infiltrate of lymphocytes, plasma cells, and neutrophils with tissue damage."
+TCGA-RCC,381,lipid-laden macrophage,"lipid-laden macrophage: Large macrophage with abundant clear, foamy cytoplasm filled with lipid droplets."
+TCGA-RCC,382,metastatic clear cell renal carcinoma,metastatic clear cell renal carcinoma: Clear cell nests with delicate vasculature in a non-renal tissue background.
+TCGA-RCC,383,medullary pyramid,medullary pyramid: Triangular area with parallel tubules and collecting ducts converging toward the papilla.
+TCGA-RCC,384,renal clear cell carcinoma arising from the epithelium of the parenchyma,renal clear cell carcinoma arising from the epithelium of the parenchyma: Nests of clear cells with delicate fibrovascular septa within kidney parenchyma.
+TCGA-RCC,385,memory cells,"memory cells: Small round lymphocytes with dense, darkly staining nuclei."
+TCGA-RCC,386,renal columns,"renal columns: Invaginations of cortical tissue between renal pyramids, containing tubules and glomeruli."
+TCGA-RCC,387,islands of viable cells,islands of viable cells: Islands of viable cells with normal nuclei amid necrotic tissue.
+TCGA-RCC,388,microvacuolation,"microvacuolation: Numerous small, clear cytoplasmic vacuoles creating a frothy cell appearance."
+TCGA-RCC,389,kidney artery,kidney artery: Thick-walled muscular artery with internal elastic lamina and smooth muscle layers visible.
+TCGA-RCC,390,"large, prominent irregular nuclei with focal necrosis","large, prominent irregular nuclei with focal necrosis: Pleomorphic enlarged nuclei with coarse chromatin among cells and scattered foci of eosinophilic necrotic debris."
+TCGA-RCC,391,plasmacytic infiltrate,plasmacytic infiltrate: Dense collection of cells with eccentric nuclei and pale perinuclear haloes (plasma cells).
+TCGA-RCC,392,long fingers or tongues of bluish to pink cells,"long fingers or tongues of bluish to pink cells: Elongated, finger-like projections of epithelial cells staining basophilic to eosinophilic."
+TCGA-RCC,393,tubule structures,tubule structures: Small tubular profiles lined by a single layer of cuboidal epithelial cells.
+TCGA-RCC,394,vascular metastasis,vascular metastasis: Tumor cell clusters filling and distending blood vessel lumens.
+TCGA-RCC,395,renal hilum,"renal hilum: Adipose tissue with large arteries, veins, and urothelial-lined collecting system."
+TCGA-RCC,396,glycogen deposition,"glycogen deposition: Cells with abundant clear cytoplasm, distinct cell borders, and central nuclei."
+TCGA-RCC,397,villous pattern,villous pattern: Slender villi with central fibrovascular cores covered by columnar epithelium.
+TCGA-RCC,398,interstitial lymphocytic infiltrate,interstitial lymphocytic infiltrate: Small round lymphocytes scattered within the renal interstitium.
+TCGA-RCC,399,nuclei examination to determine grade 3 characteristics,"nuclei examination to determine grade 3 characteristics: Markedly enlarged, hyperchromatic nuclei with prominent, irregular nucleoli."
+TCGA-RCC,400,atrophic tubules,atrophic tubules: Shrunken tubules with flattened epithelium and thickened basement membranes.
+TCGA-RCC,401,mural nodule,mural nodule: Solid nodular growth protruding from the inner wall of a cystic space.
+TCGA-RCC,402,tumor thrombus in a large vessel,"tumor thrombus in a large vessel: Intraluminal tumor aggregation occluding a large vein, attached to endothelium."
+TCGA-RCC,403,papillary epithelial hyperplasia,papillary epithelial hyperplasia: Papillary fronds with fibrovascular cores and multilayered crowded epithelium.
+TCGA-RCC,404,tissue invasion,tissue invasion: Irregular tumor nests infiltrating and disrupting normal tissue architecture.
+TCGA-RCC,405,calcinoses,calcinoses: Dark basophilic granular deposits of calcium salt precipitates within tissue.
+TCGA-RCC,406,vessels in the examined area,vessels in the examined area: Multiple thin-walled vascular channels containing red blood cells.
+TCGA-RCC,407,invasive growth in the subepithelial stroma,invasive growth in the subepithelial stroma: Tumor cells breaching the basement membrane and extending into fibrovascular stroma.
+TCGA-RCC,408,diffuse fibrosis,"diffuse fibrosis: Widespread replacement of normal tissue by dense, paucicellular collagen."
+TCGA-RCC,409,exophytic papillary lesion,exophytic papillary lesion: Outwardly projecting papillary mass with branching fronds from mucosal surface.
+TCGA-RCC,410,hemangiopericytoma-like vessels of staghorn configuration,hemangiopericytoma-like vessels of staghorn configuration: Thin-walled branching vessels with characteristic staghorn-like curves.
+TCGA-RCC,411,perivascular hemorrhage,"perivascular hemorrhage: Red blood cells cuffed around small vessels, indicating recent bleeding."
+TCGA-RCC,412,macrovesicular or papillary clear cell carcinoma,macrovesicular or papillary clear cell carcinoma: Clear cells forming large nests or delicate papillary fronds with central fibrovascular cores.
+TCGA-RCC,413,necrotic lesions,necrotic lesions: Areas of amorphous eosinophilic debris with lost nuclear and cytoplasmic detail.
+TCGA-RCC,414,histiocytic cell,histiocytic cell: Large cells with foamy cytoplasm and small round to indented nuclei.
+TCGA-RCC,415,small peripheral blood vessels,small peripheral blood vessels: Small-caliber vessels at the edge of the tissue section or tumor.
+TCGA-RCC,416,reactive fibrosis,"reactive fibrosis: Proliferating fibroblasts within loose, edematous stroma and mixed inflammation."
+TCGA-RCC,417,renal epithelium expressing ini1,"renal epithelium expressing ini1: Bland-appearing renal tubular epithelial cells with round, uniform nuclei."
+TCGA-RCC,418,anaplastic cell,"anaplastic cell: Large, bizarre cells with pleomorphic nuclei, prominent nucleoli, and abundant cytoplasm."
+TCGA-RCC,419,stippling of chronic inflammatory cells,stippling of chronic inflammatory cells: Fine granular nuclear chromatin in small dark lymphocytes and plasma cells.
+TCGA-RCC,420,tumor embolus,"tumor embolus: Clusters of malignant cells within a vessel lumen, often adhering to the wall."
+TCGA-RCC,421,glomeruloid vessels,glomeruloid vessels: Capillary loops forming ball-like tufts resembling renal glomeruli.
+TCGA-RCC,422,club-shaped papillary formations,"club-shaped papillary formations: Blunt, finger-like fibrovascular cores lined by neoplastic epithelium."
+TCGA-RCC,423,sarcomatous,"sarcomatous: Spindle-shaped cells with marked atypia, growing in haphazard bundles."
+TCGA-RCC,424,"tubules including collecting tubules, collecting ducts, and loops of henle","tubules including collecting tubules, collecting ducts, and loops of henle: Varied sizes of tubules with cuboidal to columnar epithelium, separated by stroma."
+TCGA-RCC,425,necrotic changes here,"necrotic changes here: Eosinophilic, amorphous debris with nuclear fragments and loss of cellular detail."
+TCGA-RCC,426,cells are coherent,cells are coherent: Cells tightly adhere in solid nests or tubules with distinct borders.
+TCGA-RCC,427,glomerular arteriole,glomerular arteriole: A small artery adjacent to a glomerulus with thick muscular wall.
+TCGA-RCC,428,juxtamedullary nephrons,juxtamedullary nephrons: Nephrons with long thin loops descending deep into the medulla.
+TCGA-RCC,429,distal tubule,"distal tubule: Cuboidal epithelium with eosinophilic cytoplasm, wide lumen, no brush border."
+TCGA-RCC,430,sarcomatous differentiation,sarcomatous differentiation: Spindle cell morphology with fascicular or storiform growth pattern.
+TCGA-RCC,431,prominent collagenous stroma,prominent collagenous stroma: Dense bundles of pink hyalinized collagen between tumor cells.
+TCGA-RCC,432,mitotic cell with vacuole,mitotic cell with vacuole: A dividing cell with condensed chromosomes and clear cytoplasmic vacuoles.
+TCGA-RCC,433,retroperitoneal fat,retroperitoneal fat: Large clear adipocytes with flattened peripheral nuclei.
+TCGA-RCC,434,area cribrosa on the papillae,area cribrosa on the papillae: Sieve-like small holes at the tip of a papilla.
+TCGA-RCC,435,focal calcification,focal calcification: Irregular basophilic granular deposits of calcium.
+TCGA-RCC,436,perinuclear clearing resulting in a plant cell appearance,"perinuclear clearing resulting in a plant cell appearance: Clear halos around nuclei, creating a rigid plant-cell look."
+TCGA-RCC,437,vascular endothelial cells,vascular endothelial cells: Flattened or plump cells lining capillary lumina.
+TCGA-RCC,438,cystic kidney with small and large cysts,cystic kidney with small and large cysts: Multiple variably sized cysts lined by a single layer of flat epithelium.
+TCGA-RCC,439,tortuous,"tortuous: Markedly twisted, serpentine tubular or vascular structure."
+TCGA-RCC,440,diffused cellular infiltrate,"diffused cellular infiltrate: Sheets of dark, small round cells spreading throughout the interstitium."
+TCGA-RCC,441,densely eosinophilic area with irregular margin,"densely eosinophilic area with irregular margin: Bright pink, acellular zone with poorly defined edges."
+TCGA-RCC,442,mixed lymphoid and histiocytic cells,mixed lymphoid and histiocytic cells: Admixture of small dark lymphocytes and large pale histiocytes.
+TCGA-RCC,443,mono nuclear histiocytoid cells,mono nuclear histiocytoid cells: Single cells with abundant foamy cytoplasm and oval-to-kidney-shaped nuclei.
+TCGA-RCC,444,prominent brush border of proximal tubule,prominent brush border of proximal tubule: Fuzzy pink layer on the luminal surface of cuboidal epithelium.
+TCGA-RCC,445,metanephric adenoma,metanephric adenoma: Well-circumscribed tumor composed of closely packed small tubules with scant stroma.
+TCGA-RCC,446,glomerular tufts and renal tubules,glomerular tufts and renal tubules: Capillary loops of glomeruli surrounded by tubules with varying diameters.
+TCGA-RCC,447,renal collecting system,"renal collecting system: Structures lined with urothelium, including calyces and pelvis."
+TCGA-RCC,448,pashy kind of stromal change,"pashy kind of stromal change: Patchy, pale-staining stroma that appears edematous or myxoid."
+TCGA-RCC,449,intravasation,intravasation: Tumor cells penetrating into a blood vessel.
+TCGA-RCC,450,microcystic growth pattern,"microcystic growth pattern: Small cystic spaces lined by tumor cells, creating a sieve-like architecture."
+TCGA-RCC,451,larger cells with granules and eosinophilic inclusions,larger cells with granules and eosinophilic inclusions: Large polygonal cells with abundant granular cytoplasm and round pink hyaline inclusions.
+TCGA-RCC,452,thin segments,thin segments: Thin tubular profiles lined by attenuated epithelial cells with minimal cytoplasm.
+TCGA-RCC,453,tumor margins,tumor margins: Interface between malignant cells and adjacent non-neoplastic kidney parenchyma.
+TCGA-RCC,454,cytotoxic cells with abundant cytoplasm,"cytotoxic cells with abundant cytoplasm: Cells with abundant pale cytoplasm and indented nuclei, resembling large granular lymphocytes."
+TCGA-RCC,455,metastatic renal carcinoma,metastatic renal carcinoma: Nests of clear or eosinophilic tumor cells in a non-renal tissue site.
+TCGA-RCC,456,small cortical cysts,small cortical cysts: Small fluid-filled spaces in the renal cortex lined by flattened epithelium.
+TCGA-RCC,457,multicystic appearance,multicystic appearance: Multiple variably sized cysts separated by thin fibrous septa.
+TCGA-RCC,458,region where no tumor or malignant appearing glands were found,region where no tumor or malignant appearing glands were found: Area of normal kidney parenchyma without atypical glands or invasive cells.
+TCGA-RCC,459,intraparenchymal lymph node,intraparenchymal lymph node: Lymphoid aggregate with germinal center located within the kidney parenchyma.
+TCGA-RCC,460,microvessels,microvessels: Small thin-walled capillaries and vascular channels lined by endothelial cells.
+TCGA-RCC,461,mitotic score,mitotic score: Cells with dark condensed chromosomes in various stages of mitotic division.
+TCGA-RCC,462,hemorrhagic congestion,hemorrhagic congestion: Markedly dilated vessels and extravasated red blood cells in tissue.
+TCGA-RCC,463,fibrous infiltrate,fibrous infiltrate: Dense collagen fibers interspersed with fibroblasts invading between tumor cells.
+TCGA-RCC,464,non-encapsulated tumor,"non-encapsulated tumor: Invasive tumor lacking a distinct fibrous capsule, blending with surrounding tissue."
+TCGA-RCC,465,fibrous connective,fibrous connective: Eosinophilic collagen bundles with spindle-shaped fibrocytes.
+TCGA-RCC,466,microphage,microphage: Large cells with irregular nuclei and abundant foamy cytoplasm containing phagocytosed material.
+TCGA-RCC,467,b cells transforming into plasma cells,"b cells transforming into plasma cells: Lymphoid cells with eccentric nuclei, perinuclear clear zones, and abundant basophilic cytoplasm."
+TCGA-RCC,468,chronic inflammatory response,"chronic inflammatory response: Infiltration by lymphocytes, plasma cells, and macrophages with associated fibrosis."
+TCGA-RCC,469,urinary tract tumors,urinary tract tumors: Papillary urothelial proliferation with thickened epithelium and fibrovascular cores.
+TCGA-RCC,470,cd4 cells,"cd4 cells: Small round lymphocytes with dense nuclei and scant cytoplasm, indistinguishable as CD4 without IHC."
+TCGA-RCC,471,retroperitoneal region,retroperitoneal region: Adipose and connective tissue with large vessels adjacent to the kidney.
+TCGA-RCC,472,spaces filled with blood visible on higher power image,"spaces filled with blood visible on higher power image: Cystic areas distended by red blood cells, clearly seen at higher magnification."
+TCGA-RCC,473,basal lamina collagen,"basal lamina collagen: Thin pink eosinophilic line beneath epithelial cells, representing basement membrane."
+TCGA-RCC,474,kidney cysts,kidney cysts: Spherical empty spaces in renal tissue lined by flattened epithelium.
+TCGA-RCC,475,tumor-associated macrophages,tumor-associated macrophages: Large cells with foamy cytoplasm and irregular nuclei interspersed among tumor cells.
+TCGA-RCC,476,crumpled raisinoid nuclei,"crumpled raisinoid nuclei: Irregularly wrinkled, shrunken, hyperchromatic nuclei resembling raisins."
+TCGA-RCC,477,left renal cystic stroke yellow mass,left renal cystic stroke yellow mass: Microscopic view of a cystic lesion containing yellowish granular debris and hemorrhage.
+TCGA-RCC,478,lipid-rich features,"lipid-rich features: Cells with abundant clear vacuoles due to lipid accumulation, appearing empty on H&E."
+TCGA-RCC,479,warty or papillomatous surface,warty or papillomatous surface: Papillary structures with folded epithelial surface and fibrovascular cores.
+TCGA-RCC,480,abdominal organ,"abdominal organ: Cuboidal cells lining tubules, glomerular tufts with capillary loops, and loose fibrovascular stroma."
+TCGA-RCC,481,darkly stained circular nucleus,darkly stained circular nucleus: Small round nuclei with dense hyperchromatic chromatin and very scant cytoplasm.
+TCGA-RCC,482,metastatic chromophobe renal cell carcinoma,"metastatic chromophobe renal cell carcinoma: Sheets of large pale cells with distinct cell borders, perinuclear halos, and wrinkled nuclei."

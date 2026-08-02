@@ -1,0 +1,7 @@
+__pycache__/
+**/__pycache__/
+*.pyc
+*.py[cod]
+
+.idea/
+quilt_1M_lookup.csv

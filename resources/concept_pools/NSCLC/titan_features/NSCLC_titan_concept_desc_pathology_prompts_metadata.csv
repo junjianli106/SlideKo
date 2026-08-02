@@ -1,0 +1,689 @@
+﻿dataset,row_idx,concept,encoded_text
+NSCLC,0,lymphocytes,lymphocytes: Small round cells with scant cytoplasm and dark hyperchromatic nuclei.
+NSCLC,1,neutrophils,neutrophils: Small cells with multilobed nuclei and pale granular cytoplasm.
+NSCLC,2,blood vessels,"blood vessels: Tubular structures lined by flat endothelial cells, often containing red blood cells."
+NSCLC,3,eosinophils,eosinophils: Cells with bilobed nuclei and bright eosinophilic cytoplasmic granules.
+NSCLC,4,inflammation,"inflammation: Mixed infiltration of lymphocytes, plasma cells, and histiocytes in the stroma."
+NSCLC,5,plasma cells,"plasma cells: Oval cells with eccentric nuclei, clock-face chromatin, and perinuclear hof."
+NSCLC,6,fibrosis,fibrosis: Dense eosinophilic collagen bundles with scattered spindle-shaped fibroblasts.
+NSCLC,7,epithelium,epithelium: Cohesive sheets of polygonal cells with distinct cell borders and apical surfaces.
+NSCLC,8,inflammatory cells,inflammatory cells: Admixed small dark nuclei of lymphocytes and larger histiocytes within connective tissue.
+NSCLC,9,histiocytes,histiocytes: Large cells with abundant pale foamy cytoplasm and oval vesicular nuclei.
+NSCLC,10,goblet cells,goblet cells: Epithelial cells with distended mucin-filled vacuole pushing nucleus to the base.
+NSCLC,11,connective tissue,connective tissue: Loosely arranged eosinophilic fibrous matrix with scattered fibroblasts.
+NSCLC,12,spindle cells,spindle cells: Elongated fusiform cells with tapered ends and oval cigar-shaped nuclei.
+NSCLC,13,fibroblasts,"fibroblasts: Spindle cells producing collagen, with thin wavy nuclei and indistinct cytoplasm."
+NSCLC,14,smooth muscle,smooth muscle: Eosinophilic bundles of elongated cells with blunt-ended cigar-shaped nuclei.
+NSCLC,15,mitotic figures,"mitotic figures: Condensed chromosomes in various mitotic phases, seen as dark clumps or threads."
+NSCLC,16,mitotic activity,"mitotic activity: Multiple cells showing condensed chromosomes, indicating active cell division."
+NSCLC,17,giant cells,giant cells: Large multinucleated cells with abundant cytoplasm and multiple irregular nuclei.
+NSCLC,18,tumor,tumor: Disorganized growth of atypical epithelial cells with enlarged hyperchromatic nuclei.
+NSCLC,19,parakeratosis,parakeratosis: Surface layer of small flattened squamous cells retaining pyknotic nuclei.
+NSCLC,20,hemorrhage,hemorrhage: Extravasated red blood cells free in tissue spaces outside vessels.
+NSCLC,21,basement membrane,basement membrane: Thin eosinophilic line separating epithelium from underlying connective tissue stroma.
+NSCLC,22,endothelial cells,"endothelial cells: Flat elongated cells lining vessel lumina, with sparse cytoplasm and oval nuclei."
+NSCLC,23,squamous cell carcinoma,squamous cell carcinoma: Invasive nests of polygonal tumor cells with eosinophilic cytoplasm and intercellular bridges.
+NSCLC,24,tumor cells,"tumor cells: Atypical enlarged cells with nuclear pleomorphism, prominent nucleoli, and high N/C ratio."
+NSCLC,25,glands,glands: Circular or tubular structures lined by cuboidal to columnar epithelial cells.
+NSCLC,26,fat,fat: Large clear empty spaces with thin peripheral rim of cytoplasm and flattened nuclei.
+NSCLC,27,stroma,"stroma: Supporting fibrovascular tissue with loose collagen, fibroblasts, and inflammatory cells."
+NSCLC,28,pleomorphism,"pleomorphism: Marked variation in nuclear size, shape, and staining intensity among tumor cells."
+NSCLC,29,hyperkeratosis,hyperkeratosis: Thickened layer of anucleate eosinophilic keratin on the epithelial surface.
+NSCLC,30,macrophages,"macrophages: Large cells with abundant, foamy or granular cytoplasm and a round or kidney-shaped nucleus."
+NSCLC,31,epithelioid cells,"epithelioid cells: Plump, polygonal cells with abundant pale eosinophilic cytoplasm and oval nuclei, resembling epithelial cells."
+NSCLC,32,basal layer,"basal layer: A single row of small, cuboidal to low columnar cells with dark nuclei at the base of an epithelium."
+NSCLC,33,smooth muscle cells,"smooth muscle cells: Spindle-shaped cells with abundant eosinophilic cytoplasm and elongated, cigar-shaped nuclei."
+NSCLC,34,atypia,"atypia: Nuclear enlargement, hyperchromasia, irregular contours, and prominent nucleoli varying from cell to cell."
+NSCLC,35,mucosa,"mucosa: A surface lining of epithelial cells overlying loose connective tissue, often with small glands."
+NSCLC,36,epithelial cells,"epithelial cells: Polygonal or columnar cells forming cohesive sheets, with distinct cell borders and central round nuclei."
+NSCLC,37,collagen fibers,"collagen fibers: Thick, wavy, eosinophilic bundles arranged in parallel or haphazard arrays."
+NSCLC,38,elastic fibers,"elastic fibers: Thin, dark, refractile wavy strands seen between collagen bundles, often requiring special stains but faintly visible on H&E."
+NSCLC,39,cartilage,cartilage: Chondrocytes sitting in lacunae within a homogeneous basophilic or pale matrix.
+NSCLC,40,stratified squamous epithelium,"stratified squamous epithelium: Multiple layers of polygonal cells flattening toward the surface, with basal cuboidal cells."
+NSCLC,41,alveoli,"alveoli: Thin-walled airspaces lined by flat pneumocytes, resembling delicate meshwork."
+NSCLC,42,fibrous tissue,fibrous tissue: Dense collections of eosinophilic collagen fibers with sparse spindle-shaped fibroblasts.
+NSCLC,43,lymph node,"lymph node: A dense aggregate of small, dark lymphocytes with scattered paler germinal centers."
+NSCLC,44,basal cells,basal cells: Small cuboidal cells with scant cytoplasm and dark nuclei lining the basal layer of an epithelium.
+NSCLC,45,edema,"edema: Clear, empty spaces separating cells and fibers, causing a pale, loose appearance."
+NSCLC,46,keratinocytes,"keratinocytes: Polygonal cells with abundant eosinophilic cytoplasm and intercellular bridges, maturing into anucleate squames."
+NSCLC,47,lobules,lobules: Well-circumscribed clusters of glands or alveoli separated by thin fibrous septa.
+NSCLC,48,capillaries,"capillaries: Small, thin-walled vessels lined by flat endothelial cells, often containing red blood cells."
+NSCLC,49,nerve,"nerve: Wavy, eosinophilic bundles of axons with elongated Schwann cell nuclei, sometimes within a perineurium."
+NSCLC,50,adenocarcinoma,"adenocarcinoma: Irregular glandular structures formed by atypical columnar cells with hyperchromatic nuclei, often infiltrating stroma."
+NSCLC,51,inflammatory infiltrate,"inflammatory infiltrate: Mixed population of small dark lymphocytes, plasma cells, and occasionally neutrophils spreading between tissue structures."
+NSCLC,52,spindle-shaped cells,"spindle-shaped cells: Elongated, fusiform cells with scant to moderate cytoplasm and tapered nuclei."
+NSCLC,53,nuclear pleomorphism,"nuclear pleomorphism: Marked variation in nuclear size, shape, and staining intensity among a cell population."
+NSCLC,54,squamous epithelium,"squamous epithelium: Multiple layers of polygonal cells with abundant eosinophilic cytoplasm, surface flattening, and intercellular bridges."
+NSCLC,55,red blood cells,"red blood cells: Small, round, eosinophilic discs without nuclei, often within vessels."
+NSCLC,56,perineural invasion,perineural invasion: Atypical epithelial cells wrapping around or infiltrating a nerve bundle.
+NSCLC,57,lymphocytic infiltrate,"lymphocytic infiltrate: Dense accumulation of small, round, dark blue cells with scant cytoplasm."
+NSCLC,58,lung,"lung: Delicate alveolar spaces separated by thin septa, often with scattered alveolar macrophages."
+NSCLC,59,respiratory epithelium,"respiratory epithelium: Pseudostratified columnar cells with cilia on the surface and interspersed goblet cells, sitting on a basement membrane."
+NSCLC,60,mast cells,mast cells: Round cells with abundant purple cytoplasmic granules and a central nucleus.
+NSCLC,61,multinucleated cells,multinucleated cells: Large cells containing multiple nuclei within a shared cytoplasm.
+NSCLC,62,dysplasia,dysplasia: Disordered epithelial cells with variable nuclear size and hyperchromasia.
+NSCLC,63,neoplastic cells,neoplastic cells: Abnormally proliferating cells with high nuclear-to-cytoplasmic ratio and prominent nucleoli.
+NSCLC,64,lymphoid tissue,lymphoid tissue: Densely packed small round blue cells.
+NSCLC,65,germinal centers,germinal centers: Pale areas within lymphoid tissue containing large activated lymphocytes and tingible body macrophages.
+NSCLC,66,chronic inflammation,chronic inflammation: Infiltrate of predominantly lymphocytes and plasma cells.
+NSCLC,67,nuclear atypia,"nuclear atypia: Enlarged, irregularly shaped, and hyperchromatic nuclei."
+NSCLC,68,sclerosis,"sclerosis: Dense, homogeneous eosinophilic collagen deposition."
+NSCLC,69,squamous cells,squamous cells: Flat polygonal cells with abundant eosinophilic cytoplasm and intercellular bridges.
+NSCLC,70,hyperchromatic nuclei,hyperchromatic nuclei: Darkly stained nuclei with coarse chromatin clumping.
+NSCLC,71,columnar epithelium,"columnar epithelium: Tall, single-layered cells with basally located nuclei."
+NSCLC,72,dyskeratotic keratinocytes,"dyskeratotic keratinocytes: Round, intensely eosinophilic keratinocytes with pyknotic nuclei."
+NSCLC,73,acantholysis,acantholysis: Loss of intercellular attachments resulting in detached rounded cells.
+NSCLC,74,cuboidal cells,cuboidal cells: Cube-shaped cells with round central nuclei.
+NSCLC,75,papillary structures,papillary structures: Finger-like projections with a fibrovascular core lined by epithelium.
+NSCLC,76,metastasis,metastasis: Tumor cell nests within tissue inconsistent with primary site.
+NSCLC,77,hyperchromasia,hyperchromasia: Excessive dark staining of nuclei.
+NSCLC,78,myofibroblasts,myofibroblasts: Spindle-shaped cells with eosinophilic cytoplasm and elongated nuclei within collagen.
+NSCLC,79,basaloid cells,"basaloid cells: Small, oval to round cells with scant cytoplasm and hyperchromatic nuclei."
+NSCLC,80,interstitium,interstitium: Pale eosinophilic matrix with delicate fibrils between cells.
+NSCLC,81,scar,scar: Hypocellular dense collagen arranged in parallel bundles.
+NSCLC,82,perivascular infiltrate,perivascular infiltrate: Cuff of inflammatory cells surrounding a blood vessel.
+NSCLC,83,columnar cells,columnar cells: Tall cells with a height greater than width and elongated basal nuclei.
+NSCLC,84,endothelium,endothelium: Single layer of flattened cells lining a vascular lumen.
+NSCLC,85,carcinoma,carcinoma: Invasive nests of atypical epithelial cells with surrounding desmoplastic stroma.
+NSCLC,86,lymphoid follicles,"lymphoid follicles: Well-defined aggregates of lymphocytes, often with a pale germinal center."
+NSCLC,87,dyskeratosis,dyskeratosis: Individual keratinocytes undergoing premature keratinization with brightly eosinophilic cytoplasm.
+NSCLC,88,stromal cells,"stromal cells: Spindled or stellate support cells with oval, pale nuclei."
+NSCLC,89,lymphatic nodules,"lymphatic nodules: Circumscribed, non-encapsulated aggregates of lymphoid tissue."
+NSCLC,90,necrotic debris,necrotic debris: Amorphous eosinophilic granular material with scattered nuclear fragments.
+NSCLC,91,papillomatosis,papillomatosis: Finger-like fronds lined by epithelium with fibrovascular cores.
+NSCLC,92,cribriform pattern,cribriform pattern: Glandular spaces with round punched-out lumina forming a sieve-like arrangement.
+NSCLC,93,mucous glands,mucous glands: Glands filled with pale bubbly mucin and cells with apical mucin vacuoles.
+NSCLC,94,alveolar spaces,alveolar spaces: Thin-walled air sacs lined by flat type I pneumocytes.
+NSCLC,95,malignant cells,malignant cells: Large cells with enlarged hyperchromatic pleomorphic nuclei and prominent nucleoli.
+NSCLC,96,tumor necrosis,tumor necrosis: Sheets of eosinophilic debris with karyorrhectic fragments and ghost cell outlines.
+NSCLC,97,smooth muscle bundles,smooth muscle bundles: Intersecting fascicles of spindle cells with eosinophilic cytoplasm and blunt-ended nuclei.
+NSCLC,98,invasion,invasion: Irregular nests of tumor cells breaching underlying stroma.
+NSCLC,99,lymphovascular invasion,lymphovascular invasion: Tumor cell clusters within endothelial-lined vascular spaces.
+NSCLC,100,interstitial inflammation,interstitial inflammation: Scattered lymphocytes and plasma cells within the alveolar septa.
+NSCLC,101,fibrotic stroma,fibrotic stroma: Dense hyalinized collagen bundles with sparse elongated fibroblasts.
+NSCLC,102,stratified squamous non-keratinized epithelium,stratified squamous non-keratinized epithelium: Multiple cell layers with basal cuboidal cells maturing to flattened surface cells lacking keratin.
+NSCLC,103,mucinous carcinoma,mucinous carcinoma: Large pools of extracellular mucin containing floating tumor cell clusters.
+NSCLC,104,perivascular inflammation,perivascular inflammation: Cuffs of small round blue lymphocytes surrounding blood vessels.
+NSCLC,105,interstitial hemorrhage,interstitial hemorrhage: Extravasated red blood cells within the interstitial connective tissue.
+NSCLC,106,coagulative necrosis,coagulative necrosis: Homogeneous eosinophilic area with preserved tissue architecture but absent nuclei.
+NSCLC,107,lymphocytic infiltration,lymphocytic infiltration: Dense aggregates of small dark-blue lymphoid cells infiltrating the tissue.
+NSCLC,108,scarring,scarring: Pauci-cellular dense collagen deposition replacing normal parenchyma.
+NSCLC,109,pale cytoplasm,pale cytoplasm: Cells with abundant clear or lightly eosinophilic cytoplasm.
+NSCLC,110,squamous differentiation,"squamous differentiation: Cells with glassy eosinophilic cytoplasm, intercellular bridges, or keratin pearls."
+NSCLC,111,infiltrate,infiltrate: Inflammatory or neoplastic cells permeating the stroma in a haphazard manner.
+NSCLC,112,mesothelium,mesothelium: A single row of flattened cobblestone-like cells lining a cavity.
+NSCLC,113,arteries,arteries: Thick-walled vessels with a distinct internal elastic lamina and medial smooth muscle.
+NSCLC,114,lung tissue,lung tissue: Thin-walled alveolar spaces interspersed with bronchioles and vessels.
+NSCLC,115,fibromyxoid stroma,fibromyxoid stroma: Loosely arranged spindle cells embedded in a pale blue-gray myxoid matrix.
+NSCLC,116,arteriole,arteriole: Small round vessel with a few layers of smooth muscle in its wall.
+NSCLC,117,lymphoid cells,lymphoid cells: Sheets of small round cells with scant cytoplasm and dense round nuclei.
+NSCLC,118,cancer,cancer: Disorganized growth of atypical epithelial cells with infiltrative borders.
+NSCLC,119,orthokeratosis,"orthokeratosis: Anucleate, intensely eosinophilic cornified layer with basket-weave pattern."
+NSCLC,120,signet ring cells,"signet ring cells: Cells with a large mucin vacuole pushing the nucleus to the periphery, creating a signet ring appearance."
+NSCLC,121,hyalinized stroma,"hyalinized stroma: Eosinophilic, homogeneous, glassy, acellular matrix between nests of tumor cells."
+NSCLC,122,glandular epithelium,glandular epithelium: A single layer of columnar cells with basally located nuclei lining glandular spaces.
+NSCLC,123,hyperplasia,hyperplasia: Increased number of normal-appearing cells leading to thickened epithelium or enlarged glands.
+NSCLC,124,trabecular pattern,trabecular pattern: Cords or plates of tumor cells surrounded by vascular sinusoids.
+NSCLC,125,respiratory bronchioles,"respiratory bronchioles: Bronchioles with intermittent alveoli in their walls, lined by cuboidal epithelium."
+NSCLC,126,inflammatory response,"inflammatory response: Mixed population of inflammatory cells, mainly lymphocytes and plasma cells, infiltrating the stroma."
+NSCLC,127,invasive carcinoma,invasive carcinoma: Malignant epithelial cells breaching the basement membrane and infiltrating the surrounding tissue.
+NSCLC,128,infiltrative growth,infiltrative growth: Irregular tongues and small nests of tumor cells invading between normal structures.
+NSCLC,129,nerve bundles,"nerve bundles: Wavy, fascicular structures composed of Schwann cells and axons, often seen in fibrous tissue."
+NSCLC,130,vascular invasion,"vascular invasion: Tumor cell clusters within endothelial-lined spaces, often attached to the vessel wall."
+NSCLC,131,desmoplastic stroma,desmoplastic stroma: Dense pink collagenous stroma with plump fibroblasts surrounding invasive tumor glands.
+NSCLC,132,bronchial glands,bronchial glands: Seromucinous glands beneath bronchial epithelium with pale cytoplasm and basal nuclei.
+NSCLC,133,solid tumor,"solid tumor: Sheets of tightly packed, cohesive tumor cells with scant stroma."
+NSCLC,134,cystic change,"cystic change: Dilated glandular spaces filled with mucin or serous fluid, lined by flattened epithelium."
+NSCLC,135,glandular structures,glandular structures: Round or irregular luminal spaces surrounded by polarized epithelial cells.
+NSCLC,136,vascular proliferation,"vascular proliferation: Small, thin-walled blood vessels with plump endothelial cells, often in a background of inflammation."
+NSCLC,137,veins,"veins: Thin-walled, large-diameter vessels with a wide lumen and less smooth muscle compared to arteries."
+NSCLC,138,cuboidal epithelium,"cuboidal epithelium: Cells that are as tall as they are wide, with round central nuclei, lining small ducts or tubules."
+NSCLC,139,proliferation,proliferation: Increased cellularity with mitotic figures and nuclear crowding.
+NSCLC,140,hyalinization,"hyalinization: Homogeneous, pink, glassy material replacing normal tissue or surrounding cells."
+NSCLC,141,extracellular matrix,"extracellular matrix: Fibrillar pink material separating cells, containing collagen and other proteins."
+NSCLC,142,solid pattern,solid pattern: Tumor cells growing in large cohesive nests without gland formation or squamous differentiation.
+NSCLC,143,alveolar wall,"alveolar wall: Thin septa lined by type I pneumocytes, containing capillaries, separating alveolar spaces."
+NSCLC,144,acinar cells,acinar cells: Pyramidal cells with basally located nuclei and eosinophilic granular cytoplasm forming acini.
+NSCLC,145,emphysema,"emphysema: Enlarged, simplified airspaces with destruction of alveolar walls, appearing as large thin-walled holes."
+NSCLC,146,intraepithelial carcinoma,"intraepithelial carcinoma: Malignant cells confined within the epithelium with full-thickness atypia and loss of polarity, without invasion."
+NSCLC,147,interstitial fibrosis,interstitial fibrosis: Thickened alveolar septa due to dense collagen deposition and scattered fibroblasts.
+NSCLC,148,neutrophilic infiltrate,"neutrophilic infiltrate: Numerous neutrophils within tissue, often aggregating in lumens or interstitial spaces."
+NSCLC,149,thickened basement membrane,"thickened basement membrane: A prominent, eosinophilic linear band beneath the epithelium, best seen with special stains."
+NSCLC,150,acantholytic dyskeratosis,acantholytic dyskeratosis: Detached round cells with shrunken pyknotic nuclei and densely eosinophilic cytoplasm within a cleft in squamous epithelium.
+NSCLC,151,retraction artifact,retraction artifact: Clear empty cleft-like spaces separating tumor cell nests from the adjacent fibrous stroma.
+NSCLC,152,vascularization,vascularization: Small thin-walled vessels lined by flat endothelial cells containing red blood cells.
+NSCLC,153,elastosis,elastosis: Wavy bands of pale blue-gray amorphous elastic fibers within the stroma.
+NSCLC,154,alveolar ducts,"alveolar ducts: Thin-walled air passages branching into alveolar sacs, lined by low cuboidal to flat cells."
+NSCLC,155,smooth muscle layer,smooth muscle layer: Spindle-shaped cells with blunt-ended elongated nuclei and bright eosinophilic cytoplasm forming bundles.
+NSCLC,156,mesothelial cells,mesothelial cells: A single row of flat to cuboidal cells with round uniform nuclei lining a basement membrane.
+NSCLC,157,bronchi,"bronchi: Airway lined by tall pseudostratified ciliated cells, with mucus-filled goblet cells and hyaline cartilage plates."
+NSCLC,158,binucleated cells,binucleated cells: Cells containing two closely opposed round nuclei of similar size within one cell body.
+NSCLC,159,pleura,pleura: A layer of dense collagen covered by one row of flattened mesothelial cells.
+NSCLC,160,high-grade dysplasia,"high-grade dysplasia: Disordered epithelium showing full-thickness nuclear enlargement, hyperchromasia, and loss of polarity with atypical mitoses."
+NSCLC,161,bronchioles,"bronchioles: Small airway lacking cartilage, lined by simple cuboidal to columnar cells and encircled by smooth muscle."
+NSCLC,162,stratified epithelium,stratified epithelium: Epithelial layers with small basal cells and progressively flattened superficial cells without keratinization.
+NSCLC,163,desmoplastic reaction,desmoplastic reaction: Dense eosinophilic collagen bundles interspersed with plump spindle-shaped fibroblasts around tumor nests.
+NSCLC,164,lung cancer,"lung cancer: Atypical epithelial cells with nuclear pleomorphism, prominent nucleoli, and haphazard infiltration of lung parenchyma."
+NSCLC,165,microcystic pattern,"microcystic pattern: Multiple small cystic spaces lined by cuboidal tumor cells, often filled with pale eosinophilic fluid."
+NSCLC,166,papillary carcinoma,papillary carcinoma: Finger-like fibrovascular cores covered by multilayered neoplastic epithelium projecting into luminal spaces.
+NSCLC,167,mass,mass: A solid cellular expansion that obliterates normal alveolar architecture with irregular margins.
+NSCLC,168,acinus,acinus: A small round glandular structure formed by a single layer of cuboidal cells around a central lumen.
+NSCLC,169,basal plasmacytosis,basal plasmacytosis: A dense band of plasma cells with eccentric cart-wheel nuclei clustered just beneath the epithelial layer.
+NSCLC,170,efferent lymphatic vessels,"efferent lymphatic vessels: Irregular thin-walled channels lined by endothelial cells, often empty or containing few lymphocytes."
+NSCLC,171,comedo necrosis,comedo necrosis: Central core of eosinophilic granular necrotic debris with karyorrhectic fragments within large tumor islands.
+NSCLC,172,nodular pattern,nodular pattern: Well-demarcated round tumor aggregates separated by fibrovascular septa.
+NSCLC,173,intraepithelial lymphocytes,intraepithelial lymphocytes: Small dark round lymphocyte nuclei scattered between epithelial cells within the epithelium.
+NSCLC,174,round cells,round cells: Small cells with scant basophilic cytoplasm and uniform round hyperchromatic nuclei in sheets.
+NSCLC,175,glandular differentiation,glandular differentiation: Neoplastic cells forming tubular or acinar structures with central lumina containing mucin.
+NSCLC,176,foreign body giant cells,foreign body giant cells: Large cells with abundant cytoplasm and multiple randomly positioned nuclei adjacent to foreign material.
+NSCLC,177,foreign body reaction,"foreign body reaction: Foreign material surrounded by macrophages, multinucleated giant cells, lymphocytes, and collagen fibers."
+NSCLC,178,mononuclear cells,mononuclear cells: Cells with a single round or indented nucleus and variable pale cytoplasm infiltrating the stroma.
+NSCLC,179,conventional stromal invasion,conventional stromal invasion: Irregular small tumor nests and single cells infiltrating dense desmoplastic stroma with architectural disruption.
+NSCLC,180,nuclear clearing,"nuclear clearing: Nuclei appear pale or empty with chromatin pushed to the periphery, creating a clear halo."
+NSCLC,181,nested pattern,"nested pattern: Tumor cells form discrete, cohesive islands separated by fibrovascular stroma."
+NSCLC,182,nodular lesions,"nodular lesions: Well-circumscribed, rounded aggregates of cells or tissue distinct from surrounding parenchyma."
+NSCLC,183,abscess,"abscess: Circumscribed collection of neutrophils, necrotic debris, and often surrounded by inflamed tissue."
+NSCLC,184,sarcoidosis,"sarcoidosis: Tight, well-formed non-caseating granulomas with epithelioid histiocytes and scant lymphocytes."
+NSCLC,185,secretory cells,"secretory cells: Columnar cells with apical cytoplasm distended by pale, vacuolated mucin."
+NSCLC,186,atrophy,"atrophy: Reduced size of alveoli or glands with condensed, darker cytoplasm and crowded nuclei."
+NSCLC,187,invasive adenocarcinoma,invasive adenocarcinoma: Irregular malignant glands or single cells infiltrating desmoplastic stroma.
+NSCLC,188,neoplastic process,neoplastic process: Disorganized proliferation of atypical cells with nuclear enlargement and altered architecture.
+NSCLC,189,tracheal glands,"tracheal glands: Seromucinous glands beneath respiratory epithelium, with mixed pale and dark cytoplasm."
+NSCLC,190,abnormal cells,"abnormal cells: Cells with pleomorphic, hyperchromatic nuclei and increased nuclear-to-cytoplasmic ratio."
+NSCLC,191,muscular artery,"muscular artery: Thick-walled vessel, distinct smooth muscle layer, wavy internal elastic lamina."
+NSCLC,192,vacuolar change,"vacuolar change: Cytoplasm distended by clear, empty-appearing vacuoles, pushing nucleus aside."
+NSCLC,193,acute inflammation,"acute inflammation: Abundant neutrophils within tissue, often with edema and capillary congestion."
+NSCLC,194,single cells,"single cells: Isolated, non-cohesive cells scattered individually, without gland or nest formation."
+NSCLC,195,interstitial tissue,"interstitial tissue: Loose connective tissue between structures, with sparse fibroblasts and capillaries."
+NSCLC,196,alveolar macrophages,"alveolar macrophages: Large, round cells within airspaces, with foamy or pigmented cytoplasm."
+NSCLC,197,necrobiosis,"necrobiosis: Faded, ghost-like collagen bundles with loss of nuclei, surrounded by palisading histiocytes."
+NSCLC,198,interstitial pattern,interstitial pattern: Inflammatory or fibrotic process predominantly widening the space between alveoli or glands.
+NSCLC,199,small artery,"small artery: Vessel with thin muscular wall, narrow lumen, and inconspicuous internal elastic lamina."
+NSCLC,200,dendritic cells,"dendritic cells: Stellate or elongated cells with multiple fine cytoplasmic processes, often sparse."
+NSCLC,201,endoneurium,endoneurium: Delicate connective tissue directly ensheathing individual nerve fibers within a fascicle.
+NSCLC,202,peripheral nerve,"peripheral nerve: Wavy eosinophilic bundles of axons, Schwann cells, and surrounding perineurium."
+NSCLC,203,compact hyperkeratosis,"compact hyperkeratosis: Dense, thickened layer of eosinophilic, anucleate keratin on a squamous surface."
+NSCLC,204,fibrin deposition,"fibrin deposition: Amorphous, intensely eosinophilic meshwork of strands in extracellular space."
+NSCLC,205,club cells,"club cells: Dome-shaped, non-ciliated bronchiolar epithelial cells with slightly vacuolated apex."
+NSCLC,206,alveolar septa,"alveolar septa: Delicate, thin walls between airspaces, lined by flat pneumocytes and capillaries."
+NSCLC,207,basal lamina,"basal lamina: Thin, faint eosinophilic line beneath epithelium, often indistinct without special stains."
+NSCLC,208,parenchyma,"parenchyma: Functional epithelial or alveolar tissue, distinct from surrounding stroma or vessels."
+NSCLC,209,collagenous fibrosis,"collagenous fibrosis: Dense, eosinophilic bundles of acellular collagen expanding the stroma."
+NSCLC,210,epithelial hyperplasia,epithelial hyperplasia: Increased number of epithelial cells forming thickened layers or small clusters.
+NSCLC,211,abnormal mitosis,abnormal mitosis: Atypical mitotic figures with irregular chromosome alignment or multipolar spindles.
+NSCLC,212,micropapillary pattern,micropapillary pattern: Tuft-like clusters of tumor cells without fibrovascular cores floating in clear spaces.
+NSCLC,213,papillary pattern,papillary pattern: Finger-like projections lined by neoplastic epithelium around a central fibrovascular core.
+NSCLC,214,fibers,"fibers: Dense, wavy, eosinophilic collagen bundles arranged in parallel or interwoven fashion."
+NSCLC,215,plasmacytoid cells,plasmacytoid cells: Cells with abundant basophilic cytoplasm and eccentrically placed round nuclei resembling plasma cells.
+NSCLC,216,foreign body giant cell reaction,foreign body giant cell reaction: Multinucleated giant cells with haphazardly arranged nuclei ingesting foreign material or debris.
+NSCLC,217,tall columnar cells,tall columnar cells: Tall elongated cells with basal nuclei and abundant apical pale cytoplasm.
+NSCLC,218,high grade dysplasia,"high grade dysplasia: Disorganized epithelium with marked nuclear pleomorphism, loss of polarity, and frequent mitoses."
+NSCLC,219,lobular pattern,lobular pattern: Rounded nests of tumor cells separated by thin fibrovascular septa.
+NSCLC,220,eosinophilic infiltrate,eosinophilic infiltrate: Numerous brightly eosinophilic granulocytes scattered within tissue or around vessels.
+NSCLC,221,architectural distortion,architectural distortion: Disruption of normal tissue structure with irregular glandular or stromal arrangement.
+NSCLC,222,follicular hyperplasia,follicular hyperplasia: Enlarged lymphoid follicles with prominent germinal centers containing tingible-body macrophages.
+NSCLC,223,epithelial proliferation,"epithelial proliferation: Increased numbers of epithelial cells forming multiple layers, small buds, or outpouchings."
+NSCLC,224,ductal epithelium,ductal epithelium: Single or multilayered cuboidal to columnar cells lining a duct-like space.
+NSCLC,225,organizing pneumonia,organizing pneumonia: Plugs of fibroblastic tissue within airspaces extending from alveoli to bronchioles.
+NSCLC,226,glandular pattern,glandular pattern: Back-to-back glands with irregular shapes lined by atypical cells in a desmoplastic stroma.
+NSCLC,227,lymphoplasmacytic infiltrate,lymphoplasmacytic infiltrate: Mixed population of small lymphocytes and plasma cells percolating through tissue.
+NSCLC,228,cellular debris,cellular debris: Fragmented eosinophilic material with nuclear dust and remnants of dead cells.
+NSCLC,229,intrapulmonary bronchus,intrapulmonary bronchus: A bronchus lined by respiratory epithelium with surrounding cartilage or smooth muscle in lung.
+NSCLC,230,perivascular lymphocytes,perivascular lymphocytes: A cuff of small dark lymphocytes encircling a small blood vessel.
+NSCLC,231,infiltrative tumor,infiltrative tumor: Irregular cords and nests of neoplastic cells invading through native tissue architecture.
+NSCLC,232,nerve tissue,nerve tissue: Bundles of elongated cells with wavy nuclei and pale eosinophilic cytoplasm in a fibrillary background.
+NSCLC,233,fibrocytes,fibrocytes: Spindle-shaped cells with tapered nuclei embedded within collagen fibers.
+NSCLC,234,bronchial muscle,"bronchial muscle: Bundles of smooth muscle arranged around a bronchial wall as eosinophilic, non-striated fibers."
+NSCLC,235,fibrin leakage,"fibrin leakage: Strands or globules of homogeneous, deeply eosinophilic material in alveolar or interstitial spaces."
+NSCLC,236,lymphohistiocytic infiltrate,lymphohistiocytic infiltrate: Mixed small lymphocytes and larger histiocytes with pale bubbly cytoplasm within tissue stroma.
+NSCLC,237,neoplastic proliferation,"neoplastic proliferation: Uncontrolled growth of atypical cells forming masses, sheets, or infiltrative patterns."
+NSCLC,238,mediastinum,"mediastinum: Fibroadipose tissue containing thymic remnants, lymph nodes, or large vessels between the lungs."
+NSCLC,239,chest,"chest: Skeletal muscle fibers, adipose tissue, and fibrous connective tissue of chest wall."
+NSCLC,240,non-small cell carcinoma,"non-small cell carcinoma: Sheets of large polygonal tumor cells with abundant cytoplasm, prominent nucleoli, and no small cell features."
+NSCLC,241,swollen endothelial cells,"swollen endothelial cells: Enlarged, plump endothelial cells bulging into the lumen of small blood vessels."
+NSCLC,242,interstitial lung disease,interstitial lung disease: Thickened alveolar septa with patchy fibrosis and mild chronic inflammation.
+NSCLC,243,lipid-laden histiocytes,"lipid-laden histiocytes: Clusters of foamy macrophages with abundant clear, bubbly cytoplasm in alveolar spaces."
+NSCLC,244,elastic tissue,"elastic tissue: Thin, wavy, faint pink fibers within the walls of blood vessels or pleura."
+NSCLC,245,ischemic necrosis,ischemic necrosis: Coagulative necrosis with preserved cell outlines and complete loss of nuclei.
+NSCLC,246,stromal overgrowth,stromal overgrowth: Excessive dense fibrous or myxoid stroma surrounding neoplastic cells.
+NSCLC,247,high-grade nuclear atypia,"high-grade nuclear atypia: Markedly enlarged, hyperchromatic, pleomorphic nuclei with irregular nuclear contours."
+NSCLC,248,stromal reaction,stromal reaction: Desmoplastic stroma with reactive fibroblasts and scattered mononuclear inflammatory cells.
+NSCLC,249,acidophilic cells,acidophilic cells: Cells with abundant homogeneous bright pink cytoplasm.
+NSCLC,250,monocyte,monocyte: Round cells with kidney-shaped nuclei and a moderate amount of gray-blue cytoplasm.
+NSCLC,251,venules,venules: Small thin-walled vessels with wide lumens containing red blood cells.
+NSCLC,252,anisocytosis,"anisocytosis: Marked variation in cell size, with both small and giant malignant cells."
+NSCLC,253,bronchial epithelium,bronchial epithelium: Pseudostratified ciliated columnar epithelium with interspersed goblet cells.
+NSCLC,254,lung disease,"lung disease: Altered lung architecture with variable inflammation, fibrosis, or abnormal cellular infiltrates."
+NSCLC,255,type 1 epithelial pneumocyte,"type 1 epithelial pneumocyte: Flat, extremely thin squamous epithelial cells lining alveolar surfaces."
+NSCLC,256,geographic necrosis,"geographic necrosis: Large confluent areas of necrosis with sharply demarcated, irregular borders."
+NSCLC,257,interstitial thickening,interstitial thickening: Widened alveolar septa containing increased collagen and chronic inflammatory cells.
+NSCLC,258,epineurium,epineurium: Dense collagenous sheath encasing a peripheral nerve bundle.
+NSCLC,259,alveolar pattern,alveolar pattern: Tumor cells arranged in small round spaces resembling lung alveoli.
+NSCLC,260,vascular channel formation,vascular channel formation: Irregular slit-like spaces lined by endothelial cells and containing red blood cells.
+NSCLC,261,clusters,clusters: Cohesive groups of tumor cells forming solid nodules or clumps.
+NSCLC,262,lymphocytic exocytosis,"lymphocytic exocytosis: Lymphocytes infiltrating into the epithelium, displacing epithelial cells."
+NSCLC,263,bronchial,bronchial: Respiratory epithelium with underlying cartilage and submucosal glands.
+NSCLC,264,epithelial atypia,"epithelial atypia: Nuclear enlargement, hyperchromasia, and loss of polarity in epithelial cells."
+NSCLC,265,white blood cells,white blood cells: Numerous small round blue cells with segmented or round nuclei in tissue.
+NSCLC,266,diffuse pattern,diffuse pattern: Sheets of tumor cells without any discernible architectural organization.
+NSCLC,267,granulocytes,"granulocytes: Cells with segmented nuclei and granular, pale pink cytoplasm."
+NSCLC,268,tubular pattern,tubular pattern: Back-to-back glandular structures composed of a single layer of tumor cells.
+NSCLC,269,dyskeratotic cell,"dyskeratotic cell: Small, round, densely eosinophilic cell with a pyknotic nucleus within squamous epithelium."
+NSCLC,270,pneumocytes,pneumocytes: Thin squamous cells and cuboidal cells with round nuclei lining alveolar walls.
+NSCLC,271,immune cells,"immune cells: Small round dark-blue nuclei with scant cytoplasm, scattered or in clusters."
+NSCLC,272,lung nodule,"lung nodule: Circumscribed dense cellular mass, possibly with fibrous rim."
+NSCLC,273,glandular cells,glandular cells: Columnar cells with basal nuclei forming acinar or tubular structures.
+NSCLC,274,epithelial tumor,"epithelial tumor: Sheets or nests of atypical polygonal cells with enlarged, hyperchromatic nuclei."
+NSCLC,275,cellular infiltrate,cellular infiltrate: Dense collection of small dark lymphocytes within tissue stroma.
+NSCLC,276,t-cells,"t-cells: Small round cells with dark nuclei and minimal cytoplasm, identical to other lymphocytes."
+NSCLC,277,lymph node metastasis,lymph node metastasis: Nests of atypical epithelial cells effacing normal lymphoid architecture.
+NSCLC,278,metastatic adenocarcinoma,"metastatic adenocarcinoma: Malignant gland-forming cells in a distant site, with acini and desmoplasia."
+NSCLC,279,perinuclear hof,perinuclear hof: Pale cytoplasmic halo adjacent to the nucleus.
+NSCLC,280,connective tissue cells,connective tissue cells: Spindle-shaped fibroblasts with elongated nuclei in collagenous matrix.
+NSCLC,281,partial atrophy,partial atrophy: Reduced tissue cellularity with residual fibrotic stroma.
+NSCLC,282,pulmonary edema,pulmonary edema: Eosinophilic homogeneous fluid filling alveolar spaces.
+NSCLC,283,type 2 pneumocytes,type 2 pneumocytes: Cuboidal cells with large round nuclei and prominent nucleoli along alveolar walls.
+NSCLC,284,honeycombing,honeycombing: Cystic airspaces lined by bronchiolar epithelium with surrounding fibrosis.
+NSCLC,285,tertiary bronchus,"tertiary bronchus: Small airway with thin muscle wall, cartilage plates, and ciliated epithelium."
+NSCLC,286,tumor tissue,tumor tissue: Disorganized mass of atypical cells with pleomorphic nuclei and high N/C ratio.
+NSCLC,287,growth pattern,"growth pattern: Architectural arrangement like acinar, papillary, solid, or lepidic spread."
+NSCLC,288,granulomatous infiltrate,granulomatous infiltrate: Nodular aggregates of epithelioid histiocytes with peripheral lymphocytes.
+NSCLC,289,cystic degeneration,"cystic degeneration: Fluid-filled spaces within tissue, lined by flattened cells or debris."
+NSCLC,290,interstitial connective tissue,interstitial connective tissue: Delicate eosinophilic fibrillar collagen with sparse fibroblasts between structures.
+NSCLC,291,mesenchymal cells,mesenchymal cells: Spindle or stellate cells with oval nuclei in loose myxoid stroma.
+NSCLC,292,collagenized tissue,collagenized tissue: Dense pink hyalinized collagen bundles with few cells.
+NSCLC,293,anthracosis,anthracosis: Black granular pigment in macrophages along bronchovascular bundles.
+NSCLC,294,lung mass,lung mass: Large irregular aggregate of tumor cells with necrosis and stromal reaction.
+NSCLC,295,primary bronchus,primary bronchus: Large airway with prominent cartilage plates and submucosal glands.
+NSCLC,296,low-grade mucinous neoplasms,low-grade mucinous neoplasms: Columnar tumor cells floating in abundant extracellular mucin pools.
+NSCLC,297,acantholytic squamous cell carcinoma,acantholytic squamous cell carcinoma: Sheets of squamous cells with pseudoglandular spaces containing detached tumor cells.
+NSCLC,298,perivascular lymphocytic infiltration,perivascular lymphocytic infiltration: Dark cuff of small lymphocytes encircling a blood vessel.
+NSCLC,299,epithelial differentiation,"epithelial differentiation: Polygonal cells with distinct borders, intercellular bridges, and keratinization."
+NSCLC,300,bronchovascular bundle,"bronchovascular bundle: Bronchial cartilage, smooth muscle, and adjacent pulmonary artery branch enveloped in connective tissue."
+NSCLC,301,high cellularity and vascularity,"high cellularity and vascularity: Densely packed nuclei with many small, thin-walled vascular channels scattered throughout."
+NSCLC,302,cytoplasmic vacuoles,"cytoplasmic vacuoles: Clear, round empty spaces within the cytoplasm, sometimes pushing the nucleus aside."
+NSCLC,303,immunoblasts,"immunoblasts: Large cells with vesicular nuclei, prominent central nucleoli, and moderate basophilic cytoplasm."
+NSCLC,304,signet ring,"signet ring: Cells with abundant clear mucin vacuole displacing the nucleus to the periphery, creating a ring shape."
+NSCLC,305,fusiform cells,"fusiform cells: Elongated cells with spindle-shaped, hyperchromatic nuclei and tapered cytoplasmic ends."
+NSCLC,306,conducting airways,"conducting airways: Pseudostratified ciliated columnar epithelium overlying basement membrane, with submucosal glands and cartilage."
+NSCLC,307,adenosquamous carcinoma,adenosquamous carcinoma: Mixed glandular differentiation with lumina and squamous differentiation with keratin pearls and intercellular bridges.
+NSCLC,308,normal lung,"normal lung: Delicate alveolar walls forming thin-walled airspaces, with rare interstitial cells and empty alveolar sacs."
+NSCLC,309,giant multinucleated cells,"giant multinucleated cells: Exceptionally large cells containing numerous nuclei, often arranged haphazardly within abundant eosinophilic cytoplasm."
+NSCLC,310,lymphoepithelial carcinoma,lymphoepithelial carcinoma: Syncytial nests of undifferentiated tumor cells surrounded by a dense lymphocytic infiltrate.
+NSCLC,311,reactive lymphocytes,"reactive lymphocytes: Small round lymphocytes with dark nuclei, admixed with occasional larger activated forms showing vesicular chromatin."
+NSCLC,312,anthracotic pigment,"anthracotic pigment: Coarse, black granular deposits accumulating along alveolar septa and perivascular interstitium."
+NSCLC,313,vascular thrombosis,"vascular thrombosis: Laminated eosinophilic fibrin and platelet aggregates occluding a vascular lumen, sometimes with entrapped red cells."
+NSCLC,314,pulmonary artery,"pulmonary artery: Thick-walled muscular artery adjacent to a bronchus, with prominent internal and external elastic laminae."
+NSCLC,315,sarcoidal granuloma,sarcoidal granuloma: Well-circumscribed collections of epithelioid histiocytes with scant peripheral lymphocytes and no central necrosis.
+NSCLC,316,organoid pattern,organoid pattern: Tumor cells arranged in rosettes or trabeculae that recapitulate organ-like structures with minimal stroma.
+NSCLC,317,chronic inflammatory infiltrate,chronic inflammatory infiltrate: Sheets and clusters of small lymphocytes and plasma cells expanding the interstitial spaces.
+NSCLC,318,atelectasis,"atelectasis: Collapsed alveolar spaces with crowded, thickened septa and reduced luminal air content."
+NSCLC,319,intraepithelial neoplasia,"intraepithelial neoplasia: Partially thickened epithelium with enlarged, hyperchromatic nuclei and loss of normal maturation, but intact basement membrane."
+NSCLC,320,alveolar sacs,"alveolar sacs: Terminal, thin-walled air spaces opening into alveolar ducts, lined by a continuous layer of type I pneumocytes."
+NSCLC,321,necrotic fibers,necrotic fibers: Amorphous eosinophilic debris with residual fibrillary strands amidst degraded collagen bundles.
+NSCLC,322,mucinosis,"mucinosis: Pale basophilic mucoid material expanding the stroma, with scattered spindle cells floating within."
+NSCLC,323,perivascular pattern of tumor growth,perivascular pattern of tumor growth: Malignant cells arranged in cuffs and mantles tightly enveloping small blood vessels.
+NSCLC,324,sarcomatous component,"sarcomatous component: Pleomorphic spindle cells growing in fascicles, with high mitotic activity and variable collagen deposition."
+NSCLC,325,lung tumor,lung tumor: Irregular gland-like structures or solid nests of atypical cells infiltrating pulmonary parenchyma.
+NSCLC,326,multinucleated cell,"multinucleated cell: Single large cell containing multiple nuclei, often with abundant cytoplasm and indistinct cell borders."
+NSCLC,327,neutrophil cells,"neutrophil cells: Small round cells with segmented nuclei (2–5 lobes) and pale, slightly granular cytoplasm."
+NSCLC,328,lymphocyte-rich,"lymphocyte-rich: Dense, monotonous population of small dark lymphocytes obscuring the underlying architecture."
+NSCLC,329,necrotic tumor,"necrotic tumor: Central eosinophilic zone with karyorrhectic debris, ghost cells, and preserved tumor architecture in the viable periphery."
+NSCLC,330,mucous-secreting cells,mucous-secreting cells: Tall columnar cells with abundant foamy or vacuolated apical cytoplasm and basally located nuclei.
+NSCLC,331,small lymphocyte,small lymphocyte: Uniform small round cells with a thin rim of basophilic cytoplasm and dense round nuclei.
+NSCLC,332,angioinvasion,angioinvasion: Clusters of tumor cells filling and distending a vessel lumen lined by endothelium.
+NSCLC,333,myeloid cells,"myeloid cells: Cells with segmented or band-shaped nuclei and granular cytoplasm, often within vascular spaces."
+NSCLC,334,microcystic changes,microcystic changes: Small irregular empty cystic spaces lined by a single layer of flattened epithelium.
+NSCLC,335,interstitial infiltrate,interstitial infiltrate: Lymphocytes and plasma cells scattered within the alveolar septa without filling airspaces.
+NSCLC,336,middle lobe,middle lobe: Pulmonary parenchyma containing a central bronchovascular bundle and surrounding alveoli.
+NSCLC,337,blood vessel wall,blood vessel wall: Concentric layers of smooth muscle and collagen with an inner endothelial lining and red blood cells in the lumen.
+NSCLC,338,high endothelial venules,high endothelial venules: Small venules lined by prominent cuboidal endothelial cells that bulge into the lumen.
+NSCLC,339,glandular architecture,glandular architecture: Back-to-back atypical glands with luminal spaces lined by columnar tumor cells.
+NSCLC,340,dilatation of the lymphatics,dilatation of the lymphatics: Irregularly widened thin-walled channels filled with pale proteinaceous fluid and scattered lymphocytes.
+NSCLC,341,cribriform carcinoma,cribriform carcinoma: Solid nests of tumor cells with multiple small round lumina creating a sieve-like pattern.
+NSCLC,342,intracytoplasmic inclusions,intracytoplasmic inclusions: Distinct eosinophilic globules or vacuoles within the cytoplasm of tumor cells.
+NSCLC,343,glycogen accumulation,"glycogen accumulation: Abundant clear, empty-appearing cytoplasm that pushes the nucleus to the periphery."
+NSCLC,344,prickle cell layer,prickle cell layer: Polygonal squamous cells with sharp intercellular bridges and dense eosinophilic cytoplasm.
+NSCLC,345,vacuolar degeneration,vacuolar degeneration: Swollen cells with numerous small clear cytoplasmic vacuoles and displaced nuclei.
+NSCLC,346,perivascular inflammatory cell infiltrate,perivascular inflammatory cell infiltrate: Cuffs of lymphocytes and plasma cells surrounding a blood vessel.
+NSCLC,347,primary tumor,primary tumor: A dense sheet of malignant cells with nuclear atypia replacing normal lung architecture.
+NSCLC,348,lobes,lobes: Lung tissue divided by a thick connective tissue septum lined by mesothelium or a fissure.
+NSCLC,349,capillary endothelial cells,capillary endothelial cells: Flattened cells lining narrow vascular spaces that contain red blood cells.
+NSCLC,350,smooth nodule,smooth nodule: A well-circumscribed round tumor mass with a pushing border and no infiltration of surrounding tissue.
+NSCLC,351,embolus,embolus: A solid plug of fibrin or tumor material occluding a vessel lumen.
+NSCLC,352,invasive neoplasm,invasive neoplasm: Irregular tumor glands or nests infiltrating a desmoplastic stroma with stromal reaction.
+NSCLC,353,micronuclei,micronuclei: Small round extra-nuclear chromatin bodies adjacent to the main nucleus in tumor cells.
+NSCLC,354,glandular neoplasm,glandular neoplasm: A tumor composed of variably formed glands with mucinous or columnar epithelial cells.
+NSCLC,355,lamellar keratin cysts,lamellar keratin cysts: Concentrically laminated eosinophilic keratin material surrounded by squamous epithelium.
+NSCLC,356,interlobular vein,interlobular vein: A thin-walled vein running within a connective tissue septum between lobules.
+NSCLC,357,microglandular spaces,"microglandular spaces: Minute gland-like slits or lumina within solid tumor nests, often inconspicuous."
+NSCLC,358,tufting,tufting: Small papillary projections of epithelium extending into a glandular lumen.
+NSCLC,359,squamous dysplasia,"squamous dysplasia: Atypical squamous epithelium with nuclear enlargement, hyperchromasia, and loss of orderly maturation."
+NSCLC,360,rosette,rosette: Circular arrangement of tumor cells around a central lumen or fibrillar core.
+NSCLC,361,myofibroblastic proliferation,myofibroblastic proliferation: Interlacing fascicles of spindle cells with eosinophilic cytoplasm and elongated nuclei.
+NSCLC,362,upper chest,upper chest: Fibroadipose tissue and skeletal muscle bundles consistent with chest wall sampling.
+NSCLC,363,nodular lymphoid or lymphoplasmacytic islands,nodular lymphoid or lymphoplasmacytic islands: Well-circumscribed aggregates of small lymphocytes with scattered plasma cells and occasional germinal centers.
+NSCLC,364,whorls,whorls: Concentric circular arrangements of spindle or epithelioid cells.
+NSCLC,365,glandular tumor,glandular tumor: Neoplastic cells forming irregular glandular or tubular structures with variable lumens.
+NSCLC,366,microinvasive carcinoma,microinvasive carcinoma: Small clusters of atypical cells breaching the basement membrane into the underlying stroma.
+NSCLC,367,neoplastic nodule,neoplastic nodule: Well-circumscribed nodule of crowded cells with high nuclear-to-cytoplasmic ratio and hyperchromasia.
+NSCLC,368,hyperorthokeratosis,"hyperorthokeratosis: Thickened layer of anucleate keratin on the epithelial surface, appearing eosinophilic and compact."
+NSCLC,369,stromal process with myxoid stroma,stromal process with myxoid stroma: Hypocellular stroma with abundant pale blue myxoid matrix extending into surrounding tissue.
+NSCLC,370,hsil,"hsil: Full-thickness squamous epithelial atypia with nuclear enlargement, hyperchromasia, and increased mitoses."
+NSCLC,371,intestinal cells,intestinal cells: Columnar epithelial cells with a brush border and interspersed goblet cells containing mucin.
+NSCLC,372,small airways,small airways: Bronchiolar structures lined by ciliated columnar epithelium with a rim of smooth muscle.
+NSCLC,373,mucinous differentiation,"mucinous differentiation: Cytoplasmic mucin vacuoles displacing the nucleus to the periphery, resembling signet ring cells."
+NSCLC,374,bizarre cells,"bizarre cells: Large cells with highly irregular hyperchromatic nuclei, multinucleation, and abundant cytoplasm."
+NSCLC,375,microabscesses,"microabscesses: Small aggregates of neutrophils within tissue, often surrounded by degenerated cells."
+NSCLC,376,pushing invasion pattern,pushing invasion pattern: Nodules of tumor with smooth borders compressing adjacent stroma without individual cell infiltration.
+NSCLC,377,glandular proliferation,glandular proliferation: Increased number of glands with crowded or back-to-back arrangement and variable luminal size.
+NSCLC,378,septal thickening,septal thickening: Widened interlobular septa due to collagen deposition and scattered inflammatory cells.
+NSCLC,379,solid nodule of basal cells,"solid nodule of basal cells: Nodule of basaloid cells with peripheral palisading, dark nuclei, and scanty cytoplasm."
+NSCLC,380,lymphoid hyperplasia,lymphoid hyperplasia: Enlarged lymphoid follicles with prominent germinal centers and intact mantle zones.
+NSCLC,381,upper lobe,upper lobe: Lung parenchyma with alveolar spaces and prominent anthracotic pigment deposition.
+NSCLC,382,hemorrhagic necrosis,hemorrhagic necrosis: Area of cell death with extravasated red blood cells and loss of nuclear detail.
+NSCLC,383,"sharp, punched out lumens","sharp, punched out lumens: Glands with sharply defined, empty lumens resembling cleanly punched-out holes."
+NSCLC,384,clear cell adenocarcinoma,clear cell adenocarcinoma: Tumor cells with optically clear cytoplasm and hyperchromatic nuclei forming glandular patterns.
+NSCLC,385,mucous acinus,mucous acinus: Acinus lined by tall columnar cells with foamy cytoplasm and basally located nuclei.
+NSCLC,386,tiny gland with peripheral cells,tiny gland with peripheral cells: Small glandular lumen surrounded by a single layer of cuboidal or flattened cells.
+NSCLC,387,multilocular cystic spaces,"multilocular cystic spaces: Multiple cystic cavities separated by thin fibrous septa, lined by epithelial cells."
+NSCLC,388,malignant glandular cells,"malignant glandular cells: Atypical glandular cells with pleomorphic nuclei, prominent nucleoli, and infiltrative growth."
+NSCLC,389,metastatic signet ring carcinoma,metastatic signet ring carcinoma: Cells with large intracytoplasmic mucin vacuoles compressing the crescent-shaped nucleus.
+NSCLC,390,higher grade dysplasia,"higher grade dysplasia: Crowded, stratified epithelial cells with enlarged, hyperchromatic nuclei and loss of polarity, often extending closer to the surface."
+NSCLC,391,bulky tumor,"bulky tumor: A large, expansive aggregate of malignant cells replacing normal architecture, forming a dense, space-occupying mass with pushing borders."
+NSCLC,392,architectural pattern,"architectural pattern: The overall arrangement of tumor cells, such as glandular, papillary, or solid sheets, discernible at low power."
+NSCLC,393,proliferative activity,proliferative activity: Frequent mitotic figures visible as dark dots or thread-like chromosomal structures in dividing cells.
+NSCLC,394,lung alveoli,"lung alveoli: Thin-walled air sacs lined by flat pneumocytes, appearing as empty spaces separated by delicate septa."
+NSCLC,395,mass lesion,"mass lesion: A well-demarcated, solid collection of abnormal tissue displacing surrounding normal structures."
+NSCLC,396,collagen fiber bundle,"collagen fiber bundle: Thick, eosinophilic, wavy strands of pink extracellular matrix, often oriented in parallel arrays."
+NSCLC,397,micronodular pattern,"micronodular pattern: Multiple small, rounded clusters of cells distributed within a fibrous or loose stroma."
+NSCLC,398,hilar mass,"hilar mass: A central mass near large bronchi and vessels at the lung hilum, often obliterating normal anatomy."
+NSCLC,399,lower lobe,"lower lobe: Patch taken from the inferior portion of the lung, showing typical alveolar parenchyma or a specific lesion location."
+NSCLC,400,acinar pattern,"acinar pattern: Tumor cells forming small, round gland-like spaces reminiscent of normal acini."
+NSCLC,401,tubular cells,tubular cells: Epithelial cells arranged in ring-like or elongated tubular structures with central lumina.
+NSCLC,402,hilum,"hilum: Region containing large airways, thick-walled blood vessels, and lymph nodes at the lung's medial aspect."
+NSCLC,403,lymphatic sinuses,"lymphatic sinuses: Dilated, endothelium-lined channels within a lymph node, often containing pale eosinophilic fluid and scattered lymphocytes."
+NSCLC,404,signet ring cell carcinoma,"signet ring cell carcinoma: Cells with abundant intracytoplasmic mucin pushing the nucleus to one side, creating a signet ring look."
+NSCLC,405,panacinar emphysema,"panacinar emphysema: Uniformly enlarged, simplified airspaces with thin, fragmented alveolar septa throughout the lobule."
+NSCLC,406,stromal edema,"stromal edema: Pale, loose, expanded extracellular space separating cells and fibers, often with a faintly basophilic hue."
+NSCLC,407,invasive cancer,"invasive cancer: Malignant cells infiltrating beyond basement membrane into surrounding stroma, forming irregular nests or cords."
+NSCLC,408,hemorrhagic tumor,"hemorrhagic tumor: Tumor mass containing abundant extravasated red blood cells, appearing as bright eosinophilic zones among tumor cells."
+NSCLC,409,biphasic pattern,"biphasic pattern: Tumor exhibiting two distinct morphologies, such as epithelial and spindle cell components, juxtaposed."
+NSCLC,410,neurotropism,"neurotropism: Tumor cells wrapping around or infiltrating small nerve bundles, often within the perineural space."
+NSCLC,411,mild fibrosis,"mild fibrosis: Subtle increase in collagen fibers, seen as slightly thickened, pale pink septa between cells or alveoli."
+NSCLC,412,clear cell eosinophilic,"clear cell eosinophilic: Cells with optically clear cytoplasm yet containing fine eosinophilic granules, giving a mixed clear and pink appearance."
+NSCLC,413,darker staining surrounding area indicated as lymph node cortex,"darker staining surrounding area indicated as lymph node cortex: Basophilic peripheral zone of a lymph node with densely packed small lymphocytes, staining darker than the medulla."
+NSCLC,414,capillaritis,"capillaritis: Neutrophils infiltrating and disrupting the walls of small capillaries, with fibrinoid material and red cell extravasation."
+NSCLC,415,thoracic mass,"thoracic mass: A space-occupying lesion within the chest cavity, seen as a cellular tumor mass against lung or pleural background."
+NSCLC,416,b-cells,"b-cells: Small, round lymphocytes with dark nuclei and scant cytoplasm, often forming nodules in lymphoid tissue."
+NSCLC,417,bronchial wall,"bronchial wall: Consists of ciliated columnar epithelium, smooth muscle, and cartilage plates, seen as layered structure around a lumen."
+NSCLC,418,pleomorphic cell nuclei,"pleomorphic cell nuclei: Markedly variable nuclear sizes and shapes, including giant, bizarre, and irregular forms within the same tumor area."
+NSCLC,419,lymphangitic spread,lymphangitic spread: Tumor cells filling and distending thin-walled lymphatic channels within the alveolar septa or pleura.
+NSCLC,420,non-keratinizing squamous tumor,non-keratinizing squamous tumor: Sheets of polygonal cells with intercellular bridges and no keratin pearls.
+NSCLC,421,basaloid carcinoma,"basaloid carcinoma: Tight nests of small, hyperchromatic cells with scant cytoplasm and peripheral palisading."
+NSCLC,422,orthokeratotic hyperkeratosis,"orthokeratotic hyperkeratosis: Thick, anucleate eosinophilic keratin layer on the surface."
+NSCLC,423,mesenchymal stroma,mesenchymal stroma: Loose spindle-cell background with wavy collagen fibers and scattered fibroblasts.
+NSCLC,424,microinvasion,microinvasion: Small cluster of tumor cells breaching basement membrane into underlying stroma.
+NSCLC,425,tumor giant cell,"tumor giant cell: Large cell with bizarre, multilobated nuclei and abundant eosinophilic cytoplasm."
+NSCLC,426,pulmonary veins,pulmonary veins: Thin-walled vessel with endothelial lining and erythrocytes in the lumen.
+NSCLC,427,invasive squamous carcinoma,invasive squamous carcinoma: Irregular nests of squamous tumor cells infiltrating desmoplastic stroma.
+NSCLC,428,focal necrosis,"focal necrosis: Small, eosinophilic, karyorrhectic area with loss of cell outlines."
+NSCLC,429,papillary tumor,papillary tumor: Fibrovascular cores covered by crowded columnar tumor cells.
+NSCLC,430,seromucous gland,seromucous gland: Mixed serous and mucous acini with basophilic granules beneath respiratory epithelium.
+NSCLC,431,basal hyperplasia,basal hyperplasia: Proliferation of small basal cells beneath columnar cells with intact surface.
+NSCLC,432,bronchial mucosa,bronchial mucosa: Pseudostratified ciliated columnar epithelium on a basement membrane with submucosal glands.
+NSCLC,433,metastatic squamous cell carcinoma,metastatic squamous cell carcinoma: Discohesive squamous tumor clusters in lymphovascular spaces with adjacent lymphoid tissue.
+NSCLC,434,glandular columnar epithelium,glandular columnar epithelium: Single layer of tall columnar cells with basal nuclei and mucinous cytoplasm.
+NSCLC,435,pseudopapillary pattern,pseudopapillary pattern: Papilla-like infoldings without true fibrovascular cores in tumor cell nests.
+NSCLC,436,right upper lobe,right upper lobe: Alveolated lung parenchyma with anthracotic pigment and open air spaces.
+NSCLC,437,lung carcinoma,lung carcinoma: Invasive epithelial tumor cells with nuclear atypia in desmoplastic stroma.
+NSCLC,438,lymphatic endothelium,"lymphatic endothelium: Thin, flattened endothelial cells lining irregular, valve-containing channels."
+NSCLC,439,metastatic lung adenocarcinoma,metastatic lung adenocarcinoma: Gland-forming tumor cells in lymph node with pleomorphic nuclei and mucin.
+NSCLC,440,adenomatous hyperplasia,"adenomatous hyperplasia: Small, localized proliferation of uniform cuboidal cells along alveolar walls."
+NSCLC,441,benign gland with low cuboidal epithelium,benign gland with low cuboidal epithelium: Regular glands lined by single-layered low cuboidal cells with round basal nuclei.
+NSCLC,442,pleural thickening,pleural thickening: Dense fibrotic tissue with sparse chronic inflammation expanding the pleural surface.
+NSCLC,443,zonal necrosis,"zonal necrosis: Geographic area of dead cells with pyknosis and eosinophilic debris, separated from viable tumor."
+NSCLC,444,capillary bed,"capillary bed: Network of small, thin-walled capillaries filled with erythrocytes."
+NSCLC,445,squamous intraepithelial neoplasia,squamous intraepithelial neoplasia: Full-thickness atypia in squamous epithelium with nuclear enlargement and loss of polarity.
+NSCLC,446,cord-like pattern,"cord-like pattern: Tumor cells arranged in thin, interconnected cords within fibrous stroma."
+NSCLC,447,stromal hemosiderin,stromal hemosiderin: Golden-brown granular pigment in macrophages or extracellularly within stroma.
+NSCLC,448,papillary hyperplasia,"papillary hyperplasia: Finger-like epithelial projections with fibrovascular cores, cells show mild crowding."
+NSCLC,449,elastic laminae within the arterial wall,"elastic laminae within the arterial wall: Wavy, pink elastic fibers concentrically arranged in the vessel media."
+NSCLC,450,lung adenocarcinoma,"lung adenocarcinoma: Irregular glandular structures with columnar cells, often containing mucin."
+NSCLC,451,basement membrane abnormalities,basement membrane abnormalities: Thickened or fragmented eosinophilic line beneath epithelial cells.
+NSCLC,452,high-grade tumor,"high-grade tumor: Markedly pleomorphic nuclei, prominent nucleoli, and frequent mitotic figures."
+NSCLC,453,glycogen-rich,"glycogen-rich: Cells with clear, vacuolated cytoplasm due to glycogen accumulation."
+NSCLC,454,stromal hyperplasia,stromal hyperplasia: Expanded fibrous stroma with proliferating spindle-shaped fibroblasts.
+NSCLC,455,premalignant lesions,"premalignant lesions: Dysplastic epithelium with nuclear enlargement, hyperchromasia, and loss of polarity."
+NSCLC,456,chronic bronchiolitis,chronic bronchiolitis: Lymphocytic infiltrates surrounding bronchioles with possible lymphoid follicles.
+NSCLC,457,inflammatory disease characterized by the presence of histiocytes,inflammatory disease characterized by the presence of histiocytes: Collections of epithelioid histiocytes with abundant pale cytoplasm.
+NSCLC,458,squamoid differentiation,"squamoid differentiation: Polygonal cells with eosinophilic cytoplasm, intercellular bridges, and keratin pearls."
+NSCLC,459,non-keratinizing squamous carcinoma,"non-keratinizing squamous carcinoma: Sheets of atypical epithelial cells without prominent keratinization, indistinct cell borders."
+NSCLC,460,inflammatory infiltration,"inflammatory infiltration: Mixed inflammatory cells including lymphocytes, plasma cells, and neutrophils."
+NSCLC,461,solid adenocarcinoma,solid adenocarcinoma: Solid sheets of tumor cells with focal mucin production.
+NSCLC,462,focal hyperkeratosis,focal hyperkeratosis: Localized thick layer of anucleate keratin on the surface.
+NSCLC,463,subpleural,subpleural: Tissue located just beneath the pleural surface with mesothelial lining.
+NSCLC,464,vascular endothelium,"vascular endothelium: Flat, elongated cells lining vascular spaces with thin cytoplasm."
+NSCLC,465,minimally invasive,minimally invasive: Predominantly lepidic growth with a small invasive focus under 5 mm.
+NSCLC,466,atypical cytology,"atypical cytology: Enlarged, hyperchromatic nuclei with irregular contours."
+NSCLC,467,hypocellularity,hypocellularity: Sparse cellularity with abundant extracellular matrix.
+NSCLC,468,inflammatory activity,inflammatory activity: Active inflammation with numerous neutrophils and necrotic debris.
+NSCLC,469,bronchiolization of alveolar lining,bronchiolization of alveolar lining: Cuboidal to columnar epithelium lining alveolar septa instead of flat pneumocytes.
+NSCLC,470,geographic pattern tumor necrosis,geographic pattern tumor necrosis: Large confluent areas of necrosis with irregular geographic borders.
+NSCLC,471,nuclear fragmentation,nuclear fragmentation: Pyknotic nuclear fragments scattered within necrotic or apoptotic areas.
+NSCLC,472,branching glans and cords with papillae,branching glans and cords with papillae: Complex branching glands and papillary structures lined by atypical epithelium.
+NSCLC,473,problem appreciating the boundaries of the cells,problem appreciating the boundaries of the cells: Indistinct cell borders giving a syncytial appearance.
+NSCLC,474,bronchial cartilage,bronchial cartilage: Hyaline cartilage plates with chondrocytes in lacunae.
+NSCLC,475,net-like or fenestrated pattern,net-like or fenestrated pattern: Thin-walled vascular spaces forming a net-like or fenestrated pattern.
+NSCLC,476,micropapillary carcinoma,micropapillary carcinoma: Small papillary tufts without fibrovascular cores floating in clear spaces.
+NSCLC,477,multinucleation,"multinucleation: Cells containing multiple nuclei, often in a giant cell configuration."
+NSCLC,478,nuclear pseudoinclusions,nuclear pseudoinclusions: Intranuclear eosinophilic inclusions representing cytoplasmic invaginations.
+NSCLC,479,emphysematous lung,"emphysematous lung: Enlarged airspaces with thin, disrupted alveolar walls."
+NSCLC,480,non-atypical epithelium,"non-atypical epithelium: Uniform, polarized cells with basal nuclei and preserved architecture, showing no nuclear enlargement or irregularity."
+NSCLC,481,alveolar epithelium,alveolar epithelium: Flat type I pneumocytes and cuboidal type II pneumocytes lining delicate alveolar walls.
+NSCLC,482,erythrophagocytosis,"erythrophagocytosis: Macrophages containing engulfed red blood cells, appearing as golden-brown intracytoplasmic granules."
+NSCLC,483,muciphages,"muciphages: Foamy macrophages with abundant pale, finely vacuolated cytoplasm distended by mucin."
+NSCLC,484,stromal pigmentation,"stromal pigmentation: Coarse brown-black granular deposits scattered within the fibrotic stroma, consistent with anthracosis."
+NSCLC,485,intraepithelial glands,"intraepithelial glands: Gland-like spaces lined by cuboidal to columnar cells within the surface epithelium, often filled with mucin."
+NSCLC,486,pulmonary vasculature,pulmonary vasculature: Thin-walled blood vessels with a single endothelial layer accompanied by surrounding smooth muscle bundles.
+NSCLC,487,bronchial tree,"bronchial tree: Branching airways lined by pseudostratified ciliated columnar epithelium, with submucosal glands and cartilage plates."
+NSCLC,488,lymphocytic inflammatory infiltrate,"lymphocytic inflammatory infiltrate: Small dark blue round cells with scant cytoplasm, densely infiltrating the stroma or around vessels."
+NSCLC,489,tissue ischemia,"tissue ischemia: Eosinophilic coagulative necrosis with loss of nuclear detail, adjacent congested capillaries, and hemorrhagic extravasation."
+NSCLC,490,squamous intraepithelial lesions,"squamous intraepithelial lesions: Dysplastic squamous cells with enlarged, hyperchromatic nuclei, irregular contours, and loss of normal maturation."
+NSCLC,491,polypoid lesions,"polypoid lesions: Exophytic growth projecting into a lumen, covered by benign or atypical epithelium, often with a fibrovascular core."
+NSCLC,492,septal areas,"septal areas: Connective tissue bands separating lung lobules, containing vessels, lymphatics, and sometimes anthracotic pigment."
+NSCLC,493,bronchial alveolar carcinoma,"bronchial alveolar carcinoma: Tumor cells growing along intact alveolar septa without stromal invasion, forming a lepidic pattern of uniform cuboidal cells."
+NSCLC,494,tracheal cartilages,"tracheal cartilages: C-shaped hyaline cartilage rings with chondrocytes in lacunae, surrounded by perichondrium."
+NSCLC,495,squamous papillomatosis,"squamous papillomatosis: Multiple papillary fronds with fibrovascular cores covered by benign squamous epithelium, showing acanthosis and hyperkeratosis."
+NSCLC,496,perivascular smooth muscle cells (pericytes,"perivascular smooth muscle cells (pericytes: Elongated spindle-shaped cells with elongated nuclei wrapping around small blood vessels, encircling endothelial tubes."
+NSCLC,497,papillary adenoma,"papillary adenoma: A well-circumscribed nodule with delicate papillary projections lined by uniform cuboidal to columnar cells, no invasion."
+NSCLC,498,squamous papilloma,squamous papilloma: A benign exophytic lesion with branching fibrovascular cores draped by orderly stratified squamous epithelium.
+NSCLC,499,tracheobronchial tree,"tracheobronchial tree: Larger airways with respiratory epithelium, submucosal mucous glands, smooth muscle layer, and cartilage plates."
+NSCLC,500,hyalinized fibrosis beginning in the tissue,"hyalinized fibrosis beginning in the tissue: Dense, eosinophilic, acellular collagen bundles replacing normal parenchyma, appearing glassy and pale pink."
+NSCLC,501,normal cells,"normal cells: Cells with regular size, shape, and nuclear features, maintaining normal tissue architecture and minimal mitotic activity."
+NSCLC,502,tumor vasculature,"tumor vasculature: Irregular, branching, often dilated thin-walled vessels within neoplastic tissue, sometimes with pericyte detachment."
+NSCLC,503,columnar cells with nuclear palisading,"columnar cells with nuclear palisading: Tall columnar cells whose elongated nuclei align perpendicular to the basement membrane, forming a picket-fence arrangement."
+NSCLC,504,glandular epithelial cells,"glandular epithelial cells: Cuboidal to columnar cells with round basal nuclei, arranged around lumina with apical cytoplasmic secretion."
+NSCLC,505,polarity loss,polarity loss: Disorganized epithelial growth where nuclei are haphazard rather than oriented perpendicular to the basal lamina.
+NSCLC,506,extensive capillary network,"extensive capillary network: Dense meshwork of small, thin-walled vessels lined by endothelial cells, often surrounding alveoli."
+NSCLC,507,nested or floret-like pattern in cells on high magnification,"nested or floret-like pattern in cells on high magnification: Tumor cells clustered in small nests with peripheral palisading, resembling rosettes or flowers."
+NSCLC,508,coarse keratohyalin granules,"coarse keratohyalin granules: Large, irregular, deeply basophilic cytoplasmic granules within squamous cells of the granular layer."
+NSCLC,509,phagocytic cells,"phagocytic cells: Large cells with abundant cytoplasm containing ingested debris, often with eccentric reniform nuclei."
+NSCLC,510,parietal pleura,parietal pleura: A fibrous connective tissue layer lined by a single layer of flat mesothelial cells.
+NSCLC,511,dis-cohesive pattern,dis-cohesive pattern: Individual tumor cells or small clusters loosely arranged without cohesive architecture.
+NSCLC,512,single-cell necrosis,"single-cell necrosis: Isolated cells with pyknotic, fragmented, or absent nuclei and eosinophilic cytoplasm."
+NSCLC,513,scirrhous carcinoma,"scirrhous carcinoma: Small tumor cell nests within dense, sclerotic fibrous stroma."
+NSCLC,514,pneumocyte hyperplasia,"pneumocyte hyperplasia: Cuboidal epithelial cells line alveolar walls, forming a hyperplastic pneumocyte layer."
+NSCLC,515,dense infiltrates with eosinophils,dense infiltrates with eosinophils: Numerous eosinophils with bright pink cytoplasmic granules among mixed inflammatory cells.
+NSCLC,516,muscular venule with smooth muscle cells,muscular venule with smooth muscle cells: A small venule with concentric layers of smooth muscle cells around the endothelial-lined lumen.
+NSCLC,517,lymphoid organs,lymphoid organs: Dense aggregates of small lymphocytes forming follicles with possible germinal centers.
+NSCLC,518,epithelial mesothelioma,epithelial mesothelioma: Epithelioid cells form tubulopapillary structures with eosinophilic cytoplasm.
+NSCLC,519,mucinous fibroplasia,mucinous fibroplasia: Pale basophilic mucin pools with scattered spindle-shaped fibroblasts.
+NSCLC,520,cell dividing,cell dividing: A cell with condensed chromosomes aligned at the metaphase plate.
+NSCLC,521,mucin-producing adenocarcinoma,mucin-producing adenocarcinoma: Gland-forming tumor cells with intracytoplasmic mucin vacuoles or luminal mucin.
+NSCLC,522,normal lymphocytes,"normal lymphocytes: Small round cells with dark, condensed nuclei and scant cytoplasm."
+NSCLC,523,high-grade adenocarcinoma,high-grade adenocarcinoma: Solid nests or cribriform structures with marked nuclear atypia and frequent mitoses.
+NSCLC,524,lack of adhesion between many of the cells,lack of adhesion between many of the cells: Tumor cells are widely separated with open spaces between them.
+NSCLC,525,primary lymphoid nodule seen at the yellow arrow,"primary lymphoid nodule seen at the yellow arrow: A dense, uniform aggregate of small lymphocytes without germinal center formation."
+NSCLC,526,"washed out, vacuolated-looking nuclei","washed out, vacuolated-looking nuclei: Nuclei appear pale and cleared with finely dispersed chromatin and distinct nucleoli."
+NSCLC,527,cellular pleomorphism,"cellular pleomorphism: Marked variation in cell size and shape, with bizarre nuclei and irregular contours."
+NSCLC,528,mucinous goblet cells,mucinous goblet cells: Columnar cells with large clear cytoplasmic vacuoles displacing the nucleus.
+NSCLC,529,granulomatous rim with activated macrophages,granulomatous rim with activated macrophages: A rim of epithelioid histiocytes with abundant eosinophilic cytoplasm surrounding a necrotic center.
+NSCLC,530,calcification or microlith,calcification or microlith: Irregular basophilic granular deposits of calcium salts within tissue.
+NSCLC,531,chronic active inflammation,"chronic active inflammation: Mixed infiltrate of lymphocytes, plasma cells, and neutrophils within stroma."
+NSCLC,532,lipid-laden macrophage,"lipid-laden macrophage: Macrophages with foamy, vacuolated cytoplasm filled with lipid droplets."
+NSCLC,533,pole of nucleus,"pole of nucleus: One pole of the nucleus contains condensed chromatin, while the other is more open."
+NSCLC,534,respiratory tract mucosa,respiratory tract mucosa: Pseudostratified ciliated columnar epithelium with goblet cells on a basement membrane.
+NSCLC,535,stratified squamous parakeratinized epithelium,stratified squamous parakeratinized epithelium: Layered squamous epithelium with surface cells retaining small pyknotic nuclei and no granular layer.
+NSCLC,536,copd,copd: Enlarged airspaces with destruction of alveolar walls and possible bronchiolar inflammation.
+NSCLC,537,pulmonary tuberculosis,pulmonary tuberculosis: Caseating granulomas with central eosinophilic necrotic debris and surrounding epithelioid histiocytes.
+NSCLC,538,bronchiolectasis,bronchiolectasis: Dilated bronchiole with thinned walls and luminal mucin or inflammatory debris.
+NSCLC,539,memory cells,"memory cells: Small round lymphocytes with dense chromatin, morphologically indistinguishable from naive lymphocytes."
+NSCLC,540,induration and edema,"induration and edema: Firm, expanded alveolar septa with pale eosinophilic edema fluid filling airspaces."
+NSCLC,541,marked basement membrane thickening,marked basement membrane thickening: Prominent hyaline thickening of subepithelial basement membranes surrounding airways or vessels.
+NSCLC,542,pulmonary hematoma,pulmonary hematoma: Localized collection of intact and degenerating red blood cells within lung parenchyma.
+NSCLC,543,central degeneration of collagen and histiocytes,central degeneration of collagen and histiocytes: Nodule with central necrotic eosinophilic debris and surrounding palisading histiocytes.
+NSCLC,544,follicular bronchiolitis,follicular bronchiolitis: Lymphoid follicles with germinal centers adjacent to and compressing bronchioles.
+NSCLC,545,discrepancy between cell appearance and mitotic count,discrepancy between cell appearance and mitotic count: Mildly atypical tumor cells accompanied by numerous mitotic figures.
+NSCLC,546,islands of viable cells,islands of viable cells: Well-circumscribed nests of tumor cells with intact nuclei surrounded by necrotic debris.
+NSCLC,547,histiocytes with oval nucleus and ample pink cytoplasm,histiocytes with oval nucleus and ample pink cytoplasm: Cells with oval bland nuclei and abundant eosinophilic foamy or granular cytoplasm.
+NSCLC,548,fibrotic lung disease,"fibrotic lung disease: Dense collagen deposition replacing alveolar architecture, with scattered entrapped airspaces."
+NSCLC,549,thoracopulmonary region,"thoracopulmonary region: Lung tissue adjacent to skeletal muscle, adipose tissue, and possibly rib or pleura."
+NSCLC,550,intramucosal invasion,intramucosal invasion: Small clusters of malignant cells breaching basement membrane and invading lamina propria.
+NSCLC,551,coexisting squamous cell tumor,coexisting squamous cell tumor: Keratinizing squamous cell carcinoma component intermingled with another distinct tumor morphology.
+NSCLC,552,cytomegaly,"cytomegaly: Giant cells with markedly enlarged, hyperchromatic nuclei and abundant cytoplasm."
+NSCLC,553,microvacuolation,"microvacuolation: Cytoplasm containing numerous tiny clear vacuoles, creating a foamy appearance."
+NSCLC,554,ductular proliferation,ductular proliferation: Small tubules and ductules lined by uniform cuboidal epithelium within a fibrous stroma.
+NSCLC,555,large pleomorphic tumor cells,"large pleomorphic tumor cells: Extremely large tumor cells with bizarre, irregularly shaped, hyperchromatic nuclei."
+NSCLC,556,chronic fibrosis,"chronic fibrosis: Hypocellular, densely eosinophilic collagen bundles disrupting and replacing normal tissue architecture."
+NSCLC,557,keratin pearls seen in keratinizing squamous cell carcinoma,"keratin pearls seen in keratinizing squamous cell carcinoma: Concentric keratin whorls composed of brightly eosinophilic, laminated anucleate squames."
+NSCLC,558,"large, prominent irregular nuclei with focal necrosis","large, prominent irregular nuclei with focal necrosis: Tumor cells exhibiting large angulated nuclei and adjacent areas of ghost-cell necrosis."
+NSCLC,559,non-nucleated cells,"non-nucleated cells: Eosinophilic cornified cells without nuclei, often forming sheets or flakes."
+NSCLC,560,plasmacytic infiltrate,plasmacytic infiltrate: Sheets of plasma cells with eccentric clock-face nuclei and basophilic cytoplasm.
+NSCLC,561,nests with concern for regression,"nests with concern for regression: Tumor nests surrounded by dense lymphoid infiltrate and fibrosis, suggestive of regressive changes."
+NSCLC,562,long fingers or tongues of bluish to pink cells,long fingers or tongues of bluish to pink cells: Infiltrative cords and thin trabeculae of basophilic to eosinophilic tumor cells.
+NSCLC,563,small vessels with open lumina and occasional hematopoietic cell within some of these lumina,small vessels with open lumina and occasional hematopoietic cell within some of these lumina: Small-caliber blood vessels containing sparse erythrocytes and rare nucleated hematopoietic cells.
+NSCLC,564,black discoloration inside macrophages in septate type,black discoloration inside macrophages in septate type: Alveolar macrophages laden with black carbon pigment and containing septate fungal hyphae.
+NSCLC,565,tubule structures,tubule structures: Round to oval tubular profiles lined by a single layer of cuboidal epithelium.
+NSCLC,566,vascular metastasis,"vascular metastasis: Tumor cell clusters within vascular spaces, often attached to vessel wall."
+NSCLC,567,alveolar sac,alveolar sac: Thin-walled air-filled sacs lined by flat type I pneumocytes.
+NSCLC,568,adenocarcinoma fetal type,adenocarcinoma fetal type: Glands lined by glycogen-rich clear cells with subnuclear vacuoles and morule formation.
+NSCLC,569,pulmonary necrosis,pulmonary necrosis: Amorphous eosinophilic area with loss of nuclear detail and preserved alveolar outlines.
+NSCLC,570,basket-weave keratin,basket-weave keratin: Interlacing eosinophilic keratin fibers forming a woven basket pattern.
+NSCLC,571,lung lobes,"lung lobes: Low-power view showing alveolar spaces, bronchioles, and pulmonary vessels within a lung lobe."
+NSCLC,572,interstitial lymphocytic infiltrate,interstitial lymphocytic infiltrate: Small dark blue lymphocytes between alveolar walls without airspace involvement.
+NSCLC,573,asbestosis,asbestosis: Interstitial fibrosis with brown rod-shaped asbestos bodies next to macrophages.
+NSCLC,574,nuclei examination to determine grade 3 characteristics,"nuclei examination to determine grade 3 characteristics: Markedly enlarged, hyperchromatic nuclei with irregular contours and prominent nucleoli."
+NSCLC,575,pulmonary artery branch,pulmonary artery branch: A muscular arterial vessel with a thick media adjacent to bronchioles and alveolar tissue.
+NSCLC,576,cells with apoptotic nuclei,"cells with apoptotic nuclei: Small, round, intensely basophilic nuclei with condensed chromatin fragments."
+NSCLC,577,cuffing in the superficial vessels,cuffing in the superficial vessels: Perivascular concentric layers of lymphocytes surrounding small superficial vessels.
+NSCLC,578,tumor thrombus in a large vessel,tumor thrombus in a large vessel: A solid plug of atypical tumor cells within the lumen of a large vessel.
+NSCLC,579,infectious inflammation,infectious inflammation: Neutrophil-rich infiltrate with karyorrhectic debris and possible organisms.
+NSCLC,580,lymphatic stasis,lymphatic stasis: Dilated lymphatics filled with homogeneous eosinophilic lymph fluid.
+NSCLC,581,non-neuroendocrine,"non-neuroendocrine: Tumor cells lacking salt-and-pepper chromatin, with glandular or squamous differentiation."
+NSCLC,582,tissue invasion,tissue invasion: Irregular nests of tumor cells penetrating beyond basement membrane into stroma.
+NSCLC,583,invasive growth in the subepithelial stroma,invasive growth in the subepithelial stroma: Malignant cell clusters infiltrating fibrous connective tissue beneath the surface epithelium.
+NSCLC,584,diffuse fibrosis,diffuse fibrosis: Alveolar septa diffusely thickened by pale eosinophilic collagen bundles.
+NSCLC,585,proliferative vessels (microvascular proliferation,proliferative vessels (microvascular proliferation: Small-caliber vessels with plump endothelial cells forming glomeruloid tufts.
+NSCLC,586,exophytic papillary lesion,exophytic papillary lesion: Finger-like projections with fibrovascular cores covered by epithelial cells protruding outward.
+NSCLC,587,chronic bronchitis,chronic bronchitis: Thickened bronchial wall with increased goblet cells and submucosal chronic inflammation.
+NSCLC,588,adenomatous nodule,adenomatous nodule: A well-circumscribed cluster of uniform glands lined by bland cuboidal cells.
+NSCLC,589,perivascular hemorrhage,perivascular hemorrhage: Extravasated red blood cells forming a cuff around small vessels.
+NSCLC,590,wedge-shaped growth pattern,wedge-shaped growth pattern: A triangular area of eosinophilic coagulation necrosis with sharp borders.
+NSCLC,591,necrotic lesions,necrotic lesions: Area of amorphous eosinophilic debris with nuclear remnants and loss of architecture.
+NSCLC,592,round nuclei with lighter color,round nuclei with lighter color: Uniform rounded nuclei with finely dispersed chromatin and vesicular appearance.
+NSCLC,593,"squamous eddies, swirls and whirls of bright pink keratin","squamous eddies, swirls and whirls of bright pink keratin: Concentric whorls of brightly eosinophilic keratin surrounded by squamous cells."
+NSCLC,594,histiocytic cell,histiocytic cell: Cells with oval or kidney-shaped nuclei and abundant foamy cytoplasm.
+NSCLC,595,premalignant or fused gland,premalignant or fused gland: Back-to-back glands with reduced stroma and mild nuclear atypia.
+NSCLC,596,intra-alveolar hemorrhage,intra-alveolar hemorrhage: Alveolar spaces filled with fresh red blood cells.
+NSCLC,597,lung with chronic congestion,lung with chronic congestion: Alveolar macrophages laden with brown hemosiderin granules in thickened septa.
+NSCLC,598,reactive fibrosis,reactive fibrosis: Proliferating fibroblasts and young collagen in an inflammatory background.
+NSCLC,599,anaplastic cell,anaplastic cell: Large bizarre cells with pleomorphic hyperchromatic nuclei and prominent nucleoli.
+NSCLC,600,stippling of chronic inflammatory cells,stippling of chronic inflammatory cells: Scattered small dark nuclei of lymphocytes and plasma cells dotting the background.
+NSCLC,601,tumor embolus,"tumor embolus: Clusters of malignant cells within a vessel lumen, often adherent to endothelium."
+NSCLC,602,club-shaped papillary formations,"club-shaped papillary formations: Papillary structures with bulbous, club-like tips lined by tumour cells."
+NSCLC,603,left lobe,"left lobe: Lung tissue showing alveoli and bronchioles, no lobar distinctive features at this magnification."
+NSCLC,604,necrotic changes here,necrotic changes here: Eosinophilic amorphous debris with nuclear dust and loss of cellular detail.
+NSCLC,605,cells are coherent,cells are coherent: Tightly packed cells with well-defined borders forming cohesive sheets.
+NSCLC,606,bronchiolar epithelium,"bronchiolar epithelium: Ciliated columnar cells lining a small airway, often with interspersed goblet cells."
+NSCLC,607,sarcomatous differentiation,"sarcomatous differentiation: Spindle-shaped malignant cells arranged in fascicles, resembling a sarcoma."
+NSCLC,608,prominent collagenous stroma,"prominent collagenous stroma: Abundant pink collagen fibers with sparse cellularity, often hyalinized."
+NSCLC,609,mitotic cell with vacuole,mitotic cell with vacuole: A cell in division with condensed chromosomes and a clear cytoplasmic vacuole.
+NSCLC,610,acantholytic changes,"acantholytic changes: Loss of intercellular cohesion resulting in detached, rounded squamous cells."
+NSCLC,611,acute pneumonia,"acute pneumonia: Alveolar spaces filled with neutrophils, fibrin, and necrotic debris."
+NSCLC,612,epithelial atrophy,epithelial atrophy: Thinning of the epithelial layer with reduced cell layers and flattened cells.
+NSCLC,613,thoracic tumor,thoracic tumor: Malignant cellular proliferation forming glands or sheets within lung or mediastinal tissue.
+NSCLC,614,vascular endothelial cells,"vascular endothelial cells: Flat elongated cells lining blood vessel lumina, with bland oval nuclei."
+NSCLC,615,infiltrating adenocarcinoma glands,"infiltrating adenocarcinoma glands: Irregular, invasive glandular structures disrupting normal lung parenchyma."
+NSCLC,616,constructive bronchiolitis,"constructive bronchiolitis: Bronchioles with concentric fibrosis and luminal narrowing, sometimes obliterated by collagen."
+NSCLC,617,neuroendocrine component,neuroendocrine component: Uniform small cells with salt-and-pepper chromatin in nested or trabecular patterns.
+NSCLC,618,mucinous columnar cell type,mucinous columnar cell type: Tall columnar cells with abundant apical mucin vacuoles and basal nuclei.
+NSCLC,619,disordered architecture,"disordered architecture: Irregular arrangement of glands, cells, or stroma lacking normal organoid structure."
+NSCLC,620,non-small cell lung carcinoma,"non-small cell lung carcinoma: Malignant epithelial tumour forming glands or sheets, with large nuclei and prominent nucleoli."
+NSCLC,621,lymph node with tumor replacement,"lymph node with tumor replacement: Lymph node architecture effaced by metastatic carcinoma cells, often with desmoplasia."
+NSCLC,622,diffused cellular infiltrate,"diffused cellular infiltrate: Loose scatter or diffuse sheet of cells, often inflammatory, throughout the stroma."
+NSCLC,623,region with non-simple squamous epithelium,"region with non-simple squamous epithelium: Stratified squamous epithelium, possibly keratinizing, without underlying glandular structures."
+NSCLC,624,densely eosinophilic area with irregular margin,"densely eosinophilic area with irregular margin: Acellular, deeply pink hyalinized or necrotic region with jagged borders."
+NSCLC,625,undifferentiated epithelioid cells,"undifferentiated epithelioid cells: Large polygonal cells with abundant eosinophilic cytoplasm and vesicular nuclei, lacking differentiation."
+NSCLC,626,mixed lymphoid and histiocytic cells,mixed lymphoid and histiocytic cells: Intermingled small dark lymphocytes and larger pale histiocytes in a cell mixture.
+NSCLC,627,pulmonary lobule,"pulmonary lobule: A small unit of lung tissue defined by interlobular septa, containing a bronchiole and its acini."
+NSCLC,628,acute purulent inflammation,"acute purulent inflammation: Dense infiltration of neutrophils with pus formation, often in alveolar spaces or tissue."
+NSCLC,629,pulmonary vessels,"pulmonary vessels: Arteries and veins within lung, with muscular walls for arteries, thin walls for veins, containing red blood cells."
+NSCLC,630,pashy kind of stromal change,"pashy kind of stromal change: Pale, edematous or myxoid stroma with loosely arranged spindle cells and faintly basophilic matrix."
+NSCLC,631,primary squamous cell carcinoma,"primary squamous cell carcinoma: Nests of polygonal cells with dense eosinophilic cytoplasm, intercellular bridges, and keratin pearls."
+NSCLC,632,multiple pulmonary lesions,multiple pulmonary lesions: Two or more separate tumor nodules of similar morphology within lung parenchyma.
+NSCLC,633,neoplastic large lp cells,neoplastic large lp cells: Large lymphoid cells with prominent nucleoli and scant cytoplasm infiltrating the tissue.
+NSCLC,634,background dendritic cell network,"background dendritic cell network: Fine, branching cytoplasmic processes of dendritic cells interspersed among lymphocytes."
+NSCLC,635,agranulocyte,"agranulocyte: Round cells with a single, non-segmented nucleus and sparse, non-granular cytoplasm."
+NSCLC,636,blood-filled structure accompanying an airway structure,blood-filled structure accompanying an airway structure: A vein or capillary filled with red blood cells running adjacent to a bronchial wall.
+NSCLC,637,compound gland with branching duct,compound gland with branching duct: A gland showing multiple acini connected to a branching duct lined by cuboidal epithelium.
+NSCLC,638,intravasation,intravasation: Small clusters of tumor cells within the lumen of a blood vessel.
+NSCLC,639,twisted blood vessels,"twisted blood vessels: Tortuous, coiled vascular channels with variably thick walls."
+NSCLC,640,gland distortion,"gland distortion: Irregularly shaped, angulated glands with uneven epithelial lining."
+NSCLC,641,verrucous proliferation,verrucous proliferation: Papillary surface growth with hyperkeratosis and broad pushing rete ridges.
+NSCLC,642,microcystic growth pattern,microcystic growth pattern: Numerous small cystic spaces lined by flattened or cuboidal cells.
+NSCLC,643,larger cells with granules and eosinophilic inclusions,larger cells with granules and eosinophilic inclusions: Enlarged cells containing coarse cytoplasmic granules and dense eosinophilic bodies.
+NSCLC,644,central nodule in the lung hilum,central nodule in the lung hilum: A well-circumscribed mass located near the main bronchus and pulmonary vessels.
+NSCLC,645,pulmonary thoracic lymph nodes,"pulmonary thoracic lymph nodes: Oval lymphoid aggregates with a capsule, subcapsular sinus, and lymphoid follicles."
+NSCLC,646,cytotoxic cells with abundant cytoplasm,cytotoxic cells with abundant cytoplasm: Large lymphocytes with plentiful pale cytoplasm and scattered azurophilic granules.
+NSCLC,647,nonkeratinizing stratified squamous epithelium,"nonkeratinizing stratified squamous epithelium: Layers of polygonal cells without surface keratin, basal cells orderly."
+NSCLC,648,keratinizing dysplasia,"keratinizing dysplasia: Atypical squamous cells with cytoplasmic keratinization and nuclear pleomorphism, not full-thickness."
+NSCLC,649,microvessels,"microvessels: Small-caliber blood vessels like arterioles, capillaries, or venules."
+NSCLC,650,small area where you can see some normal uninvolved lung parenchyma,small area where you can see some normal uninvolved lung parenchyma: Thin alveolar septa and empty airspaces adjacent to tumor.
+NSCLC,651,basal squamous cell carcinoma,basal squamous cell carcinoma: Nests of basaloid cells with peripheral palisading and minimal cytoplasm.
+NSCLC,652,mitotic score,mitotic score: Count of cells with condensed chromosomes in a defined high-power field.
+NSCLC,653,continuous capillaries,continuous capillaries: Non-fenestrated endothelial tubes with tight junctions.
+NSCLC,654,hemorrhagic congestion,hemorrhagic congestion: Dilated vessels packed with red blood cells and interstitial extravasation.
+NSCLC,655,fibrous infiltrate,fibrous infiltrate: Bands of collagenous tissue dissecting into surrounding structures.
+NSCLC,656,non-encapsulated tumor,"non-encapsulated tumor: Infiltrative growth without a fibrous capsule, merging with adjacent parenchyma."
+NSCLC,657,malignant nodule,"malignant nodule: A discrete, invasive cellular mass with cytologic atypia."
+NSCLC,658,fibrous connective,fibrous connective: Pink collagen bundles with interspersed fibroblasts.
+NSCLC,659,lobar bronchus,"lobar bronchus: A large airway with cartilage plates, smooth muscle, and respiratory epithelium."
+NSCLC,660,pulmonary granuloma,"pulmonary granuloma: A compact aggregate of epithelioid histiocytes, often with multinucleated giant cells, surrounded by lymphocytes."
+NSCLC,661,traction bronchiectasis,"traction bronchiectasis: Dilated bronchioles with irregular, thickened walls pulled open by surrounding fibrotic lung tissue."
+NSCLC,662,paraseptal emphysema,"paraseptal emphysema: Enlarged airspaces along the pleura, with thin septa and intact alveolar walls in the central lobule."
+NSCLC,663,liquefactive degeneration,"liquefactive degeneration: Necrotic area with loss of cell structure, appearing as a fluid-filled space containing cellular debris and inflammatory cells."
+NSCLC,664,microphage,"microphage: Small round cells with granular cytoplasm, often within alveoli, containing phagocytosed material."
+NSCLC,665,squamous mucosa with atypical metaplasia or dysplasia,"squamous mucosa with atypical metaplasia or dysplasia: Stratified squamous epithelium with nuclear enlargement, hyperchromasia, and loss of orderly maturation."
+NSCLC,666,b cells transforming into plasma cells,"b cells transforming into plasma cells: Lymphoid aggregate containing large cells with eccentric nuclei and perinuclear hof, developing into plasma cells."
+NSCLC,667,chronic inflammatory response,"chronic inflammatory response: Infiltration of lymphocytes, plasma cells, and macrophages, often with fibrosis."
+NSCLC,668,adenocarcinoma with a lepidic growth pattern,adenocarcinoma with a lepidic growth pattern: Tumor cells spreading along pre-existing alveolar walls without destroying the architecture.
+NSCLC,669,tumor buds,"tumor buds: Small clusters of tumor cells at the invasive front, detached from the main tumor mass."
+NSCLC,670,simple gland,"simple gland: A round or tubular epithelial structure with a central lumen, lined by a single layer of cells."
+NSCLC,671,primary mucinous adenocarcinoma,primary mucinous adenocarcinoma: Abundant extracellular mucin pools containing floating tumor cells with signet-ring morphology.
+NSCLC,672,primary lung cancers,primary lung cancers: A malignant tumor nodule with glandular or squamous differentiation invading lung parenchyma.
+NSCLC,673,cd4 cells,"cd4 cells: Small lymphocytes with round dark nuclei and scant cytoplasm, indistinguishable from other T-cells on H&E."
+NSCLC,674,remodeled airway with no alveoli present and collagen/fibrosis around them,"remodeled airway with no alveoli present and collagen/fibrosis around them: A distorted bronchiole surrounded by dense eosinophilic collagenous stroma, lacking adjacent alveolar spaces."
+NSCLC,675,obstructive pneumonia or atelectasis leading to lung collapse,"obstructive pneumonia or atelectasis leading to lung collapse: Alveolar spaces collapsed with crowded septa, foamy macrophages, and mucus plugs."
+NSCLC,676,bronchial region,"bronchial region: A large airway with cartilage plates, respiratory epithelium, and smooth muscle bundles."
+NSCLC,677,bronchus-associated lymphoid tissue,"bronchus-associated lymphoid tissue: Submucosal aggregate of lymphocytes, often with a germinal center, adjacent to a bronchus."
+NSCLC,678,mucoid degeneration,"mucoid degeneration: Amorphous basophilic mucinous material replacing stroma, with stellate fibroblasts."
+NSCLC,679,basal lamina collagen,"basal lamina collagen: Thin eosinophilic band beneath epithelial cells, often thickened in fibrosis."
+NSCLC,680,tumor-associated macrophages,tumor-associated macrophages: Large cells with abundant foamy or granular cytoplasm amidst tumor cells.
+NSCLC,681,small adenocarcinoma areas,small adenocarcinoma areas: Tiny glands or clusters of malignant cells with atypical nuclei infiltrating lung parenchyma.
+NSCLC,682,morphologic findings,morphologic findings: The overall appearance of cells and tissue structures under the microscope.
+NSCLC,683,intramucosal,"intramucosal: Crowded atypical epithelial cells confined within the mucosa, above the basement membrane."
+NSCLC,684,spindle-shaped cells with atypical nuclei and vesicular growth pattern,"spindle-shaped cells with atypical nuclei and vesicular growth pattern: Elongated cells with pleomorphic nuclei and bubbly cytoplasmic vacuoles, often in sarcomatoid tumors."
+NSCLC,685,air sac,"air sac: Thin-walled alveolar spaces lined by flat pneumocytes, filled with air or fluid."
+NSCLC,686,darkly stained circular nucleus,"darkly stained circular nucleus: Small round hyperchromatic nucleus, often of a lymphocyte or small cell carcinoma cell."
+NSCLC,687,myxoid transformation,myxoid transformation: Abundant pale basophilic myxoid matrix with sparse spindle or stellate cells.
