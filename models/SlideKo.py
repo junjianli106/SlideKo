@@ -141,6 +141,24 @@ class Adapter(nn.Module):
         return x
 
 
+class AttentionPooling(nn.Module):
+    """Pool class-query vectors (..., N_cls, d) into (..., d)."""
+
+    def __init__(self, feature_dim, hidden_dim=None):
+        super().__init__()
+        hidden_dim = hidden_dim if hidden_dim is not None else feature_dim // 4
+        self.score = nn.Sequential(
+            nn.Linear(feature_dim, hidden_dim),
+            nn.Tanh(),
+            nn.Linear(hidden_dim, 1, bias=False),
+        )
+
+    def forward(self, features):
+        # Normalize over class queries, not the feature or batch dimension.
+        weights = torch.softmax(self.score(features), dim=-2)
+        return (weights * features).sum(dim=-2)
+
+
 class ClusterHead(nn.Module):
     def __init__(self, in_dim=768, num_clusters=10):
         super().__init__()
@@ -224,7 +242,13 @@ class SlideKo(nn.Module):
             batch_first=True,
         )
 
-        self.classifier = nn.Linear(self.feature_dim, n_classes)
+        self.visual_pool = AttentionPooling(self.feature_dim)
+        self.knowledge_pool = AttentionPooling(self.feature_dim)
+        self.classifier = nn.Sequential(
+            nn.Linear(self.feature_dim, self.feature_dim),
+            nn.ReLU(),
+            nn.Linear(self.feature_dim, n_classes),
+        )
 
         self.sc_loss_weight = float(sc_loss_weight)
         self.ngsc_neighbors = int(ngsc_neighbors)
@@ -304,7 +328,9 @@ class SlideKo(nn.Module):
             p_text_features,
             p_text_features,
         )
-        fused_features = visual_attended.mean(1) + knowledge_attended.mean(1)
+        visual_pooled = self.visual_pool(visual_attended)
+        knowledge_pooled = self.knowledge_pool(knowledge_attended)
+        fused_features = visual_pooled + knowledge_pooled
         logits = self.classifier(fused_features)
 
         Y_prob = F.softmax(logits, dim=1)
